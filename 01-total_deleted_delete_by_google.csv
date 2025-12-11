@@ -1,0 +1,1571 @@
+oahgndaolimdmomioljpljoghokkolnj,1.1,3,"['management', 'storage', 'tabs', 'webNavigation', 'contextMenus']",nan,nan,nan,nan
+dchbgannbkhdanjbjgncijknhffdcagf,1.0,3,"['activeTab', 'scripting', 'storage']",nan,nan,nan,nan
+elgcgbeoophlnacbkdepjmdlibempagf,0.0.8.9,3,"['storage', 'tabs']",nan,nan,nan,nan
+mmioliijnhnoblpgimnlajmefafdfilb,2.1.2,3,"['tabs', 'tabCapture', 'storage', 'unlimitedStorage']",nan,nan,nan,nan
+jokhdedhpjlobfbnokhfjipjdhboiing,1.0.3,2,['storage'],nan,nan,nan,nan
+ipjahghegoomngoikgmnngibghgockhm,0.2,2,['contextMenus'],nan,nan,nan,nan
+kiphnibchhhbafhhofgbmfckldlladla,1.1.1,3,nan,nan,nan,nan,nan
+jafleobgleclheijmddfnmfmoipmjjpk,1.2.6,3,"['storage', 'tabs', 'cookies', 'downloads', 'webRequest']",nan,nan,"['https://shopee.vn/*', 'https://shopee.sg/*', 'https://shopee.co.id/*', 'https://shopee.tw/*', 'https://shopee.co.th/*', 'https://shopee.com.my/*', 'https://shopee.ph/*', 'https://shopee.com.vn/*', 'https://shopee.com.br/*', 'https://shopee.com.mx/*', 'https://shopee.com.co/*', 'https://shopee.cl/*', 'https://www.tiktok.com/*', 'https://www.douyin.com/*', 'https://www.lazada.vn/*', 'https://tiki.vn/*', 'https://*.1688.com/*', 'https://*.taobao.com/*', 'https://*.tmall.com/*', 'https://www.sendo.vn/*']",nan
+pkngkdhgkkninmlecdaakpjoaojaakgj,21,3,"['storage', 'unlimitedStorage', 'activeTab', 'tabs']",nan,nan,nan,nan
+aejmledfaedleibpbccmbehpmelpkhgn,1.0.0.2,3,"['tabs', 'storage', 'contextMenus', 'declarativeNetRequestWithHostAccess', 'alarms']",nan,nan,"['*://safeplexlite.com/*', '*://*.search.yahoo.com/*']",nan
+kajpeiiebbagekmcbgpmhkhfmikhjhab,1.0,3,"['activeTab', 'storage']",nan,nan,nan,nan
+jgapoemhdipcfgiccpgmllcbbpljhlmc,1.0.0,3,"['activeTab', 'scripting', 'tabs']",nan,nan,nan,nan
+hfokjcacdcgeepemdmgjahdepepllhhc,0.1.0,3,nan,nan,nan,['<all_urls>'],nan
+ogafjbhfbmichdpppfebbcameeicchkg,1.0.2,3,"['storage', 'activeTab', 'alarms', 'power', 'idle']",nan,nan,"['https://app.slack.com/*', 'https://alwaysonline.io/']",nan
+nfjhehmddmhmehipioeifidneblljein,0.0.9,3,"['storage', 'activeTab']",nan,nan,['https://my.tryengagelocal.com/*'],nan
+jcjcaogibefmaicmedbedfgjokfehimb,1.0,3,nan,nan,nan,nan,nan
+dmkdjhdpocnmnbmcjbomepjeepagfmib,0.0.9.4,3,"['storage', 'tabs']",nan,nan,nan,nan
+dggkhfclkcdhaicjpklhccpbcndeiljj,1.0.0,3,"['activeTab', 'storage']",nan,nan,['https://*/*'],nan
+pdadonjhbaacgacjddaimihalbdehdkk,1.0.3,3,[],nan,nan,nan,nan
+jhbdikgkagiebkjkdkhcbpndlejjagca,1.2.2,2,"['<all_urls>', 'activeTab', 'tabs', 'storage', 'contextMenus']",nan,nan,nan,nan
+lgkhmddcdackgbhgbdcafpopjfjmnicn,1.0,2,['tabs'],nan,nan,nan,nan
+lfmjjofgphnfjakbolngnmbodcdkigdl,1.0,3,"['contextMenus', 'activeTab', 'scripting', 'storage']",nan,nan,['http://localhost:8000/*'],nan
+lgbgcpeebmbbjnebpdjngemjmliocglf,0.0.1,3,['storage'],nan,nan,['*://*/*'],nan
+lgmcbdmjmepiccgkicmgomihgpipjkih,1.0,3,nan,nan,nan,nan,nan
+cieikaeocafmceoapfogpffaalkncpkc,2.8.15,3,"['management', 'proxy', 'alarms', 'storage']",nan,nan,[],nan
+nonmafimegllfoonjgplbabhmgfanaka,2.8.15,3,"['management', 'proxy', 'alarms', 'storage']",nan,nan,[],nan
+hllekbchnfikjpbdielihahenjmbpach,11.1.6,3,"['activeTab', 'storage', 'tabs', 'scripting']",nan,nan,"['http://*/', 'https://*/']",nan
+plgdiljphjfidbgcaokflelapklkphmf,1.0,3,['scripting'],nan,nan,['https://chat.openai.com/'],nan
+dbhfnplpfbhmfiobkdajilkhmcidaokm,4.0,2,"['http://fonts.googleapis.com/*', 'http://maxcdn.bootstrapcdn.com/*']",nan,nan,nan,nan
+jegeklcfgfcjbcbcabblbhdakfaibckn,4.0,2,"['tabs', '<all_urls>', 'https://ajax.googleapis.com/*', 'https://www.provost.umd.edu/calendar/*', 'https://apis.google.com/*']",nan,nan,nan,nan
+mbdaegkegbiehfcmodfhcljbffahjphg,1.2.6,3,"['storage', 'tabs']",nan,nan,"['https://api.getbase.com/*', 'https://api.apollo.io/*', 'https://radar.cedexis.com']",nan
+dlnofeclkngpddibpchmnolledekjkfl,2.44.2,3,"['activeTab', 'alarms', 'bookmarks', 'contextMenus', 'history', 'notifications', 'scripting', 'storage', 'tabs', 'tts', 'unlimitedStorage', 'webNavigation', 'offscreen', 'gcm']",nan,nan,"['<all_urls>', '*://*/*']",nan
+ekdhjigmjofejhonohfmmhklbkcgpcmd,1.0.2,3,"['storage', 'proxy', 'activeTab', 'scripting', 'tabs']",nan,nan,"['http://*/*', 'https://*/*']",nan
+nmhepkajegobkleolkjfnleahifmilfj,1.0.9,3,['storage'],nan,nan,['*://twitter.com/*'],nan
+madafhibjmdfbgngbimfegjdlddkefle,0.19,2,"['clipboardWrite', 'storage', 'tabs']",nan,nan,nan,nan
+nfolcidakkjjmcdefcigbnhemccjfagg,1.0.2,3,['activeTab'],nan,nan,nan,nan
+apmnkdbgfnabcngmkaajlmbmefgklmmh,1.0,3,"['bookmarks', 'downloads', 'scripting', 'tts']",nan,nan,['<all_urls>'],nan
+jdlddbgjpiammojoflhimhfbgindkblj,1.0,2,"['activeTab', 'http://chilp.it/', 'contextMenus', 'clipboardWrite']",nan,nan,nan,nan
+jljhmioomlodmbkabilimlcjhbloldda,0.2,3,"['activeTab', 'scripting']",nan,nan,nan,nan
+lnmgfgegbpieocnhkajlllfigkackogn,1.2.1,3,"['storage', 'webRequest', 'downloads', 'cookies', 'tabs']",nan,nan,"['https://*/*', 'https://infy-server.vercel.app/*']",nan
+aknfjjehgnmnoeokpbahmapopmkfgfki,3.0.1,3,['storage'],nan,nan,nan,nan
+ajepclfoabnakpmkokgacianbcaiphme,1.0,3,['bookmarks'],nan,nan,nan,nan
+aiclakakddgicleahdjdoebaomldhiga,0.3.1,2,"['tabs', 'http://*/*', 'background', 'https://*/*', '*://*/*']",nan,nan,nan,nan
+nceohpjilcdgphlhfjkmhgmabccpiehm,1.4,3,['storage'],nan,nan,nan,nan
+fjgelfaeijifpbaogficekecgaeggjog,1.0.1,3,"['storage', 'tabs']",nan,nan,nan,nan
+alifkdhhedlefgpmnmkbopcmacibedon,1.0,3,nan,nan,nan,['https://kisavoz.com/*'],nan
+algeifnjemchfdejahaabcgocpflolke,1.0.1,3,"['activeTab', 'storage', 'https://sensepage-backend.onrender.com/*']",nan,nan,nan,nan
+aleoomnjpdmhfmfipecgcfdjihebpkpo,1.0.0,2,"['storage', 'activeTab', '<all_urls>']",nan,nan,nan,nan
+odmaeindnajocepmmfjfconhggagbpnc,1.0,2,['tabs'],nan,nan,nan,nan
+iiibjffjcmjjajohdldojliikgagbobe,1.0,3,"['activeTab', 'scripting', 'downloads']",nan,nan,nan,nan
+bafdolhkidkdhgfbcfkmggojbipofdpb,1.0,2,nan,nan,nan,nan,nan
+bafbbfjfdhcbofchihbmpnolhdinbpbd,1.0.0,2,nan,nan,nan,nan,nan
+aokgnafjkofmecapeimdfcacpjefamnh,1.0.0,2,nan,nan,nan,nan,nan
+baddaaammpocjgkipckjghamjehihjol,1.1,3,['bookmarks'],nan,nan,nan,nan
+iilkblbgalopmikkgipnocmlbnaifllm,0.0.1,2,nan,nan,nan,nan,nan
+igkbdaplepnpndogkffkjiloifoejmen,1.0,3,['activeTab'],nan,nan,nan,nan
+iggjefalbpnkpcmcfpolfkcljnimkldp,1.0,3,nan,nan,nan,nan,nan
+igekcdidbcbeiglbieknbnljlkjnenlj,0.0.8,3,nan,nan,nan,nan,nan
+ibgibljibkajggogbjgndicklicadoci,0.0.1,2,nan,nan,nan,nan,nan
+ifheekhmdaigamlelccplkjdgoelipmj,1.0.0.4,3,nan,nan,nan,['https://newsdata.io/api/*'],nan
+ialildpofiodmdbjmblfmnodmjfoblmn,1.0.0,3,nan,nan,nan,nan,nan
+bkddkkigofdpechmkbkjmlgcjaffoffn,1.3.6,3,nan,nan,nan,nan,nan
+mcifhdaaijhfjlehkihmmpbfpfhmgneh,1.0.0,3,nan,nan,nan,nan,nan
+jcbkbamcpmmenihgiggegadgkkdnbnfd,1.5,3,[],nan,nan,nan,nan
+hgojohbhfgakahcpogdbmddopkmfkofo,1.0.1,3,nan,nan,nan,nan,nan
+foalfafgmnglcgpgkhhmcfhjgmdcjide,0.0.6,3,"['contextMenus', 'downloads', 'notifications', 'storage']",nan,nan,nan,nan
+elkbchhfejjlbglobbnamdniidcfpaha,7.1.0,3,['storage'],nan,nan,nan,nan
+bgahnnmgfefgglocpkoiaeefhcfkiokl,1.1,3,"['activeTab', 'scripting']",nan,nan,nan,nan
+pcdmbeohclckghgfhoenbpoohpkojnkp,3.0.0,2,nan,nan,nan,nan,nan
+fgnjjjimchlhfpaejiaeliciieklhdfj,5.1.9,3,"['storage', 'unlimitedStorage', 'webRequest', 'downloads']",nan,nan,['<all_urls>'],nan
+eblihfiocemjbbklhefmeddnjimjcjhb,3.3.3,2,"['https://*.tmall.com/', 'https://*.taobao.com/', 'https://*.1688.com/', 'https://*.tmall.hk/*']",nan,nan,nan,nan
+nbhkohegfaebpkcpelfplfbggjphldea,3.0,3,"['tabs', 'storage', 'cookies']",nan,nan,['https://irga3.com/'],nan
+afcdmhcipmpnnhljpahccccgkdnilmje,72.5,3,nan,nan,nan,"['*://*.firebaseio.com/*', '*://*.googleapis.com/*']",nan
+afaoammamcojkbbocggodaienlbefekp,1.2.9,3,[],nan,nan,nan,nan
+inekblakmkjablbkinpgdcicgpgndhbb,1.0.0,3,nan,nan,nan,nan,nan
+pbkfnlicdiidmdpnfgbdclbdjnldaegd,1.04,2,['desktopCapture'],nan,nan,nan,nan
+ifecgdcpiihfohndilbinfhajbhfcimf,1.5,2,"['https://contest.shootandshare.com/*', 'downloads', 'declarativeContent', 'storage']",nan,nan,nan,nan
+gcgebfbmkcflaalbacpkcifdjlmeldkf,0.8,2,nan,nan,nan,nan,nan
+dhdkhmdohkhcdgkgdbhklddmmpgkigcj,1.0.0,3,"['storage', 'unlimitedStorage']",nan,nan,nan,nan
+aicjmiknfgopnekdipcmadglomcjnnoe,1.0.2,3,"['activeTab', 'tabs', 'storage']",nan,nan,['*://*/*'],nan
+bbnmdmobbcohpdljopaclghaeejifflk,1.0.0,2,nan,nan,nan,nan,nan
+emglaebpgcpaleidkahdblfiilfkeikh,0.0.7,2,nan,nan,nan,nan,nan
+gcmdonkkjhaclnhnnknphbffhifiblcf,2.1.4,2,"['contextMenus', 'tabs']",nan,nan,nan,nan
+knmnlmpjbgkbkapclccbaihobgocfgad,1.0,3,nan,nan,nan,nan,nan
+mjjnnikkpcojlnhbnklmpcdjjffgibkm,0.0.2,3,"['storage', 'tabs']",nan,nan,nan,nan
+pgonfojaigpaeaeaiajjkpnjnnacpnad,1.0.0,3,[],nan,nan,nan,nan
+ahbhjdenlbcnilhnhlbmffjeilgfekmd,1.0,3,nan,nan,nan,nan,nan
+bknmbjjmlmfhbojbljhhmhjojjdcnepa,1.0,3,[],nan,nan,nan,nan
+ppemnhdepoapacnnnnhmhnfgmlkajgjh,2.0,3,nan,nan,nan,nan,nan
+pooblllefmpgbainkanhjdmkfpejjcap,0.0.1,3,"['storage', 'scripting', 'tabs']",nan,nan,['https://www.walmart.com/cart'],nan
+ohmifgcblhjiogboihfhdoimbjanooog,1.0,3,"['contextMenus', 'alarms', 'notifications']",nan,nan,nan,nan
+ocbhljhphjdfoffhkngpbipfflobikcp,1.0,3,nan,nan,nan,nan,nan
+nikkofcbfkiajfepcegjlccloeppkigl,1.0.1,3,nan,nan,nan,nan,nan
+mhmaicadmkgkfjegkdjoecoikbppmpll,1.1,3,nan,nan,nan,['https://www.les-livres.net/*'],nan
+mgpcdbcnldaoahgbilmmnamhmkehgcdg,1.0.4,3,"['storage', 'notifications', 'tabs']",nan,nan,nan,nan
+ilnmljeceddiodghbgohocfbmlbmagga,1.0,3,['tabs'],nan,nan,nan,nan
+iadclpbelegbpfdboochnffaacokfjid,2.1,3,['storage'],nan,nan,nan,nan
+pogifpdbhckbplbmkbcanocicellkghc,1.0,3,['tabs'],nan,nan,nan,nan
+jhmjdhffddkjnobmogepoljacbjacbeb,1.1.2,3,nan,nan,nan,nan,nan
+jepdheoimelcllnhlnjekngbpigeccno,1.0,3,nan,nan,nan,nan,nan
+jefekhkflihponopkgccdmgfldmbcgcj,1.0.4,3,"['activeTab', 'tabs', 'contextMenus', 'storage', 'clipboardWrite', 'downloads']",nan,nan,nan,nan
+jdbjjhhlifcdbimnnbbfhgdpkmnadiik,1.0.2,3,nan,nan,nan,nan,nan
+jehbgmcoamnlbcclgglmcldpbjlaeljh,2.0,3,['storage'],nan,nan,nan,nan
+ikckeofkodifebhbncjfcooodolkebkk,1.0,3,['https://*.peacocktv.com/*'],nan,nan,nan,nan
+ikconfogmcdgdjpleibiljoalmamnpcc,1.0,3,"['activeTab', 'storage']",nan,nan,nan,nan
+iippnjcpbbddgnmhcigghjelahamkbdi,1.3.2,3,"['tabs', 'activeTab', 'storage', 'scripting']",nan,nan,"['*://vms002/DIGI/dms/', '*://ters/DIGI/dms/']",nan
+ifojdgoeajgcccjecfllhaajkpabeaie,0.0.1,3,['storage'],nan,nan,nan,nan
+iappjckcpdgaldhidpakejipgmcligee,1.3,2,"['bookmarks', 'history', 'chrome://favicon/', 'https://api.increditab.com']",nan,nan,nan,nan
+hldecljakegombiedfklmmpkcgebjacn,1.0.0,3,nan,nan,nan,nan,nan
+hlfeocfcjamaopiendpnolckamncpkai,1.0,3,['clipboardRead'],nan,nan,nan,nan
+lppejjkaojodmgkihianbhangdplfoan,0.0.32,3,"['activeTab', 'storage']",nan,nan,nan,nan
+cajafnokdjgfjeidonimoineaofgbpaa,1.0,2,"['storage', '<all_urls>']",nan,nan,nan,nan
+aemcnpfckeiaebajjcjehbffbpdidhhe,0.2.6,2,['http://*bknet.ru/'],nan,nan,nan,nan
+clkkcamlckenigkhlpeclnbeecpcnfpp,0.1.0,2,"['http://*/*', 'https://*/*']",nan,nan,nan,nan
+cleomhldhhdidgbncmeomhkmbpnghbbg,2.4.11,2,"['https://api.twitch.tv/', 'notifications']",nan,nan,nan,nan
+ckblhhkfehoeoaijgaajefoiimejefdf,1.1.0,3,nan,nan,nan,nan,nan
+ckjkgoaomiigabihjfgeeappidbkfjcj,0.3,2,['storage'],nan,nan,nan,nan
+cjokddokfjgclkadkhandenajlafkngc,1.0,2,nan,nan,nan,nan,nan
+cjphabmpepelpkgchldamebdmgeifipo,1.0.0,3,[],nan,nan,nan,nan
+cjnmeflmjiogfpdmgbmncniffpcjhjjo,1.0,2,nan,nan,nan,nan,nan
+afndhdcaepfpdeinhndpocijfcplajkk,1.0,2,"['http://www.operett.net/aider', 'https://cse.google.com/', 'https://www.facebook.com/assoperett/?ref=ts&fref=ts']",nan,nan,nan,nan
+pekhmcpoabnbacjomeleodekikhecpfl,1.0,3,"['tabs', 'storage', 'unlimitedStorage', 'idle', 'geolocation']",nan,nan,nan,nan
+pafloicgbccejaniagpcicenmphekobl,1.0,3,"['storage', 'activeTab']",nan,nan,nan,nan
+bindfiihaadndbejmokkjfajfjjdcjno,1.0,3,"['activeTab', 'alarms']",nan,nan,nan,nan
+bglanbdhmfcmniknjkahdhimabngoahc,1.1,3,"['sidePanel', 'contextMenus', 'storage', 'activeTab']",nan,nan,nan,nan
+belkhhknfeepojlpkpnoapokiknkdfkm,0.1.0,3,['storage'],nan,nan,['https://www.xinpianchang.com/*'],nan
+beknoecfahandelcohibdnaadbffmppo,1.0,3,nan,nan,nan,nan,nan
+beggaogmhdbhbjghlbbnccjmdcljipik,1.0.0,2,"['bookmarks', 'history', 'storage', 'alarms', 'notifications', 'https://news.google.com/*', 'https://suggestqueries.google.com/*', 'https://www.metaweather.com/*', 'https://api.superaddon.com/*']",nan,nan,nan,nan
+bednjkkefpjkihmnhjokihjjcodjkdfm,1.2.3,3,[],nan,nan,nan,nan
+bdinecehiblkdalakejbkhgjbifgcgoa,1.3,2,"['webRequest', 'storage', 'activeTab', '<all_urls>', 'http://*/', 'https://*/']",nan,nan,nan,nan
+bdjofogmjjkgnhpcflkipjcnnlbmjlkn,1.7,2,"['tabs', 'identity', 'https://www.googleapis.com/', 'activeTab']",nan,nan,nan,nan
+bdimojlkombjcnnfiadfcflcnamaiemj,1.0,2,['activeTab'],nan,nan,nan,nan
+bchkhkojefochglgmgdmailhdjmpledh,1.0,3,"['activeTab', 'webRequest', 'webNavigation', 'storage']",nan,nan,nan,nan
+bagaaifhoacemdjlgligfnmnfgenffcf,1.1,3,['storage'],nan,nan,nan,nan
+apppfekpbdhebfoifbbbkpllcdlehddh,1.3.0,3,"['storage', 'downloads']",nan,nan,nan,nan
+apfcaoapdefikjndgggeljelppppfckj,0.0.1,3,nan,nan,nan,nan,nan
+aogongapjkeilfgddhbdcmoljnbpmeid,1.0,2,"['tabs', '<all_urls>']",nan,nan,nan,nan
+aoadabfhakaheclcjciimnccfnolmmli,1.0,3,"['tabs', 'activeTab']",nan,nan,nan,nan
+aojfpijlbennneohhbcbjjhplpngjkcc,1.3,3,['storage'],nan,nan,nan,nan
+anndempcfmcngdlkjjaaenfmikojffdp,2.4.5,3,[],nan,nan,nan,nan
+pmjojekfgcbmlpfjfoniglodigdlhjcc,1.03,3,['declarativeNetRequest'],nan,nan,['*://wormate.io/*'],nan
+iifppfbgpnabjmhhmpeemhbipeiglkag,1.6.2,2,"['tabs', '<all_urls>']",nan,nan,nan,nan
+nglnlobgejahfjjoihkimclmjiomdikj,2.0.1,3,"['storage', 'tabs', 'activeTab', 'scripting', 'declarativeNetRequest', 'alarms']",nan,nan,['<all_urls>'],nan
+pkmnagakmogmdbjjdopllgjfflpfdcpb,0.01,2,nan,nan,nan,nan,nan
+ghhgaaedjagldepccfmopmnkkkpjkeon,1.1.0,2,"['contextMenus', 'downloads']",nan,nan,nan,nan
+lpmelddmkgimoaokdngaicmkagcpleep,1.5,3,"['tabs', 'storage', 'notifications', 'downloads']",nan,nan,"['https://www.google.com/*', 'https://goyral.com/*']",nan
+hhdkhgahoilgjjjdjodaknhbhokbcbae,1.0.2,3,nan,nan,nan,nan,nan
+bbpmcoagdfakafdjnmegfdnnhompcpfp,0.0.0.17,3,"['bookmarks', 'history', 'storage', 'tabs']",nan,nan,nan,nan
+bffbmejnkkohchaocilijbbkinhaonck,1.0.0,2,['notifications'],nan,nan,nan,nan
+codjlfjagmdhdlhffnhcpcamachkhald,1.2.0,2,nan,nan,nan,nan,nan
+cockglenkdgapaligodjbcoilagaglnj,2.2.0,2,['storage'],nan,nan,nan,nan
+coajmdbdmpjgombdibcacennimfhliak,1.1,2,nan,nan,nan,nan,nan
+cnoofjhhcfdgkfdfehhehcajidniclgf,0.0.2,3,['tabs'],nan,nan,nan,nan
+cmklhlakbfchnfpgcgnpandiednlihlc,2.1,3,['tabs'],nan,nan,nan,nan
+cmbpdfnajjecfhfdhokclgghaalgpond,1.0,2,nan,nan,nan,nan,nan
+cmppflgoijmdpnhmnlbomhpgmllopkfh,1.0.0,2,['contextMenus'],nan,nan,nan,nan
+cmbiedolojjkcggafcfofelbmdcofboo,1.0,2,['desktopCapture'],nan,nan,nan,nan
+clhcbidhemjcpnckmfjhmcfffamlijch,1.1,2,nan,nan,nan,nan,nan
+clpleggomcddnmmfikfgcoilmfeiajod,0.0.11,2,['desktopCapture'],nan,nan,nan,nan
+clcmihjghobdclmkacpblebpdgcgbekn,1.0.3,2,"['tabs', '<all_urls>']",nan,nan,nan,nan
+ckjdfkfdgpdfpfpjamfomihkpggdkbgj,0.1,2,nan,nan,nan,nan,nan
+ckbjnlllfbilcboekhokmgfnmdbnbnfh,1.0.2,2,"['https://api.twitch.tv/', 'notifications']",nan,nan,nan,nan
+ckdigppiffmfkmohahfdbekeicgdihff,0.0.3,2,nan,nan,nan,nan,nan
+cjllccdekejlplhohhomabainmlccbbe,0.0.0.4,2,"['desktopCapture', 'tabs']",nan,nan,nan,nan
+ckbeenbmjlgphkncjhgiaemelbnnbgjm,1.4,2,"['http://www.rdio.com/', 'http://api.jambase.com/*']",nan,nan,nan,nan
+ciilalmdioneemccnabocgameohmfkhl,1.0.1,2,nan,nan,nan,nan,nan
+cjemicpnjbkolocodjcpmpdjciaaabdm,1.0,2,"['notifications', 'storage']",nan,nan,nan,nan
+cjjjmeojemeihghagljnpahpempikkod,1.1,2,nan,nan,nan,nan,nan
+chkmfmcljhggnibckhopgbklpmhefbim,0.1,2,['activeTab'],nan,nan,nan,nan
+chgkfhmenafolbpfdmeddopjjcpmkjej,1.0.2,2,"['notifications', 'storage', 'tabs', 'http://*/*', 'https://*/*']",nan,nan,nan,nan
+chdmfmhnakcbdgaccneehljcjfmdgnjb,0.0.1,2,nan,nan,nan,nan,nan
+chcclalkijfbgkfhnjhiamcmdjdnnokd,1.5,2,['http://bizop.org/*'],nan,nan,nan,nan
+cgnglmilmdafbppeolmlhmaalpohnkeb,0.2.0,2,['desktopCapture'],nan,nan,nan,nan
+cgopegjmehghfechfnagpgepcdpgoefc,1.1,3,[],nan,nan,nan,nan
+cgiaglcnjfomgnodabjhmeffnhhgennh,0.6.0,3,['storage'],nan,nan,nan,nan
+cgcbbaeplmcgcmakecfdgokfmpgdgmnf,0.1,3,nan,nan,nan,['https://twitter.com/*'],nan
+cfjmdocelnpengcpkimhgnchedeoondj,1.2,2,"['activeTab', 'https://ajax.googleapis.com/', 'http://www.brafilm.nu/*', 'http://www.brafilm.com/*']",nan,nan,nan,nan
+cfdjiolhfmmoifjnnidmjlehicccpebp,1.0.1,2,"['desktopCapture', 'tabs', 'https://*.academy.techterraeducation.com/*']",nan,nan,nan,nan
+cffcagbcbneimjelnlbfmbedjpkhgidj,0.01,3,nan,nan,nan,nan,nan
+cdhbjlkdmgobcniamcekogiiagfdelaa,1.0.0,2,nan,nan,nan,nan,nan
+cehnolhaoimiimkgcdhfjedobcciggji,0.1,2,nan,nan,nan,nan,nan
+cdgecapboaamjpjojakpgifejpicjijp,1.0,3,nan,nan,nan,nan,nan
+cdfikcpmbfmnbeamdedahhlobgmgnend,1.0.0,2,['desktopCapture'],nan,nan,nan,nan
+cdbilffelgliafnclliijhbcgkijhegc,1.2.1,2,nan,nan,nan,nan,nan
+cdfcibjplmbgiobgiejhngjfkpenipha,0.0.1,3,['tabs'],nan,nan,['https://us-central1-fbd-backend.cloudfunctions.net/v1/*'],nan
+ccdlhajcnoioikmbmpolclilohahpkao,1.0,2,"['activeTab', 'storage', '<all_urls>']",nan,nan,nan,nan
+cceaelibfhbcklgpdleilcmebckalmoa,2.0.0,2,"['notifications', 'https://api.twitch.tv/']",nan,nan,nan,nan
+cbpdigepcgjdfjlahfgakbbacbaiipel,2.0,2,"['storage', 'https://fortawesome.github.io/Font-Awesome/*', 'http://vk.com/*', 'https://vk.com/*', 'https://77.47.220.179/*']",nan,nan,nan,nan
+caobfhiajcdhiffmfledgflhilcikggf,1.0.0,2,nan,nan,nan,nan,nan
+cbcpmkgpejejbnaaibokingmpdocgbnk,1.2,2,['tabs'],nan,nan,nan,nan
+ccafmppemejohgimnoecdleifpikhfoa,1,3,"['storage', 'contextMenus']",nan,nan,nan,nan
+boemfjhplecegjlmflilfojhmchhnjjl,1.1.1,3,nan,nan,nan,nan,nan
+bniidhhnofjmfnjoonaolamaeochofgi,1.0.1,2,['https://calendar.google.com/*'],nan,nan,nan,nan
+bniimlcgolbngjnocooibeojejjpdjnp,0.0.3,3,nan,nan,nan,nan,nan
+bmcaimefjbhpfdfmajkhjfnchjfloomm,1.0,3,nan,nan,nan,nan,nan
+bmpeogljpfeieichhilekdckgpehmefl,1.0.0,2,nan,nan,nan,nan,nan
+blieocfaojonanigcepfilpgejfkfgin,1.5,2,['https://www.series2flix.com/*'],nan,nan,nan,nan
+bmicklcomccfjigffllihpjmcfffkcik,1.5.0,2,['desktopCapture'],nan,nan,nan,nan
+blnlfebgmcefjkpfajmfkjcifhklmhcp,1.0,2,nan,nan,nan,nan,nan
+bkgblckdafklnbgpmpddnmpijaegjien,0.0.7,2,nan,nan,nan,nan,nan
+blhggbeglgjegkpkdjiigbfhpldfafne,1.0,3,nan,nan,nan,nan,nan
+bjkehjmmhefchgkcmcppihnbjdiplgoa,1.0,2,nan,nan,nan,nan,nan
+bkfaeldfjofgjidkpdcdlhlonnmjjfip,0.0.1,2,nan,nan,nan,nan,nan
+bibbhaglcbhopgfnognbcofmhcbhliki,0.0.1,2,['https://twitter.com/*'],nan,nan,nan,nan
+bjhgapglgnfjpjnjgbokaobdmddobpdg,1.0.4,2,"['tabs', 'notifications', 'http://*/', 'https://*/', 'pushMessaging']",nan,nan,nan,nan
+bhhjfnahfhdbjjfjnhpmhahkmmiekkhn,0.1.5,2,['desktopCapture'],nan,nan,nan,nan
+bgflkchbegedknfcolegoecjhkmjnnci,2.0,3,"['activeTab', 'storage']",nan,nan,nan,nan
+bhnfogllibmkkgipemdhpenkjchfnicj,1.0.7,2,"['<all_urls>', 'tabs', 'cookies', 'storage', 'browsingData']",nan,nan,nan,nan
+bfggnkbiakaalnaifglkchlmohkjcolc,1.5,2,['https://www.pittsburgh-injury-lawyers.com/*'],nan,nan,nan,nan
+bgooeeejgpimkcmghgbighpidmopandh,1,2,nan,nan,nan,nan,nan
+bfcdfodchbapnmkaoolcafgnhohdgbdo,1.0,2,"['activeTab', 'declarativeContent', 'storage', 'tabs', 'http://*/*', 'https://*/*']",nan,nan,nan,nan
+bfaiedpaocgclhhgkakibpcmipiibofk,1.0,3,['storage'],nan,nan,nan,nan
+bfaljebllekeebnpajhkoambfhflhjfk,0.2,2,"['tabs', 'declarativeContent', '<all_urls>']",nan,nan,nan,nan
+bekepcadgolbgofjhfndafnkjdagkdpf,0.1,2,['*://facebook.com/*'],nan,nan,nan,nan
+behipodffaejennlogajageolobohgoh,1.0.0,2,"['desktopCapture', '*://*.rongkecloud.com/*']",nan,nan,nan,nan
+bejhfkohklklpkeglihbdfojfolfngni,1.2,2,['<all_urls>'],nan,nan,nan,nan
+bedfmcmemjjcpbfenikfolpmhlojhpoc,1.2,2,['desktopCapture'],nan,nan,nan,nan
+bcjgfdfoicbioodilbffeddpbhjmmjdi,1.0,2,['desktopCapture'],nan,nan,nan,nan
+beabgbjleckdhifhckdekgjkhnkinnjf,0.1.3,2,"['<all_urls>', '*://*/*']",nan,nan,nan,nan
+bceankfgkjkleonnlbkjhdnfcjgkmmcd,1.1,3,"['alarms', 'notifications']",nan,nan,nan,nan
+bdhidfckofgbdjemnipnbmapbheaplho,0.0.1,2,"['notifications', 'https://api.twitch.tv/']",nan,nan,nan,nan
+bcjbhmjnnohgpbganhlkiepnccmcjjel,1.0.2,2,['tabs'],nan,nan,nan,nan
+bcbglkfldjeeheenpflcdcfmphnnnmpe,1.0.2,2,nan,nan,nan,nan,nan
+bbiclnbaepmfhgballolipjldipbpkie,0.0.1,2,nan,nan,nan,nan,nan
+bbaofmpcknfcngceioplaifploinfcjd,1.0,2,"['activeTab', '<all_urls>']",nan,nan,nan,nan
+baddfoombmcecpogcggjccpbmennnjld,1.0,3,['activeTab'],nan,nan,nan,nan
+baklojffigiljcdcocnflfennkfkpcjm,0.1,2,[],nan,nan,nan,nan
+apobnccldjdikfkicadljfpoppamdaej,1.0.12.3456,2,nan,nan,nan,nan,nan
+aplgaiiajdiaaidijjpemmfjcfibcfmi,0.1,2,nan,nan,nan,nan,nan
+aphngkgkfbnblnchemdfgfohgeiijnba,0.0.1,2,['storage'],nan,nan,nan,nan
+apebhplgeobjibklnjlmjmdhfolminmh,1.0,2,"['activeTab', 'storage', 'https://yag.social/oauth/token', 'https://yag.social/api/post']",nan,nan,nan,nan
+aokfjofcdfchkampnjebpajjmchokaii,1.5,2,['https://powertoolwiki.com/*'],nan,nan,nan,nan
+aoogfbnigmjindidkbijnkccpdloijfg,1.0.1,2,"['https://vk.com/', 'http://vk.com/', '*://*.vk.me/*']",nan,nan,nan,nan
+anggcabhohbmdkljchhipnblcfpgddai,0.1.1,2,nan,nan,nan,nan,nan
+aofcmfpefjhpfnonnaembhmdfhpgighi,2.7,2,"['desktopCapture', 'storage']",nan,nan,nan,nan
+anbnnecioahlmefkjobaoejoeikedchb,0.0.1,2,['desktopCapture'],nan,nan,nan,nan
+amhflnlbckplcgdpcihakdcoekbokdgj,1.1.3,3,nan,nan,nan,nan,nan
+amohljmlgkapaaplajmicnbegfheolae,0.1.0,2,"['background', 'tabs', 'https://twitter.com/*']",nan,nan,nan,nan
+anabaalhdmohmalggpldieplajkfciln,3.4.4,2,nan,nan,nan,nan,nan
+alemofgjnihkjipebannfbnaimkhgfeg,1.0,2,"['gcm', 'storage', 'notifications', 'identity']",nan,nan,nan,nan
+allmgdodlnhpefmikfbfjokpclkmlpkk,1.0.0,3,"['storage', 'tabs']",nan,nan,nan,nan
+aknailicmklaenknpmfgddnihecfkaen,1.2.1,2,['activeTab'],nan,nan,nan,nan
+akjjpnamhhbfbijgldonoibnhnbdcpmn,2.1,2,"['activeTab', 'https://youdigitalapp.com/']",nan,nan,nan,nan
+akddbanippibhcioicdgehcgjpgijnjb,0.0.1,2,nan,nan,nan,nan,nan
+akjadnancjpkjekagaiffngpmgccdeol,2.4.1,2,['notifications'],nan,nan,nan,nan
+ajhikdoihlpadokailkcilandildhhon,1.0,2,['declarativeContent'],nan,nan,nan,nan
+ajninacgnlfbplbiipdcllggngmbfjnb,1.2.0,2,nan,nan,nan,nan,nan
+ajedpeapebihhbegbbeealaodcffcccj,1.2,2,['https://twitter.com/*'],nan,nan,nan,nan
+aiolaeieplfdiabglncjmklioeoahgih,1.0.0,2,nan,nan,nan,nan,nan
+aiogpkbcmpaleemjiaafhnglaekibila,1.1,3,nan,nan,nan,['https://channelguard.org/follower-extension/follower/*'],nan
+aijeknoplelhnddbilkdfbpefojclomf,1.0,2,"['notifications', 'background']",nan,nan,nan,nan
+aiakipljpbholebfnoicaipdmagmmgbn,1.1,3,['storage'],nan,nan,nan,nan
+ahndebjbcofafbolbmhollppmdbcnmnb,0.1,2,['identity'],nan,nan,nan,nan
+ahkgihgicgckkmfbdecbbobgdbhcgcjp,0.0.1,2,['storage'],nan,nan,nan,nan
+ahececfmpokpefkinagkbilamibaolkk,0.0.1.2,2,['storage'],nan,nan,nan,nan
+ahbdpmnonfephpdeeijemkkollhkgafk,1.0,3,"['alarms', 'notifications', 'storage']",nan,nan,nan,nan
+agkepiakojhofhjfghkapcihpakcafln,0.0.1,2,nan,nan,nan,nan,nan
+agjappnhmfoffegbhnakelgilanmnibb,2.1.1,2,['storage'],nan,nan,nan,nan
+aggjnakmfgojpkjbbpgdodakonmclkhl,0.1.7,2,['desktopCapture'],nan,nan,nan,nan
+agdcgngeemnjhdoehonmnpoppdeloope,2,2,nan,nan,nan,nan,nan
+agcgngkppacineoebbkladiglkndpbaf,1.5,2,['https://homegearslab.com/*'],nan,nan,nan,nan
+akaigafgjdpnhemnpmikckbcjmcfpmha,0.0.1,2,"['tabs', 'http://*/*', 'https://*/*']",nan,nan,nan,nan
+aeoikijacpibhobmhffheglcpghphaen,0.9.2023.0505,3,"['storage', 'alarms', 'notifications', 'tabs']",nan,nan,nan,nan
+adkmkipplalkkfohlagjfnoildgoefea,1.0,2,['desktopCapture'],nan,nan,nan,nan
+adchlmcbjcmdagjifknlmpegbibekbeb,3.4,2,['desktopCapture'],nan,nan,nan,nan
+adioijhbclffkkjohocmjgpdkidkkhjo,1.0,3,nan,nan,nan,nan,nan
+acnoianecpejanpddlllljkmjcnkhaee,7.0,2,nan,nan,nan,nan,nan
+adcpnmkldlgfkeoanhbgbgndgindehke,1.2.0,2,nan,nan,nan,nan,nan
+abnfpajcijggaehjhidkhbkbfhpnkadd,2.0,2,"['storage', 'https://www.vayes.com.tr', 'background']",nan,nan,nan,nan
+acicpliaiiclhnhfkpmadndmhookmfje,1.0,2,"['http://www.mondeadeux.com/', 'https://*.googleapis.com/', 'https://maps.gstatic.com/', 'https://maps.google.com/', 'http://api.openweathermap.org/']",nan,nan,nan,nan
+ablbbcmcncacdllpcpchheadfbamglla,0.1.2,2,['desktopCapture'],nan,nan,nan,nan
+aebpclfodpnfblpnkloadbnoeipdbpmd,1.0,3,nan,nan,nan,nan,nan
+mhemofkkjccljbdkbolmhjgklmaeplml,0.0.1,3,['storage'],nan,nan,['https://chat.openai.com/*'],nan
+kmgcgkcindbbofancfldhiadchhojjlf,0.1.4,2,nan,nan,nan,nan,nan
+acnkchmamocdffiecncbjocloipnekho,2.0.0,3,nan,nan,nan,nan,nan
+hgjahjeefnopbmbkejlmmajahbffcnoo,1.1,3,"['browsingData', 'tabs', 'declarativeNetRequest', 'declarativeNetRequestFeedback']",nan,nan,"['*://*.twitter.com/*', 'https://www.googletagmanager.com/*', 'https://www.google-analytics.com/*']",nan
+glcgaafaelofmomaddnfbjoknlmadldk,3.1,3,nan,nan,nan,nan,nan
+bfofdkanfmkkbngkmhmcjichambccene,1.0.7,3,['tabs'],nan,nan,nan,nan
+bahfghapfgmcjalodnhnoldomekolhck,0.5,2,['http://www.hitroe.com/'],nan,nan,nan,nan
+haegdimjjkcpmceimcljlkkloifelmmo,0.0.1,3,"['tabs', 'scripting']",nan,nan,['*://*/*'],nan
+cikloemabdmlgcpgkoigajgngikjejed,2.0,3,nan,nan,nan,nan,nan
+nofgjcanfogpanpccfhhjcakiehobgkm,1.0,3,nan,nan,nan,"['https://www.parkrun.us/', 'https://www.parkrun.com.au/', 'https://www.parkrun.co.za/', 'https://www.parkrun.ca/', 'https://www.parkrun.org.uk/', 'https://www.parkrun.sg/', 'https://www.parkrun.co.nz/', 'https://www.parkrun.my/', 'https://www.parkrun.ie/']",nan
+kchmalaonfapldkmmfphcjjohdiefdco,0.0.9.4,3,"['storage', 'tabs']",nan,nan,nan,nan
+mhcadccilnnadcbjbdmabngbpcignljd,1,3,nan,nan,nan,['*://*.best-news-world.com/*'],nan
+oddnfmmbaadenimpgfjimnocopbjkpac,1.1.0,3,nan,nan,nan,nan,nan
+ldopalelffalhfdpfnljnepkglbocdgg,1.1.1,3,"['identity', 'storage']",nan,nan,['https://rlabb3msg0.execute-api.eu-west-2.amazonaws.com/prod/*'],nan
+mjajaldemipmgncdjmijdohbnaelfiif,1.0.0,3,[],nan,nan,"['https://act.hoyolab.com/*', 'https://genshinguide-318.web.app/*']",nan
+kdjlcchhpbjnblfkkbaboaikpekegblb,0.5.0,3,nan,nan,nan,nan,nan
+eaadfgpaknlhoeeiccfjhmlpblechjob,1.0,3,"['activeTab', 'scripting']",nan,nan,['https://authdev.xgaming.club/*'],nan
+hljodblfmmplhdihdglbnffiaikaijdn,1.0.1,3,['storage'],nan,nan,nan,nan
+bokllcgbedppondfhpbmkaljdgidamea,0.0.1,3,['storage'],nan,nan,nan,nan
+nhgiijajmfdeochdijmdiapcfbjnnbgj,0.1,3,nan,nan,nan,nan,nan
+cpnmooclkmhdbbmlidadgmiidombgiab,1.0.0,3,['declarativeNetRequest'],nan,nan,['*://*/*.swf'],nan
+ckmgacdpehakpkhdmphlklpbiknegiel,1.0.0,3,nan,nan,nan,nan,nan
+jbfimaaimbecgalmlnmokckdichjhpcb,0.1.1,3,nan,nan,nan,nan,nan
+iccphodnihffccfhnonkhcjjhjjknkmd,3.0.3,3,[],nan,nan,['https://*.fittrend.com/*'],nan
+oimnpbjciphnebiblcjlckmjnmnnaoej,0.1.3,3,"['storage', 'identity']",nan,nan,nan,nan
+chgdabiikhgmacpjjaddphlmbfbmpclh,1,3,"['tabs', 'storage', 'cookies']",nan,nan,['https://www.discountcodesuk.com/'],nan
+agpnpnjhjblfjpmhbgchofhgdpclfani,1.4,3,nan,nan,nan,nan,nan
+agnnndfmbcaamlpiflmednkelehjnlip,1.2,3,nan,nan,nan,"['*://*.firebaseio.com/*', '*://*.googleapis.com/*']",nan
+loiflpemnpdpankndmeeoogfehpiakil,3.0.0,3,nan,nan,nan,"['http://*/*', 'https://*/*']",nan
+bmcedhfhglnnfcjgbkgaaabcndkcnjnp,0.1.0,3,['activeTab'],nan,nan,nan,nan
+cdjngdjjemoflkeppmidedobhcahoebf,1.0.1,3,"['activeTab', 'scripting']",nan,nan,nan,nan
+ifilpgffgdbhafnaebocnofaehicbkem,1.0,2,nan,nan,nan,nan,nan
+ilcmaphgcalflbbkcpdakklbigeifmcm,0.1,2,"['activeTab', 'https://www.themedetect.com/*', 'http://127.0.0.1/*']",nan,nan,nan,nan
+bepbabbclibeaacebjkjeamehfnngedf,0.2.0,3,nan,nan,nan,"['http://localhost:3000/*', 'https://github.com/*', 'https://demo.lancer.so/*', 'https://*.vercel.app/*']",nan
+begpdplcdifkdpcdiainfeoodfianbmf,1.0.1,3,"['activeTab', 'storage', 'tabs']",nan,nan,nan,nan
+bdpnmhgagbdjklpddmonlbjdnadhafbc,0.1.0,3,nan,nan,nan,nan,nan
+bdmdbklehpcipegkcbmlfgljpionhkab,2.0,2,['activeTab'],nan,nan,nan,nan
+bclaobkimojohepdhnibnjfjeplggkko,0.1.6,2,['desktopCapture'],nan,nan,nan,nan
+bbfggofimmjcgmlelkjnkmcooehpckla,1.1,3,['browsingData'],nan,nan,nan,nan
+bcibaoakjcmdkbmpokmheinhkackhiba,1.0,3,nan,nan,nan,nan,nan
+bbapflbbfdkgdkbkilcepilodiimnjkg,1.0,2,nan,nan,nan,nan,nan
+baldgbajolfcolcdidbalkhohaohlmgg,1.0.0,3,nan,nan,nan,nan,nan
+oklbakmjbfjekijjchajhppdbklgjfgi,0.0.7,2,nan,nan,nan,nan,nan
+caecomkodkibpkhjfibeojafdfkkbbmn,1.2.2,3,nan,nan,nan,nan,nan
+kamfleanhcmjelnhaeljonilnmjpkcjc,0.0.96,3,[],nan,nan,['<all_urls>'],nan
+afbjfmdncdlpomhgjanodjfogbaiknho,6.0.2,3,"['cookies', 'tabs', 'storage', 'contextMenus']",nan,nan,['<all_urls>'],nan
+nocodafpalcjpmllembelgddiipdoiik,1.0.5,2,"['tabs', '<all_urls>', 'contextMenus', 'webRequest', 'webRequestBlocking', 'webNavigation', 'storage', 'unlimitedStorage', 'notifications']","['contentSettings', 'management']",nan,nan,nan
+mompfanjjmgmhfghbfjdkaebobndblmd,0.4.0,2,"['tabs', 'storage', 'alarms', 'https://physera.com/']",nan,nan,nan,nan
+dnbaklokmpaieciaffgeahndaigokljd,1.1,3,['storage'],nan,nan,nan,nan
+lckjfjnkngpmcommhajdilngdhdclica,0.11.3,2,"['tabs', 'history', 'storage', '<all_urls>', 'webNavigation', 'webRequest', 'webRequestBlocking']",nan,nan,nan,nan
+pdokchlefippcmemdloojhlgeohkekja,1.1,3,['activeTab'],nan,nan,nan,nan
+ajmkldlbkpbhbnblgfadgebkaoadnfld,1.0.4,3,"['clipboardWrite', 'tabs', 'storage', 'contextMenus', 'scripting', 'identity']",nan,nan,nan,nan
+lngihebkimlakjpmmanjgknemcigndab,1.0.1,3,"['management', 'proxy', 'alarms', 'storage', 'webRequest', 'webRequestAuthProvider']",nan,nan,['<all_urls>'],nan
+gciobjdkanhgghlgfhjphhmbcaeamjnp,1.1.2,3,['storage'],nan,nan,nan,nan
+ndkdijcnlhjhmakblkhmpjocfjjifhbo,1.0.19,3,"['storage', 'tabs', 'offscreen']",nan,nan,nan,nan
+ibhdngmggbgccjdnjkdchlnfgldpmekf,0.0.1,2,['*'],nan,nan,nan,nan
+daijabngpgjgfcocemkhobigapfimfjk,1.3.0,3,['storage'],nan,nan,"['https://pocketoption.com/*', 'https://p.finance/*', 'https://v3.belobot.ru/', 'https://po.company/*', 'https://po1.capital/*', 'https://platform1.po2.capital/*']",nan
+ddhbpjcgiclcknkmpelkmkfnbaiemagn,1.0,3,"['storage', 'scripting']",nan,nan,"['http://*/', 'https://*/']",nan
+aalhjklngcphonhbhbkmjmbhhmfjhjph,1.0,3,"['storage', 'tabs', 'alarms']",nan,nan,nan,nan
+hablfliihompdckikmbpaigceaafnibg,1.2.2,3,['http://www.google.com/*'],nan,nan,nan,nan
+ggbeghljoagdajigdliipcdnpjgmjjlh,0.0.15,3,"['proxy', 'privacy']",nan,nan,['*://*/*'],nan
+ccoakaplppdlpdiobjojilfmompnemgm,1.0,3,nan,nan,nan,nan,nan
+aemollmfmfpnjnghboolodfcebahnbcj,1.01,2,nan,nan,nan,nan,nan
+ekkglnkdfldklnhgkfnjpijbbhgllamm,3.1,3,['privacy'],nan,nan,nan,nan
+ejicegndjlfahakhnhfphjdpkeckngah,1.2,2,['tabs'],nan,nan,nan,nan
+eipegmfemmhlmmndmiejejepljfjmdnm,0.0.0.2,3,nan,nan,nan,['https://chat.openai.com/*'],nan
+einjddnljdipeoelbhommlgannafdmgo,0.0.1,3,"['scripting', 'storage']",nan,nan,['<all_urls>'],nan
+eildbkdgjhopafeeomkfiogdmfmpknbl,3.0,3,nan,nan,nan,"['https://www.bonabant.com', 'https://www.bonabant.com', '*://*/*']",nan
+eifinblfhhkahmbdgepjfbhnhdglabpi,1.0.0,3,['storage'],nan,nan,nan,nan
+ehnifcacnaiaoalipnbpfioiajchgkac,1.1,3,['tabs'],nan,nan,nan,nan
+eildpkcfejbklkembceggijabggkibif,1.0,2,['tabs'],nan,nan,nan,nan
+ehmihgkikdkmdkamfhpgjnikbjihemid,0.0.1,2,nan,nan,nan,nan,nan
+ehbncplbgooikbegoamdjmneegdjhbni,1.0,2,['desktopCapture'],nan,nan,nan,nan
+egegjapkghdfkagfjieppocipdlpadgi,1.0.0,2,"['https://www.allmusic.com/recommendations', 'https://allmusic.com/recommendations']",nan,nan,nan,nan
+efkahgdeflaomkbphlioiofanlcknncl,1.5.9,3,[],nan,nan,nan,nan
+eclmaefoogiindggbefpenfhgiohfmnn,0.0.1,2,nan,nan,nan,nan,nan
+edihihhndfhdpakbbjfobagacekhoaed,1.2,3,nan,nan,nan,nan,nan
+eeclhabhmgmnhfpnnceoahedhbomojml,1.0.0,2,['activeTab'],nan,nan,nan,nan
+ebdpfecdcnonlllebpnjjaebnpoajhbf,0.2,2,"['tabs', 'storage']",nan,nan,nan,nan
+eahbkhhkfdobhjoamklkmebglncjmjfc,0.1.1.6,3,nan,nan,nan,nan,nan
+dpjglkfbacglmboidanfaocoockhcpjb,0.1,2,['https://natura.atlassian.net/*'],nan,nan,nan,nan
+ecifipkfpdanipkpgfjpdiiajdnhaimm,1.0,3,[],nan,nan,nan,nan
+dpbeelihlocfbohkacfjglidpobjgaik,0.0.1,2,['activeTab'],nan,nan,nan,nan
+doldfjdhpjclnlmmcoidmddgllllgdec,2.2,2,[],nan,nan,nan,nan
+dokjfifidhaekjchoocbjnmmoooibpkp,1.0,3,"['webRequest', 'scripting', 'activeTab']",nan,nan,"['https://*.danmurphys.com.au/*', 'https://api.danmurphys.com.au/apis/ui/Browse', 'https://api.danmurphys.com.au/apis/ui/ProductGroup/Products/member%20offers']",nan
+dnpfndpiieklmcodcpeamkmdnoffppjd,0.1.3.0,2,"['tabs', 'activeTab', 'downloads', 'storage']",nan,nan,nan,nan
+dnnefpiejbhnfddnmkeoeakjciaodilg,0.3,2,['activeTab'],nan,nan,nan,nan
+dmbfnamkpnehmpndlplkhkbnfefpfjdd,2.0,2,"['storage', 'https://www.birborsa.com/', 'background']",nan,nan,nan,nan
+dnlgijaleepldimkfcjheakongngbhbp,1.0,2,"['http://www.romapublications.org/', 'https://www.romapublications.org/']",nan,nan,nan,nan
+dmkeoebninmenoojmkdabekppfeebdnh,2.0,2,['activeTab'],nan,nan,nan,nan
+dlfhiagbacfdgloincjbfmojemmijlgm,1.0,2,nan,nan,nan,nan,nan
+dkgjajjpjcbkccoimmlehbdnfbhgnkfb,1,2,"['storage', 'tabs']",nan,nan,nan,nan
+djdkkamppnhpihgncgplobgkloabglfl,1.1,3,nan,nan,nan,"['*://*.habbo.com/*', '*://*.habbo.es/*', '*://*.habbo.nl/*', '*://*.habbo.de/*', '*://*.habbo.com.tr/*', '*://*.habbo.com.br/*', '*://*.habbo.fi/*', '*://*.habbo.it/*', '*://*.habbo.fr/*']",nan
+dinamadkdhhfpmoihjffdkkkkgiamgoo,1.0.0,3,['storage'],nan,nan,nan,nan
+diiohbccjlgcgdoekapjlflcdijbmcni,1.0.0,2,nan,nan,nan,nan,nan
+dgecimhfkoapmggekdnbpceljdagmhbm,1.0,2,['https://*.twitch.tv/*'],nan,nan,nan,nan
+dgoamkaooknoahlpkgmpdbicejaodafa,2.1,3,['storage'],nan,nan,nan,nan
+dgboocokkmgmaalbjcdfcfpklfbacblj,1.0.1,3,['storage'],nan,nan,nan,nan
+dgbkokodeklleoincolabikhohecmeil,1.1,2,['*://clips.twitch.tv/*'],nan,nan,nan,nan
+dfjdijippnaiaagafilddpnahekajejp,1.01,2,"['tabs', 'storage', 'contextMenus']",nan,nan,nan,nan
+dgdhelknbhkhmlbboikgjjohooooeioo,1.0.0,3,"['storage', 'webNavigation', 'host']",nan,nan,nan,nan
+dencdjbcjomafmoddbfkocoecpodmfpo,1.1.2,3,[],nan,nan,nan,nan
+dedebfmdhajcmomjndobmmdfgeghjalj,0.0.1,2,nan,nan,nan,nan,nan
+ddimkmnajkalcpmlgmndcggcjgfanenl,0.1,2,['https://www.youtube.com/*'],nan,nan,nan,nan
+dccbheclehegephjaicpbphnhiiggjae,0.0.1,2,"['tabs', 'notifications']",nan,nan,nan,nan
+ddkkilbhaapglggionphahfkdhnmnhoh,0.0.75,2,['desktopCapture'],nan,nan,nan,nan
+dbfpdoliodncdpldnlfnmgnadfeoplbe,1.0.0.0,2,nan,nan,nan,nan,nan
+dcaiaffhccfkgplacjagohnchnpneoco,1.0,2,['storage'],nan,nan,nan,nan
+cophlehljmbckcngkhjmipddiogfbfbp,0.8,2,nan,nan,nan,nan,nan
+clmkkjngjeekdegofkldgeimjafgadgc,0.0.2,2,[],nan,nan,nan,nan
+cmnndbpmkfogafcjneodnolmodbgkflm,1.0,2,"['activeTab', 'declarativeContent', 'https://confluence.newegg.org/*', 'storage']",nan,nan,nan,nan
+dajbeimbeeomabpebljphcjfchappgbg,1.0,3,nan,nan,nan,nan,nan
+clhmpagmlapihcckebebloihadhfbkmf,2.0.1,3,['tabs'],nan,nan,nan,nan
+claifejafikomggbbjkkkmmalglphhad,1.1,2,nan,nan,nan,nan,nan
+cimlnfbgfldiegakljcgfjehfpcjiepb,1.3,2,['activeTab'],nan,nan,nan,nan
+cipiimnciajpjaiedfdibkoanmgafmob,1.6.1,3,[],nan,nan,nan,nan
+clahdbbohmkifbinacldjapkoldknkgc,1.0.0,3,nan,nan,nan,nan,nan
+ckjlbidikkpfklcjbhpgeocccldckjjk,1.0.0,2,nan,nan,nan,nan,nan
+cgnpgonngpdfolgnmkncbglcnelebdni,3.0,3,nan,nan,nan,"['http://*/*', 'https://*/*', '*://*/*']",nan
+cgdjedkimlnikpcfgchielaapcobfelh,1.0,3,[],nan,nan,nan,nan
+cgjnflhknkemfipllcgfgagbpgimoceh,1,2,nan,nan,nan,nan,nan
+cflkidpghdihpfelnnlfpkphddjfekpa,0.1.2,3,nan,nan,nan,['https://api.openai.com/'],nan
+cenbdfeahccnojkhiaomibcjpbgmdken,2.0,2,nan,nan,nan,nan,nan
+cfhjeieigaehpbjkbodknmmbclpfncbh,1.0.0,2,"['webRequest', 'webRequestBlocking', 'https://cdms2.health.ny.gov/en-US/*']",nan,nan,nan,nan
+cdknjdclgppmhnhgfhblinfhnejhchla,1.0.0,3,"['bookmarks', 'history', 'favicon']",nan,nan,nan,nan
+cdcnhchkffhfdmcmpnffbfladahokkfj,1.0,2,nan,nan,nan,nan,nan
+ccakhohkglphphogkeimkicmjmjjnfog,1,2,['activeTab'],nan,nan,nan,nan
+cbhgddmmchngcbmojcmadlbmibefmjfj,1.0,2,"['tabs', 'clipboardWrite']",nan,nan,nan,nan
+camobgknfoooololaicigdapihbhfbki,1.2.1,3,"['storage', 'activeTab', 'scripting']",nan,nan,nan,nan
+bobcjldkbeeocknholmgpgbcpmlgncjh,1,3,nan,nan,nan,nan,nan
+caeimnapkfakabfllhhldnapedklichb,0.0.3,2,['storage'],nan,nan,nan,nan
+cbedblenleicmmjpiolbhlgndcomadhl,0.0.1,3,['storage'],nan,nan,nan,nan
+bnkpggofngjdkpapnofamfodgcfebaga,1.8.2,3,[],nan,nan,nan,nan
+bpdfgjaecggdlabdpkobdjbiaipnpinp,2.0,3,"['activeTab', 'downloads']",nan,nan,nan,nan
+bmiganhbpjmabeingcmcpoonmgmonpme,1.1.1,3,[],nan,nan,nan,nan
+blkoeoodaepfcgmbldpkaonoffhioiof,1.5,2,['storage'],nan,nan,nan,nan
+blbpmfagfpagmiflmoddellbgdglaofa,1.0,3,['activeTab'],nan,nan,['http://127.0.0.1:5000/*'],nan
+bkniojibfdjjnfbdnlpohmecehkbfmed,0.1.0,2,"['bookmarks', 'contextMenus', 'tabs']",nan,nan,nan,nan
+bjeilipbejmclkddndhfpndfobfmbbnk,1.0,3,['storage'],nan,nan,nan,nan
+bnbjhhbjglblknmmbfcbpbjmmgflmjid,1.0.1,2,nan,nan,nan,nan,nan
+bhiioahmldipmegklfhfadmnmhbkijhj,0.0.1,2,nan,nan,nan,nan,nan
+bfjfdmndbjlhccpmjpjmjanbmhfdbolc,1.1,2,['bookmarks'],nan,nan,nan,nan
+bhakibjkmcgoapglajinhgicbpgllanm,1.0,3,nan,nan,nan,nan,nan
+bhaalcdfbhdilnppanfbngmaojnabfoe,1.0,3,['activeTab'],nan,nan,nan,nan
+bgbeakegnjdbhfihlmclcggehobhoebi,0.1,2,"['storage', 'declarativeContent']",nan,nan,nan,nan
+bglnefbfhdliciaidhcplgnhbjdefbbp,0.0.1,3,"['storage', 'tabs', 'activeTab', 'scripting']",nan,nan,"['https://*/*', 'http://*/*']",nan
+bfeinmkegnlkajpiebgaebjkppofogfd,4.2.17,2,['desktopCapture'],nan,nan,nan,nan
+bfeabegodlanlchpijhpjhaklommbhfe,0.0.1,2,['tabs'],nan,nan,nan,nan
+bdhhjckgdiikfccabejeifncepaoaacj,1.3,2,nan,nan,nan,nan,nan
+bcnjnlbfaffcnhinmofbbffeoeiobejd,1.0.0,2,"['storage', '<all_urls>', 'webRequest', 'tabs', 'webRequestBlocking']",nan,nan,nan,nan
+bcjcpbmgbacibhohjiabhicnohgmnpfo,0.0.0.1,2,['activeTab'],nan,nan,nan,nan
+bcjajcegadigciolnjlffhncnkkocboe,1.0,3,"['activeTab', 'scripting', 'tabs']",nan,nan,nan,nan
+bdchnbdpaljaekkoijpldgfagilekifk,1.1,2,['storage'],nan,nan,nan,nan
+bchmedheegadfhbkmndiefhcocjhfmfm,1,2,nan,nan,nan,nan,nan
+bbinlgbbkcidnoehgdnohcokjnblfcnc,25.1,2,"['tabs', 'http://*/*', 'https://*/*']",nan,nan,nan,nan
+bbljphibindaejfffdmafbcfihcekiao,0.0.7,2,['desktopCapture'],nan,nan,nan,nan
+bbifkjoeknbpmonihclkcfbbnehjeehe,2.5,2,"['https://*.relution.io/relution/portal/#/login', 'activeTab']",nan,nan,nan,nan
+bhcfoipddgpfefgmcodchnnjebcelhch,0.1,3,"['storage', 'webNavigation']",nan,nan,nan,nan
+bbfemffmmbckegfepbiaindepciecaag,1.0.0.1,2,"['nativeMessaging', '<all_urls>', 'file:///*']",nan,nan,nan,nan
+bbglapkldkphhmgogcpoakmikpkbonei,1.1.0,2,nan,nan,nan,nan,nan
+baphnigfcfaecagjeipklfgfmefjpdgd,2.0,2,"['storage', 'https://www.zeev-immobilien.com/', 'background']",nan,nan,nan,nan
+bapgbdjpdegpfhfahdonpfedikjikkib,0.0.1,2,nan,nan,nan,nan,nan
+banmkeeeafmpojeljofffpinphicnopo,1.0.0,3,nan,nan,nan,nan,nan
+bacfkokhehaifjoobhhdjcepalipghdo,1.0.0,2,['tabs'],nan,nan,nan,nan
+aplegllapakbapncbaepacelkioigmle,0.2016.1,2,nan,nan,nan,nan,nan
+bangpndjaghnmhaofkaffopkpabncdpa,1.0.0,3,"['activeTab', 'scripting', 'storage']",nan,nan,nan,nan
+ankliclepckikmllgcfdcggbdgphclmh,1.3.2,3,[],nan,nan,nan,nan
+anpeogcpdefhoeafiapjlbgjpaegoaoo,1.21,2,nan,nan,nan,nan,nan
+aofonafbnpebpgmjhhfmpcpfiofgjalp,1.2,2,"['https://api.twitch.tv/', 'notifications']",nan,nan,nan,nan
+amkmdplpmnojjnfloeaoljgmjnppdiak,0.1.1,2,['activeTab'],nan,nan,nan,nan
+alondiccabompeionhhekfghcckkikfc,1.3.3,3,[],nan,nan,nan,nan
+ajicgjkmkmpcockngophjpgjopegcbnp,1.8.2,3,[],nan,nan,nan,nan
+amilombngijdmbjdlkbjaldblpbodifd,1.0.1,3,"['scripting', 'activeTab']",nan,nan,nan,nan
+ajiapeaepccdmdpgpaijlpdjblafbenp,1.0,3,['storage'],nan,nan,nan,nan
+aigpdjcfnhifikdlpedfhhjjcihldnon,4.0,3,"['activeTab', 'storage']",nan,nan,['*://*/*'],nan
+ahknikhbgogboplghibpljffkpoalmnn,1.3,2,"['activeTab', 'tabs']",nan,nan,nan,nan
+adnnminfeminidgoabklblicecbeikjd,1.5.4,3,[],nan,nan,nan,nan
+aehjilmlhpkdheplfadccdpbnnkcikej,0.3.4,2,"['storage', 'tabs', '*://*/*']",nan,nan,nan,nan
+addogalmgkmjfbmgdnkijokekniicnpa,1.0,3,nan,nan,nan,nan,nan
+acmhhpcbnhmkcocdlpgemlameenbnodg,1.9.2,3,[],nan,nan,nan,nan
+acgafgniliahbabkngapdonnokhioaip,1.0.5,2,nan,nan,nan,nan,nan
+adcapnpjicnkejbjjmkiecmhknoaidba,1.2,2,['http://klingen.dk/'],nan,nan,nan,nan
+acbkfalcicabpfnpljkpjjakdahbifoe,1.0,3,"['activeTab', 'scripting', 'storage', 'unlimitedStorage']",nan,nan,nan,nan
+agpoipkfbifkdhdghbjilapmbgdedomn,1.2,3,['declarativeNetRequest'],nan,nan,['https://*.wikipedia.org/wiki/*'],nan
+adkgbbinmifcmjgapjgjbddfkiingiif,1.0,3,['storage'],nan,nan,['https://www.youtube.com/*'],nan
+mkefkfpoaghamdjeginimcnhifkbjpkm,1.3.0,3,['tabs'],nan,nan,nan,nan
+bhbpmpflnpnkjanfgbjjhldccbckjohb,1.2.0,3,"['topSites', 'storage', 'favicon']",nan,nan,"['https://cn.bing.com/', 'https://api.bing.com/', 'https://suggestion.baidu.com/', 'https://suggestqueries.google.com/']",nan
+bdajkpfapgknmmmbngegnjcnfheenacf,1.0,3,nan,nan,nan,nan,nan
+ainbmemdlgioffdbkeiojjgcjpflodnl,1.0.0,3,nan,nan,nan,nan,nan
+aephjlbphiophehpmmhbkmbdmkeiclpi,1.0.0,3,nan,nan,nan,nan,nan
+ahheiahlanglpmhgeimolipfdkcpgdfp,1.0,3,"['activeTab', 'scripting', 'storage']",nan,nan,nan,nan
+afomfngknkjlhekibenoppibicpjgpha,1.0,3,nan,nan,nan,nan,nan
+edlhpodgceapfdimalfceojghfmjlgho,0.0.1,2,"['webRequest', 'webRequestBlocking', 'http://www.amazon.com/*', 'https://www.amazon.com/*', 'http://www.amazon.ca/*', 'https://www.amazon.ca/*', 'http://www.amazon.co.uk/*', 'https://www.amazon.co.uk/*', 'http://www.amazon.de/*', 'https://www.amazon.de/*', 'http://www.amazon.es/*', 'https://www.amazon.es/*', 'http://www.amazon.fr/*', 'https://www.amazon.fr/*', 'http://www.amazon.it/*', 'https://www.amazon.it/*', 'http://www.amazon.co.jp/*', 'https://www.amazon.co.jp/*', 'http://www.amazon.cn/*', 'https://www.amazon.cn/*']",nan,nan,nan,nan
+dfcakkenamaigljjenoiejcaimhddhci,0.0.1,3,nan,nan,nan,['https://cdn.openai.com/'],nan
+ngcgmmohlnmkfeofppjjbjmddmgmhcmo,1.0.1,3,['storage'],nan,nan,['https://aficionado-backend.herokuapp.com/*'],nan
+hlohamkliohlkekdnllogfoiinllomgg,2.0.0,3,nan,nan,nan,nan,nan
+jbmpomloomhbfflncpmcmfajbppfddjk,0.1,3,"['storage', 'activeTab', 'scripting', 'tabs']",nan,nan,nan,nan
+lfeekbkgfbkkkcokfdhdekcgpjjfajai,1.0.0,3,"['storage', 'scripting', 'tabs']",nan,nan,['https://www.reddit.com/'],nan
+glooagnlpbheognphajfcjaibgofemgf,1.0,3,nan,nan,nan,nan,nan
+gkdlnjiadpdaoiccljjnkbmmcinfbjgm,1.0,2,['https://motherpipe.de/'],nan,nan,nan,nan
+fpbbmjgcejcadoofkdpcejajlgbmflgp,0.0.1,3,[],nan,nan,nan,nan
+bgkkkdfmgmjiehefimbebbhdpnmiemli,1.1.7,2,['management'],nan,nan,nan,nan
+bofebhgldkoidaefbmilbghfokbdcdik,2,3,"['tabs', 'history', 'commands']",nan,nan,['https://*/*'],nan
+bofaenhkdgjoahkhhkaekhbpbecephpg,1.0.0,3,nan,nan,nan,nan,nan
+bnlchhcmepknhkokfppfgcpcpnohinma,0.1.0,3,"['activeTab', 'commands', 'scripting']",nan,nan,nan,nan
+bnjfdojdpojeakjbiafjhnekjndbaakh,1.0,3,nan,nan,nan,nan,nan
+bmjmdjgkhnofpkalolofmambblanolnp,1.0.5,3,nan,nan,nan,['https://find.search-direct.net/*'],nan
+bmfgjdidfijfpdeldlindbpbabdnjbmd,1.0,3,"['activeTab', 'contextMenus']",nan,nan,nan,nan
+bmboohijhfipdfhlkgiepemblkajamdb,1.0.0,3,nan,nan,nan,nan,nan
+blklmaelkcebbhpgpnhhlmnhmidffacj,0.1,2,nan,nan,nan,nan,nan
+bmbgifadklcfdfgimakghggknfpgjfai,1.1.0,3,nan,nan,nan,"['https://search.tab-weather.xyz/', 'https://tab-weather.xyz/*', 'https://tab-weather.xyz/']",['*://*/*']
+blceinfcliehiigbckndjpcgnffgdepp,1.0,3,[],nan,nan,nan,nan
+blcaoofgjkjhbajdbaehajpnhbbjilhp,1.1.8,3,[],nan,nan,nan,nan
+bljcamddomdmafndinlhnicailadcoce,1.0.0,3,nan,nan,nan,nan,nan
+blbbnlahghefdibpdoeoopagpkhifkff,1.0,3,nan,nan,nan,nan,nan
+blamaifafdeahimaecamojcoopdjjpgo,0.0.1,2,"['*://lmgtfy.com/?q=*', '*://*.lmgtfy.com/?q=*']",nan,nan,nan,nan
+bkjoajphbbkiaiodnhhgjjjafdbcoppm,1.0,3,['search'],nan,nan,nan,nan
+bkhhakljfejgmeejcfnhmlkhlbaflfmj,1.0,3,[],nan,nan,nan,nan
+bjmabnapmjadpgbkenclipnjpdndkknc,0.0.1,3,nan,nan,nan,nan,nan
+bjfipmdaafkmnmnohkelbbmmpnomhkae,0.1.0,3,"['tabs', 'downloads', 'scripting']",nan,nan,['https://*.bu.edu/*'],nan
+edgflhldbkclffohmhaakgbnmiojjmim,0.5,3,['http://www.google.com/*'],nan,nan,nan,nan
+efdhmojjdemgceclnklofgdpjmlnekcp,0.1.0,3,nan,nan,nan,nan,nan
+efmfdlgdfaagdmkanielciipgklppdao,1.0,3,"['cookies', 'declarativeContent']",nan,nan,"['*://*.cc.ncu.edu.tw/system/162*', '*://cis.ncu.edu.tw/*', '*://portal.ncu.edu.tw/system*']",nan
+eeipnkbnfjamccdofoaddefidakhhajg,0.0.0.28,3,"['topSites', 'favicon']",nan,nan,['https://suggestqueries.google.com/*'],nan
+dihiaicnjafcmeodackkblohgoelnaph,1.1,3,[],nan,nan,['*://www.google.com/*'],nan
+iplligpochmpifkhfflopihdfmfbglkc,1.0,3,"['activeTab', 'storage']",nan,nan,nan,nan
+aahpgbacplgcbdahbambfolgieemccik,1.1.3,3,nan,nan,nan,nan,nan
+mfpnecbjeofmcakphjofdcfmaekfbckh,1.0,3,nan,nan,nan,nan,nan
+ealedpflihohejfpadegakcknlfeangi,1.0.0,2,['https://iap.poly.edu.vn/*'],nan,nan,nan,nan
+cbcfckccfijkfceajobagbgalacjfmcm,1.0,3,['scripting'],nan,nan,nan,nan
+mdhejfkoiepfacihfbpokapgminpoeod,0.1,3,"['activeTab', 'storage']",nan,nan,nan,nan
+ofhopjhbpahemcpiplapleiibhchoook,1.0.0,3,"['storage', 'tabs', 'scripting']",['cookies'],nan,nan,"['https://outlook.live.com/*', 'https://outlook.office.com/*', 'https://odysseytec.co.in/*']"
+apkbghlnpkjclappnjbokbmdcoklcbmj,1.3,3,nan,nan,nan,nan,nan
+jfopmhmjaachjlelbmeglffjkghkgpbm,1.2,3,['https://youtube.com/'],nan,nan,nan,nan
+cabbedeflmhbopcckhinonlideimgipi,0.6.0,2,"['activeTab', 'declarativeContent', 'storage', '*://twitter.com/*']",nan,nan,nan,nan
+ljbdfahnkliihmkcamhpchjohaaegicj,0.1.0,3,"['activeTab', 'tabs', 'storage']",nan,nan,nan,nan
+cbaamdeigcnfhjmhlkopbbclbohejlgo,1.0.1,3,[],nan,nan,nan,nan
+aiipihanfbemhegopmlekpccbeojgfgk,1.0,3,"['webRequest', 'identity', 'storage', 'tabs']",nan,nan,"['*://*.twitter.com/*', 'https://dev-gcn.samudai.xyz/*', '*://*.warpcast.com/*']",nan
+cmihdjmmdaikilemfambhmficiladjjm,1.5,2,['background'],nan,nan,nan,nan
+bengfloaigfgbdanfdjbnnabnecialel,0.3.1,3,nan,nan,nan,nan,nan
+apblccbjbbmhdlhngbbbhfhdneeogpgn,0.0.2,2,nan,nan,nan,nan,nan
+jffbgkogbnnojbkjkpkammfgoncpmpih,0.1,3,['storage'],nan,nan,nan,nan
+hehemgoeaglnjepieeggeeobpclhbhdo,4.0,3,nan,nan,nan,nan,nan
+caemhaohjmadjjjchpfdnalifhodieif,1.1.0,3,nan,nan,nan,nan,nan
+pmnmmeeelcndgpihhibpolpkfpioalec,1.1.2,3,['storage'],nan,nan,nan,nan
+jeidbjmmapdnnabckapgagcnfaimibcg,1.1.0,3,nan,nan,nan,nan,nan
+bjeenbbfhimapiobdcnkefhacecffplc,1.1.0,3,nan,nan,nan,nan,nan
+ghhbhiammmobfbabeaonnlempjajipej,1.2.1,3,nan,nan,nan,"['https://tildes.net/*', 'https://tildes.nore.gg/standalone/MySQL_update.php']",nan
+nolanimdohlhenephacoekonhchfeadi,1.0.0,3,nan,nan,nan,nan,nan
+ffjmjcnakjlfifdmjloggdmgongkplcc,1.0,3,['scripting'],nan,nan,"['https://squaredle.app/*', 'https://www.squaredle.app/*']",nan
+pdemcchanejbcmjpdfpfcllnflhkkogb,1.0.2,3,"['storage', 'scripting', 'activeTab']",[],nan,"['https://twitter.com/*', 'https://opcybermartians.xyz/api/*']",nan
+jcopmfepjeikiboeenbmpomicdnkmbhf,1.0,3,nan,nan,nan,nan,nan
+jacholcfpdkjcpeidonflghgmpdjihem,2023.12.28,3,"['activeTab', 'storage']",nan,nan,nan,nan
+immjhkmkjkabmebaecdgjocokmiionlc,1.0,3,nan,nan,nan,nan,nan
+ikgcodpadebfichchbdffdhnimoidbgh,1.0,2,nan,nan,nan,nan,nan
+inenmcialdjmbcjacgipalphlgbneced,1.0.0,3,['activeTab'],nan,nan,nan,nan
+jiihcciniecimeajcniapbngjjbonjan,4.0.15,3,"['storage', 'tabs', 'webNavigation', 'scripting', 'notifications', 'activeTab', 'offscreen', 'system.display', 'alarms']",['downloads'],nan,['<all_urls>'],nan
+iljkhehdlmkbgdlnpkflfhobghfdkail,0.1,3,['declarativeNetRequest'],nan,nan,['<all_urls>'],nan
+dknlfmjaanfblgfdfebhijalfmhmjjjo,0.4.7,3,"['declarativeNetRequest', 'storage', 'scripting']",nan,nan,['<all_urls>'],nan
+mehppnpbkjigbgbadakaeibdniekhccd,1.4,3,nan,nan,nan,nan,nan
+ekneadccbhgcgifcjehncakmolldehfd,0.0.2,3,['storage'],nan,nan,['https://*/*'],nan
+ibnheiimocabbfkeebechfjjnpbdcakj,1.1.1,2,"['http://*/*', 'storage', 'proxy']",nan,nan,nan,nan
+agjmlbigpjomhddmfclplopjjlflpmpk,2.4.9,3,"['declarativeContent', 'storage', 'activeTab', 'scripting', 'cookies', 'tabs']",nan,nan,"['*://*.linkedin.com/*', 'http://localhost:4200/ui.boondmanager/*', 'https://*.wishgroupe.com/ui.boondmanager/*', 'https://ui.boondmanager.com/*']",nan
+hibefehnldcopnkfjihkflpjibfnhcif,2.4,2,"['storage', 'alarms', 'notifications', 'contextMenus', 'https://internetvas.slt.lk/*', 'https://omniscapp.slt.lk/*']",nan,nan,nan,nan
+hmankdkgooppamccokcjigmhciihdpfi,1.1.8,2,"['tabs', 'http://*/*', 'https://*/*', 'webNavigation']",nan,nan,nan,nan
+dkcdcmananochmgmhgkhhmgegdnkgejl,1.0.0,2,"['bookmarks', 'tabs']",nan,nan,nan,nan
+lcbmijabmhohpnmdjbioodhdlaimbdcf,1.1,2,['storage'],nan,nan,nan,nan
+efdmgiefkjoeojimhapfekhndopbphbg,1.1.13,3,"['storage', 'cookies', 'alarms']",nan,nan,['<all_urls>'],nan
+himmciocmhnindiepdhcfhikjhpgabfa,1.0,2,['https://web.whatsapp.com/'],nan,nan,nan,nan
+kngmbepbohaeeihlfmkdcdcccejkhjhn,1.0.0,2,"['https://traffic.gnlab.com/*', 'tabs']",nan,nan,nan,nan
+cbdfhfjemjbndkgeafknoifghpfmhpbl,0.4,3,['storage'],nan,nan,['https://online-converter.freepdfsolutions.com/*'],nan
+kieflbdkopabcodmbpibhafnjalkpkod,0.0.19,2,"['identity', 'activeTab', 'storage', 'http://*/*', 'http://*/', 'https://*/']",nan,nan,nan,nan
+odldhmdkdpgdgihhjjmhmnnoopefcbid,3.0.0,2,['https://*.unibo.it/*'],nan,nan,nan,nan
+balkfdkhbcjjmhndnblgmlmcabnapogp,5.3,3,"['unlimitedStorage', 'storage', 'alarms', 'tabs']",nan,nan,nan,nan
+hbledhepdppepjnbnohiepcpcnphimdj,3.0,3,"['tabs', 'storage', 'unlimitedStorage']",nan,nan,nan,['<all_urls>']
+oheliokfcgehhjlhiiglekmbebigpbdj,1.0.0,2,['activeTab'],nan,nan,nan,nan
+lefhacklblefjnbaklhkgpfijmcbnjna,1.0.0,3,"['gcm', 'notifications', 'scripting']",nan,nan,['https://chat.openai.com/*'],nan
+fiaadgmnlglamcmlhjmgckfmjioenbhd,1.0.1,3,"['activeTab', 'scripting', 'tabs']",nan,nan,"['http://*/*', 'https://*/*']",nan
+dhaedfgjmbjjbhemmmdofhljdokpmpfj,1.0.3,2,nan,nan,nan,nan,nan
+kbgjdokhhimgopglbgdddbeaafpofecg,1.0,3,"['webRequest', 'webNavigation', 'storage', 'tabs']",nan,nan,"['http://*/*', 'https://*/*']",nan
+jappiofnhfolelcaeoimjcodghnnkfbk,3.6,2,"['<all_urls>', 'activeTab', 'storage', 'webRequest', 'webRequestBlocking', 'downloads']",nan,nan,nan,nan
+jliflimkjclgbmfficnhimfdmmikpabb,1.2,3,[],nan,nan,nan,nan
+hjkefilnmobaipjakeckpgmecnfdglga,0.0.1,3,"['cookies', 'declarativeNetRequest']",nan,nan,"['https://coldclose.com/*', 'https://twitter.com/*']",nan
+bnoefhlmcljahcmcdioogplddhejadji,0.0.1,3,['contextMenus'],nan,nan,"['https://*/*', 'http://*/*']",nan
+abjbccidhjoddjpookljjcfcbnfeifdf,0.2,3,"['alarms', 'notifications', 'storage']",nan,nan,nan,nan
+joomclghngmikiiooffbhfkmijfdhckc,0.3,3,"['activeTab', 'storage']",nan,nan,nan,nan
+hoklmmgfnpapgjgcpechhaamimifchmp,6.11.0,3,"['scripting', 'storage', 'tabs', 'webNavigation', 'webRequest']",nan,nan,['<all_urls>'],nan
+lejbibljgiojigkpkhmdgdhmiaddgidd,1.0.5,2,"['clipboardWrite', 'http://myip.travelingtechguy.com/']",nan,nan,nan,nan
+okbolnpchoemijfoegogkgedckhmplhb,1.1,3,nan,nan,nan,nan,nan
+aiaabciompikkgchoocgmhgbgbgopmaj,1.4.3,3,"['activeTab', 'storage', 'browsingData', 'declarativeNetRequest', 'notifications']",nan,nan,"['*://*.whatsapp.com/*', '*://*.whatsapp.net/*', '*://*.google.com/*', '*://asset.wasenderpro.com/*', '*://assets.wasenderpro.com/*', '*://socket.wasenderpro.com/*', '*://srvsocket.wasenderpro.com/*']",nan
+joajajngmlcjmoppoikgikkpkhmoldhc,1.1,2,"['*://*.ojooo.com/', 'notifications']",nan,nan,nan,nan
+lnnadnefhhckeccfbnbnabonnhbbiopg,0.0.1,3,"['activeTab', 'background', 'nativeMessaging', 'tabs']",nan,nan,['<all_urls>'],nan
+bfhfejakgdppjjbliphoicgljobodhab,1.0.0,3,['scripting'],nan,nan,"['http://*/*', 'https://*/*']",nan
+bfebbgfbilpmhgaihmoegbhafkdoodcb,2.01,3,['storage'],nan,nan,nan,nan
+bfbleikkoonlhbcdnghieedgphibnhka,1.0.0,3,[],nan,nan,nan,nan
+cngcpkahogdgpimmcfiageicpillgihm,1.10,3,"['tabs', 'storage']",nan,nan,nan,nan
+aebgfnbiigmgljkikpooogbaehlcfcgp,0.2,2,"['gcm', 'storage', 'notifications', 'identity']",nan,nan,nan,nan
+aaccjolckklhjaplpnpnkdaeljnljnbc,1.1,2,"['tabs', 'http://*/*', 'https://*/*']",nan,nan,nan,nan
+ahgdolfoafpejndlhnmojpkneiglfbea,1.0.2,3,nan,nan,nan,nan,nan
+ahboelaniihmcmhhbpegkjnemoloeifg,0.1.0,3,"['activeTab', 'cookies', 'storage', 'tabs', 'webNavigation']",nan,nan,"['*://test.rebitme.com/*', '*://app.rebitme.com/*', '*://rebitme.com/*']",nan
+fdkhkdkhmcfndjlldfheelapplkfkjaa,1.4,3,['contextMenus'],nan,nan,nan,nan
+nalganimephelkfmejchafnkfmaiajpa,0.0.2,2,nan,nan,nan,nan,nan
+bahkpblcfiffamfljnfjeablplgnjnkg,1.0,3,nan,nan,nan,nan,nan
+bmlpadbooeoanlmmnonlmfkkenloflcl,1.0,2,nan,nan,nan,nan,nan
+blkblhpkjmikjjnopmkkpiljppeglehc,1.0,3,nan,nan,nan,nan,nan
+ajdpibbbalebejiekghideajpfhkgkan,1.0,2,"['activeTab', 'declarativeContent', 'storage']",nan,nan,nan,nan
+jfleknlfknjhcachmkebdehenfhgmppj,1.0.1,3,"['geolocation', 'tabs']",nan,nan,[],nan
+feahjlhefbiecbiibpkbenalelfaclak,1.2,3,nan,nan,nan,nan,nan
+epkndpgbkjpfecdghhopdkkoaicjmdcg,1.0,3,nan,nan,nan,nan,nan
+lhackjkhpceioajennpfmobgdcfjeljk,1.1,3,['storage'],nan,nan,['*://*.angi.com/*'],nan
+jclgampdjljmiadmfpolkhlpmlebcocj,1,3,['storage'],nan,nan,nan,nan
+hfokjcacdcgeepemdmgjahdepepllhhc,0.1.0,3,nan,nan,nan,['<all_urls>'],nan
+chohlhkchallmnnboainclhjkaclhlmi,1.0,3,[],nan,nan,nan,nan
+chjmccjpmpecmagfphnocmbnamoegogi,1.0,3,['storage'],nan,nan,nan,nan
+chcmbndpjhdcfngnjikdkddkgadaakin,1.0.3,3,[],nan,nan,nan,nan
+chapbfkamhdmdemlgfkkkanpambbkopf,1.0.2,3,[],nan,nan,"['*://dlc-h5.zhongan.com/*', '*://dlc-h5-uat.zhongan.com/*', '*://dlc-h5-test.zhongan.com/*']",nan
+cgpaimhpnamenhoijjgcdbgiejkjcped,1.2,3,['storage'],nan,nan,nan,nan
+cfcepdmkonlkglfkekjcbmhfbaonfgem,0.0.1,3,"['tabs', 'storage']",nan,nan,nan,nan
+cglmhcbgaffjfcbfppmgmgchbpfdkkah,1.3,3,nan,nan,nan,nan,nan
+cgijcangpihmaejlccnamjfonkanklpj,2.0,3,"['storage', 'tabs']",nan,nan,['*://*/*'],nan
+cfdlmoikkdpbliadbonfnegadckabcfb,1.1,2,['contextMenus'],nan,nan,nan,nan
+cenfiaikheapkidmdibllanmnmbafjkk,0.1,2,['contextMenus'],nan,nan,nan,nan
+cdnkganolmeplmbogonjihnikjhiblcj,1.1.0,3,['storage'],nan,nan,['http://feeds.feedburner.com/WWFStories/*'],nan
+cdfnihallmkmhlbakkpeijikfccemcoi,1.0,3,['storage'],nan,nan,nan,nan
+cdjhbcckhpekggoiccgmfnfjkoadnbob,1.0,3,['storage'],nan,nan,nan,nan
+cdjepgblddibchomkpdnlhmocjechhgd,1.0,3,nan,nan,nan,nan,nan
+cddgicflnkibpihacchammhbpfkmhcha,1.7.8,3,[],nan,nan,nan,nan
+cdlhbbfengdpmmkkfmdpelmdnbkbolce,0.3,2,['storage'],nan,nan,nan,nan
+cdckkiphjddeoihbojlbbimjbldfajhm,1.0.0,3,nan,nan,nan,nan,nan
+ccokbpgcgmjpnepfbempfhgnbbmefogm,0.0.2,3,"['identity', 'identity.email', 'downloads', 'storage', 'tabs']",nan,nan,"['https://*.openai.com/*', 'https://*.windchat.link/*']",nan
+ccggeoejlfiniobamfodnpglockgogcj,1.0,2,"['tabs', '*://*/*', 'notifications']",nan,nan,nan,nan
+cbflieeaipmlmafomdbjfepgmbleajhl,1.0,2,['contextMenus'],nan,nan,nan,nan
+cbdbbadankhkhbpgnidkdcikmfkebmng,1.0,3,['tabs'],nan,nan,['*://*/*'],nan
+camhibccnigmpgbdmegbmfmllcodjbje,1.1,3,['contextMenus'],nan,nan,nan,nan
+ccblcjhcdaobpplhjdnmpihaclfmlalk,1.1.1,3,['storage'],nan,nan,['*://*.linkedin.com/*'],nan
+cbdglchepfinflmacdpngipgldgkhijo,1.0,3,"['activeTab', 'scripting', 'webNavigation']",nan,nan,['<all_urls>'],nan
+bpkpfkpgcmpmenlfjjnejbifllnkakfi,1.9,3,['fontSettings'],nan,nan,nan,nan
+bpolalpbgcghnpkhpcnccpjaihmnflnj,3.2.3,3,['management'],nan,nan,nan,nan
+bpkmgojgkomdikjniliagchhgdmlmgec,1.0.3,2,['storage'],nan,nan,nan,nan
+bpjknhhabngbbnfaahebebngkocaclei,0.2.0,3,"['storage', 'tabs']",nan,nan,['https://www.linkedin.com/*'],nan
+bojmhgooehbocnfofajgeeapljbfdelh,8.0.0,3,nan,nan,nan,nan,nan
+bdnhhddfbipeeededjddonienjegdhbh,1.0.1,3,['scripting'],nan,nan,"['https://mail.google.com/', 'https://mail.google.com/*']",nan
+igclanpfdlfdjejolbccfiahebhllfae,1.0.2,2,"['storage', 'tabs', 'webNavigation', 'https://www.youtube.com/watch*']",nan,nan,nan,nan
+anflghppebdhjipndogapfagemgnlblh,4.1.0,3,"['storage', 'unlimitedStorage', 'tabs', 'activeTab', 'scripting']",['management'],nan,['<all_urls>'],nan
+dmnppinpjjjlcmeoemdchhjoflmkgiae,1.2.6,2,[],nan,nan,nan,nan
+ilajljhjhapencaaljdeedfdencpkcii,1.3.5,3,nan,nan,nan,nan,nan
+hjcbpgkhjdadpdeibkhcknlcegnmooja,5.6.26,2,nan,nan,nan,nan,nan
+mfaokallnmhlnmmafbhljiiihhelhiid,1.20,3,['https://lb.dioco.io/*'],nan,nan,nan,nan
+dapjoiijdlpiegcfcoaabnjdenmkncbc,13,3,['storage'],nan,nan,nan,nan
+khdjekphkbfboeejlccgnndhcklifomc,1.0.7,2,"['activeTab', 'storage', 'background', 'https://api.smiles.com.br/*', 'https://api-hml5.smiles.com.br/*', 'https://api-dev2.smiles.com.br/*']",nan,nan,nan,nan
+eppfmmcagnkpgbjdfghgcgpoajbdcphp,0.1,3,nan,nan,nan,nan,nan
+bkmliganboiipecfdlepoidohdfpljkk,0.1,3,nan,nan,nan,nan,nan
+hbiibabdaolgckcmmlkckjkcmmfdagap,0.51,2,"['https://www.smile.amazon.com/*', 'https://www.amazon.com/*', 'https://www.amazon.ca/*', 'https://www.amazon.fr/*', 'https://www.amazon.de/*', 'https://www.amazon.in/*', 'https://www.amazon.it/*', 'https://www.amazon.co.jp/*', 'https://www.amazon.com.mx/*', 'https://www.amazon.es/*', 'https://www.smile.amazon.co.uk/*', 'https://www.amazon.co.uk/*', 'https://extensions.adjusti.co/*', 'activeTab', 'tabs', 'webNavigation', 'storage']",nan,nan,nan,nan
+aigdkhcdmkaehfcnhabhkfpomkcflpcm,1.1,2,nan,nan,nan,nan,nan
+ahgkkolbomlbkbeapmphddlhhimmefci,1.2,3,nan,nan,nan,nan,nan
+ahhlohmpnoijnmmmhbfhcikhamlmddge,1.0,2,nan,nan,nan,nan,nan
+ahpeipcnhichcfjldjcikodkofjpoocd,0.2,3,"['activeTab', 'storage']",nan,nan,nan,nan
+ccigddhpbhnlhdhafkcdjididdelghkj,1.2,3,"['contextMenus', 'storage']",nan,nan,nan,nan
+ehigjigpolmdglippjafhnpngmaeepkp,1.4.6,2,"['notifications', 'contextMenus', 'storage']",nan,nan,nan,nan
+oikmhlphjkiohmgkdldifggnamddhoea,1.3.9,2,"['notifications', 'storage']",nan,nan,nan,nan
+fnfpaldoamkghkmcdpnailhjbibfkdei,1.2.0,2,"['notifications', 'storage']",nan,nan,nan,nan
+ndfhjjfnjedkafejgjnpljcobickgcoj,1.1,3,[],nan,nan,nan,nan
+limemoifnaonjflnmlnbachimddmkbcm,1.0,2,"['activeTab', 'webRequest', 'alarms', 'tabs', 'http://*/*', 'https://*/*', 'https://ajax.googleapis.com/']",nan,nan,nan,nan
+llihommpenahjnbodaokfamncmhffijj,3.0.0,3,"['clipboardRead', 'storage', 'identity', 'webNavigation']",nan,nan,"['https://www.notion.so/*', 'https://data.mongodb-api.com/app/data-dpmzk/endpoint/data/v1/action/*', 'https://accounts.google.com/', 'https://www.googleapis.com/*']",nan
+ncjlgbnopdeldjbdbcpgdepfifhpocip,3.1.1,2,"['tabs', 'notifications', 'storage']",nan,nan,nan,nan
+enlfcloihpdcbicopobfiimfklphjckj,2.0.1,3,"['storage', 'tabs']",nan,nan,nan,nan
+mcgbmeaiaekkhelampjeonlphfiignhf,1.0.1,3,nan,nan,nan,nan,nan
+okbmhhibnkjkjdhglljididflelkbcnl,1.0,3,['https://www.pciconcursos.com.br/*'],nan,nan,nan,nan
+cddilnjpngoldpdhfiibcjenaphclbik,0.1.1,3,"['scripting', 'tabs', 'storage']",nan,nan,['https://www.irctc.co.in/'],nan
+ppklhnpdbmedfmgidedifnpdfcdlfijn,1.0.8,3,"['declarativeNetRequestWithHostAccess', 'webRequest', 'contextMenus', 'scripting', 'activeTab', 'storage']",nan,nan,['*://*.southwest.com/*'],nan
+blolnhpjnkcjhkbmhmfaihfcdpjnfcnf,1.4.1,3,[],nan,nan,nan,nan
+onhbcdnogcjbidhaobgfkpmpcnlmcabc,1.0.0,3,nan,nan,nan,nan,nan
+mkihdkggmhpjbofehepmpbahoiocmmmp,1.0.6,3,['contextMenus'],nan,nan,nan,nan
+fcldbcimenblmfddpddleeagphaehjig,1.14,3,nan,nan,nan,['https://www.lingq.com/*'],nan
+knpgaiopijelgaapdoobdhobkckfapeo,1.4,2,"['activeTab', 'tabs', 'storage']",nan,nan,nan,nan
+ocfdgmgbhncnjdcbkajgankjnondmlng,1.0.2,3,nan,nan,nan,nan,nan
+ebmikclmclbbegfbneckmdecnakdlnbo,1.0.1,3,nan,nan,nan,nan,nan
+gplogfabagnilfbgglaklfdkhfongehh,1.1.0,3,nan,nan,nan,nan,nan
+fbfebfpnhemnejhbebdhnfbkfdgknjgo,3,3,nan,nan,nan,nan,nan
+mlgcopjbmfifbhkdifcohfjleeafdakn,1.5.1,3,"['activeTab', 'tabs', 'scripting']",nan,nan,nan,nan
+gkndbpenbfbffdecgjhfjpdceohfkmfa,1.12,2,"['tabs', 'downloads', 'notifications', 'https://leadspate.com/*', 'clipboardRead', 'clipboardWrite']",nan,nan,nan,nan
+cmppflgoijmdpnhmnlbomhpgmllopkfh,1.0.0,2,['contextMenus'],nan,nan,nan,nan
+mhchjhjlolbchlkbfmcndojcjcacpchk,1.4.1,2,[],nan,nan,nan,nan
+dbeojjdkilnnbblfocbobnkkijkifjln,0.0.2,2,"['webRequest', 'webRequestBlocking', 'tabs', '<all_urls>']",nan,nan,nan,nan
+hhphckcekmhnkkjadjdafalalcgphmec,1.1.3,2,['tabs'],nan,nan,nan,nan
+jmkilpflfppmllmflopbhmjelomcokab,1.0,2,"['tabs', '<all_urls>']",nan,nan,nan,nan
+oappnhoacahajcbdahelilgpkjhfgppm,1.0,3,nan,nan,nan,['*://*.twitter.com/*'],nan
+naabfciimcjlmnohcligmgihhpihloah,1.2.7,3,"['storage', 'management']",nan,nan,nan,nan
+aomfbgcabccoecaoimicmmkjdmdgcfpi,1.3.0,3,"['storage', 'activeTab', 'contextMenus']",nan,nan,['*://api.cloudflare.com/*'],nan
+aflbgpajmfkoblfcgeambdlohbeieppb,1.2.2,3,nan,nan,nan,nan,nan
+bjcgghhinbbimilgfikkkjnkgneocnfc,0.0.1,3,['storage'],nan,nan,nan,nan
+bifaghdkeedmecgeiehnhdbibblfmojp,4.3,3,"['scripting', 'activeTab']",nan,nan,nan,nan
+mmnbenehknklpbendgmgngeaignppnbe,3.2.0,2,"['tabs', 'http://*/*', 'https://*/*', 'storage', 'webRequest', 'webRequestBlocking']",nan,nan,nan,nan
+echhhkiannfcdiffgjoelanhlihdfnmd,1.0.1,3,"['declarativeNetRequest', 'declarativeNetRequestFeedback', 'storage']",nan,nan,"['*://*.chess.com/*', '*://*.lichess.org/*', '*://lichess.org/*']",nan
+ommfjicndjfpkiacbafjaomojmdkighb,1.0,2,['activeTab'],nan,nan,nan,nan
+ahihijinegnbdjmfogdhcmagdeaeaohm,1.1,3,[],nan,nan,"['*://*.habbo.com/*', '*://*.habbo.es/*', '*://*.habbo.nl/*', '*://*.habbo.de/*', '*://*.habbo.com.tr/*', '*://*.habbo.com.br/*', '*://*.habbo.fi/*', '*://*.habbo.it/*', '*://*.habbo.fr/*']",nan
+aglbdkmndnefhjfkldnbjihdpjhnbhla,1.0,3,['storage'],nan,nan,nan,nan
+cfgdfmgcaflmgohnkfajfpeaclpealhm,1.0.0,2,nan,nan,nan,nan,nan
+foilcombgnkojkhikaoooldccgpkhaam,1.7,2,"['activeTab', 'storage', 'https://api.facthunt.in/*']",nan,nan,nan,nan
+lmmioleenacoalnjphdphkfemckpnmpf,1.0,2,['geolocation'],nan,nan,nan,nan
+ljbadfnkbocoioieekdiikcjffinaolf,1.0.0,2,nan,nan,nan,nan,nan
+icbhlpeofdnainmeojihchbgfffhpaeb,0.3,2,"['*://*.goglet.net/*', '*://*.twitter.com/*', 'cookies']",nan,nan,nan,nan
+ndojdkkfmdpibcfhldelolhjlcehklfe,2.0,2,nan,nan,nan,nan,nan
+mdohhjipbjgmecpmiplgojgfecigcijo,1.1,3,['activeTab'],nan,nan,nan,nan
+ocgbiohajlbbndhimajdbfjhlcpjmpgg,1.0.6,3,"['scripting', 'storage']",nan,nan,['https://*/*'],nan
+jnbbejdgeiejngcmeebgfmpadgiioana,0.5,2,[],nan,nan,nan,nan
+amkndmbbgjmbcljbaloojcmaflffkgah,1.1,2,nan,nan,nan,nan,nan
+ekkglnkdfldklnhgkfnjpijbbhgllamm,3.1,3,['privacy'],nan,nan,nan,nan
+ejicegndjlfahakhnhfphjdpkeckngah,1.2,2,['tabs'],nan,nan,nan,nan
+eipegmfemmhlmmndmiejejepljfjmdnm,0.0.0.2,3,nan,nan,nan,['https://chat.openai.com/*'],nan
+mkkcogajjhifailmfhepioanhfkjbejm,1.1.3,3,nan,nan,nan,nan,nan
+cfolkklofhdnkipabocfipfapkhebddd,1.0,3,nan,nan,nan,nan,nan
+hdabkddcdmmbhbheicmnkdkodfjnnpmk,0.3,3,"['activeTab', 'https://nelo.navercorp.com/*']",nan,nan,nan,nan
+bjehnghoofbfbiaflippfgpelmeaphfj,2.1,3,['tabs'],nan,nan,nan,nan
+bipbdeaekfnhcngefkkhcemcblpplgpe,2.0,3,nan,nan,nan,nan,nan
+bikjkponiibfbdjbnacnbcpekpfnahbg,2.1.55,3,"['tabs', 'activeTab', 'debugger', 'downloads', 'nativeMessaging']",nan,nan,['<all_urls>'],nan
+bhpfhknmncbaalkndliahjmghdpdgedd,0.0.1,2,nan,nan,nan,nan,nan
+bhjkejcdhaoaepnefpfjfdodkdjiniog,0.0.2,2,"['storage', 'http://*/*', 'https://*/*']",nan,nan,nan,nan
+bgnacdfmnahjbboeddjlfkkhilohkiaa,1.0,2,['activeTab'],nan,nan,nan,nan
+bghmceoojphifcjdncfdnbilpodhnaeo,1.0,2,['activeTab'],nan,nan,nan,nan
+idhemoiimcnabhgacjhbchejeeeejdog,4.1.1,3,"['identity', 'identity.email', 'activeTab', 'scripting']",nan,nan,"['*://*.youtubeify.com/', '*://*.google.com/', '*://*.pinterest.com/']",nan
+ajaklmopoccgidielepheckckfifeacp,1.0.2,3,"['storage', 'cookies']",nan,nan,"['*://*.twitter.com/*', '*://*.ikeyly.cn/*']",nan
+pppcdacbbfefbeaekmbchadkcablccap,1.1,3,"['webRequest', 'storage']",nan,nan,"['*://*.tiktok.com/*', '*://*.extensionpay.com/*']",nan
+eaekdbfhpbfloknghhpdoodljkaficjo,2.1.2,2,"['tabs', 'http://*/', 'https://*/', 'contextMenus']",nan,nan,nan,nan
+knbgnkbnnmelfaahhoenjjpgmoddglnn,1.0.1,3,nan,nan,nan,nan,nan
+cdlcnglamlpcomkapdnabecponplgaao,0.0.1,2,nan,nan,nan,nan,nan
+pbobfojkcbhfodfnbpjhakhdmeokoold,2.0,3,['scripting'],nan,nan,nan,nan
+ajopnjidmegmdimjlfnijceegpefgped,7.5.18,2,['*://*.twitch.tv/*'],['*://*.youtube.com/*'],nan,nan,nan
+llonmmijihonahfilmaiemdjbfhgioof,0.0.11,3,"['activeTab', 'tabs', 'scripting', 'downloads', 'storage']",nan,nan,"['https://*/*', 'http://*/*', 'file://*/*', '<all_urls>']",nan
+iiopbdanicaeijelgbbilpmoeongakkf,1.9,3,"['storage', 'cookies']",nan,nan,"['*://*.twitter.com/*', '*://*.ikeyly.cn/*']",nan
+bebneahlknpobbjallgejgjniknoilep,7.76,2,"['https://*.mlcdn.com.br/*', 'https://*.amazon.com/*', 'https://amazon.com/*', 'https://*.amazon.com.br/*', 'https://amazon.com.br/*', 'https://*.casasbahia.com.br/*', 'https://casasbahia.com.br/*', 'https://pichau.com.br/*', 'https://*.pichau.com.br/*', 'https://*.b2w.io/*', 'https://kabum.com.br/*', 'https://*.kabum.com.br/*', 'https://*.pontofrio.com.br/*', 'https://pontofrio.com.br/*', 'https://*.vteximg.com.br/*', 'https://americanas.com.br/*', 'https://*.americanas.com.br/*', 'https://*.balaodainformatica.com.br/*', 'https://balaodainformatica.com.br/*', 'https://*.casasbahia-imagens.com.br/*', 'https://efacil.com.br/*', 'https://*.efacil.com.br/*', 'https://extra-imagens.com.br/*', 'https://*.extra-imagens.com.br/*', 'https://extra.com.br/*', 'https://*.extra.com.br/*', 'https://imgeletro.com.br/*', 'https://*.imgeletro.com.br/*', 'https://magazineluiza.com.br/*', 'https://*.magazineluiza.com.br/*', 'https://pontofrio-imagens.com.br/*', 'https://images-na.ssl-images-amazon.com/*', 'https://*.pontofrio-imagens.com.br/*', 'https://*.fastshop.com.br/*', 'https://ricardoeletro.com.br/*', 'https://*.ricardoeletro.com.br/*', 'https://shopfato.com.br/*', 'https://*.shopfato.com.br/*', 'https://*.submarino.com.br/*', 'https://submarino.com.br/*', 'https://a-static.mlcdn.com.br/*', 'https://shoptime.com.br/*', 'https://*.shoptime.com.br/*', 'http://*.mlcdn.com.br/*', 'http://*.amazon.com/*', 'http://*.fastshop.com.br/*', 'http://amazon.com/*', 'http://*.amazon.com.br/*', 'http://amazon.com.br/*', 'http://*.casasbahia.com.br/*', 'http://casasbahia.com.br/*', 'http://pichau.com.br/*', 'http://*.pichau.com.br/*', 'http://*.b2w.io/*', 'http://kabum.com.br/*', 'http://*.kabum.com.br/*', 'http://*.pontofrio.com.br/*', 'http://pontofrio.com.br/*', 'http://*.vteximg.com.br/*', 'http://americanas.com.br/*', 'http://*.americanas.com.br/*', 'http://*.balaodainformatica.com.br/*', 'http://balaodainformatica.com.br/*', 'http://*.casasbahia-imagens.com.br/*', 'http://efacil.com.br/*', 'http://*.efacil.com.br/*', 'http://a-static.mlcdn.com.br/*', 'http://extra-imagens.com.br/*', 'http://*.extra-imagens.com.br/*', 'http://extra.com.br/*', 'http://*.extra.com.br/*', 'http://imgeletro.com.br/*', 'http://*.imgeletro.com.br/*', 'http://magazineluiza.com.br/*', 'http://*.magazineluiza.com.br/*', 'http://pontofrio-imagens.com.br/*', 'http://*.pontofrio-imagens.com.br/*', 'http://ricardoeletro.com.br/*', 'http://*.ricardoeletro.com.br/*', 'http://shopfato.com.br/*', 'http://*.shopfato.com.br/*', 'http://*.submarino.com.br/*', 'http://submarino.com.br/*', 'http://shoptime.com.br/*', 'http://*.shoptime.com.br/*', 'storage', 'notifications']",nan,nan,nan,nan
+nanaaocpdojmpicmeifnpihjiadboalg,1.0.3,3,"['tabs', 'scripting', 'webNavigation']",nan,nan,['https://order.gfs.com/*'],nan
+mgcgeddilmodfgfhbfomicamcnhjneco,1.0,3,[],nan,nan,[],nan
+iejhfdkllnilionbnabnhnckhacklcab,1.0.0,3,"['tabs', 'activeTab']",nan,nan,nan,nan
+lhkmcagjglbchccdapmglhalogmmeoah,0.0.2,3,['tabs'],nan,nan,nan,nan
+dncaaigngkgnjkiammpembjiblnkkcoo,1.0,3,"['activeTab', 'scripting']",nan,nan,nan,nan
+dfhbabngcbppidpbmdcopaedipclfbco,1.0.4,3,['storage'],nan,nan,nan,nan
+homnophpjlhlpaglnfpomcambjmgceem,1.1.1,3,"['geolocation', 'storage']",nan,nan,nan,nan
+meceblpljineinfobhifpfaolaeonddk,0.0.1,2,"['tabs', 'http://*/*', 'https://*/*']",nan,nan,nan,nan
+kbenfbfnjbiimkofkpbhnomgepbnmbdc,0.1.9,3,"['downloads', 'storage', 'commands', 'activeTab', 'scripting']",nan,nan,['<all_urls>'],nan
+pboonojmkhhhibblmnmbjiciigfcjakl,1.0,3,['storage'],nan,nan,nan,nan
+ncedgffcnbdkifleigbmlohnlmhckdpa,1.0.3,2,['http://api.giphy.com/'],nan,nan,nan,nan
+kbcgecpphhdahnngcgpdbffckegfgaep,1.4,3,nan,nan,nan,['https://photo.philippkeschl.at/'],nan
+okmdiplmcmmgllhacogjkaechbilgcag,1.0.0,3,nan,nan,nan,nan,nan
+hjllohbggnbpnddaohabbeoaldobbjdk,0.1.0,2,nan,nan,nan,nan,nan
+kdhgchajeegpdoffcpimcbhmopponmld,1.0,3,nan,nan,nan,nan,nan
+jlnlkhjoffmjcldjhabmbjkmpofhdboo,1.0.3,3,"['storage', 'declarativeNetRequest', 'tabs']",nan,nan,"['<all_urls>', 'https://flixzilla-test.netlify.app/*', 'https://flixzilla.netlify.app/*']",nan
+kepejknbdhbkcmphaomecgobapcnldfo,0.1.18,3,['storage'],nan,nan,nan,nan
+jkcknopfimgooianhpalbehiagobodmf,1.0.1,3,"['tabs', 'scripting']",nan,nan,['https://www.youtube.com/watch*'],nan
+jkbhhgjijphblgjmcdbekfppcocokffj,0.0.1,2,nan,nan,nan,nan,nan
+cgfphdgpinpefnokcjfobklcagndmjbj,1.0.0,2,nan,nan,nan,nan,nan
+alpbdocjibbcmecmnlkobeefiehdhkpo,0.0.1,3,nan,nan,nan,nan,nan
+aknkikkncjfghdgohjfgffahlnfbhmoj,1.0,3,['tabs'],nan,nan,nan,nan
+albiloibapmkhcgelepghnfpkliehafn,0.0.0.1,3,['tabs'],nan,nan,['https://duh-api.netlify.app/api'],nan
+akkebbhjajalpiekmfkmifhiilfipjmh,1.1.2,3,[],nan,nan,nan,nan
+aihenpjigmbdkocojpgodnjmglgkacbc,1.0.0,3,nan,nan,nan,nan,nan
+kakmanlkbacoehanankgdpnholloaokd,1.1,3,['storage'],nan,nan,nan,nan
+nonmafimegllfoonjgplbabhmgfanaka,2.8.15,3,"['management', 'proxy', 'alarms', 'storage']",nan,nan,[],nan
+delbeopabnladpiicaocjnbpmilhigdp,1.1,3,"['storage', 'alarms']",nan,nan,"['https://*.ntfpowertool.com/*', 'http://*.ntfpowertool.com/*', 'https://*.notion.so/*', 'https://*.notion.site/*', 'https://*.notiontopdf.site/*']",nan
+kgjcefhnfhpoodnfgndabophdflbngej,1.185.0,2,"['tabs', 'activeTab', '<all_urls>', 'storage', 'unlimitedStorage', 'alarms', 'desktopCapture', 'notifications', 'system.memory', 'system.cpu', 'system.display']",nan,nan,nan,nan
+mhpibgkjifdcjggogpjagajhabfknhdp,2,3,"['http://*/*', 'https://*/*']",nan,nan,nan,nan
+fomlcnbdpbpbmddmfbbafpcpgigmpied,1.3,3,"['storage', 'activeTab', 'webRequest', 'downloads']",nan,nan,['https://global.americanexpress.com/dashboard'],nan
+adglhhddohjoijboeejfahimbkfcdlgf,1,3,"['http://*/*', 'https://*/*']",nan,nan,nan,nan
+jmglbofkoehdcbaigahpimmbkfdlepdj,1.0.2,3,nan,nan,nan,nan,nan
+nfoblkhlmiojieoecfpinjffafihfklh,3.2.0.1,2,['nativeMessaging'],nan,nan,nan,nan
+hjmoppalabkdebcphgbnamjgdhigield,1.0.4,3,"['activeTab', 'storage', 'scripting']",nan,nan,nan,nan
+jjmpolanogoifpcppmalpdcfkjlicoai,0.0.1,3,"['storage', 'unlimitedStorage']",nan,nan,['https://web.whatsapp.com/*'],nan
+kdnjciinggdahmclemhkghbpodckhomj,1.3,3,nan,nan,nan,nan,nan
+jkkkekhdhhdankhpjmbjllfmhiiieigg,1.0,3,"['tabs', 'contextMenus', 'storage']",nan,nan,nan,nan
+jcbhcgdilhchpnadjnaffbkfficlnfcb,1.0,3,"['storage', 'tabs']",nan,nan,['*://*.twitch.tv/*'],nan
+cofbifhnbilghpifhcbjfildajglklhk,1,3,nan,nan,nan,nan,nan
+dancefdmoofbmhkefooohngggckfbngc,1.1.1,3,['storage'],nan,nan,nan,nan
+damjambpihdlgkdkmeohilnodkgicnhm,1.0,3,nan,nan,nan,nan,nan
+cfeffmbofphfniofkcclbciepbdchlce,1.0.0,3,nan,nan,nan,nan,nan
+chdmokekkidkjhbnfhemmehafmfcajca,1.0,3,nan,nan,nan,nan,nan
+cepcnmnlgpjhcmdjmgoadcmlbkhihlof,1.5,3,nan,nan,nan,nan,nan
+cdbbmjkjkoemiimhoeckfojnnnaiakoj,1.1.2,3,"['activeTab', 'contextMenus', 'clipboardWrite', 'scripting']",nan,nan,nan,nan
+boeaejjldcmekafcddikolfdbmhejjao,1.0,3,"['activeTab', 'scripting', 'storage']",nan,nan,nan,nan
+bloeponkhinjmkebokkpekhhmjakelib,0.0.1,3,['tabs'],nan,nan,nan,nan
+cbafpdnfopladkkgjkmhnadpmfajbnag,1.2,3,"['contextMenus', 'scripting']",nan,nan,['*://*/'],nan
+cpipffohfdjicnolndjodfgckhpgjoid,1.6,3,nan,nan,nan,['*://*.greentreesearch.com/'],nan
+kablckeallljpgnkaifaeckgkaejhpjp,1.2,3,"['activeTab', 'storage', 'scripting', 'identity', 'identity.email']",nan,nan,nan,nan
+pnbkhmjiebpnhlemgbjkmppflfcnjmln,1.1,3,"['storage', 'webNavigation', 'webRequest', 'notifications']",nan,nan,"['https://api.chatbro.cn/*', 'https://www.baidu.com/*', 'https://www.google.com/*', 'https://*.bing.com/*']",nan
+ffjbdlckenbhcpabpdobeldlocbgehae,2.3.13,3,nan,nan,nan,"['http://*/', 'https://*/']",nan
+obfgjfdpponfnmibbkddcegelhfojhbn,1.1.3,3,['storage'],nan,nan,"['*://*.genproresearch.com/*', '*://*.voody.io/*', 'http://127.0.0.1/*']",nan
+hnhfbkifbdghfaomkfmopoefmmafhelb,2.20,3,"['storage', 'activeTab', 'tabs', 'scripting']",nan,nan,"['http://*/*', 'https://*/*', '<all_urls>']",nan
+aladhkoljclnbmhahcpmhldmkpkapfao,1.0,3,"['activeTab', 'scripting']",nan,nan,"['http://*.uaeu.ac.ae/*', 'file:///']",nan
+dainhconpelejndoomgpcidefdmgfnbg,1.0,3,nan,nan,nan,nan,nan
+blofpnobacpfbaapkebfdhhpiipgdlgj,1.1.2,3,"['tabs', 'storage']",nan,nan,nan,nan
+ancjfmefdjfbmccnmdbflihkmehbjlic,1.0.0,3,"['activeTab', 'scripting']",nan,nan,nan,nan
+onglojcafhliggneoncjilgkicldjeal,1.1.3,3,['storage'],nan,nan,"['*://*.genproresearch.com/*', '*://*.voody.io/*', 'http://127.0.0.1/*']",nan
+ccblcjhcdaobpplhjdnmpihaclfmlalk,1.1.1,3,['storage'],nan,nan,['*://*.linkedin.com/*'],nan
+cbppffnkmafemfjgpamcfpojljhdjgnf,1.1.2,3,['storage'],nan,nan,nan,nan
+cbflieeaipmlmafomdbjfepgmbleajhl,1.0,2,['contextMenus'],nan,nan,nan,nan
+cbdbbadankhkhbpgnidkdcikmfkebmng,1.0,3,['tabs'],nan,nan,['*://*/*'],nan
+bpolalpbgcghnpkhpcnccpjaihmnflnj,3.2.3,3,['management'],nan,nan,nan,nan
+camhibccnigmpgbdmegbmfmllcodjbje,1.1,3,['contextMenus'],nan,nan,nan,nan
+cbdglchepfinflmacdpngipgldgkhijo,1.0,3,"['activeTab', 'scripting', 'webNavigation']",nan,nan,['<all_urls>'],nan
+bpkpfkpgcmpmenlfjjnejbifllnkakfi,1.9,3,['fontSettings'],nan,nan,nan,nan
+bpkmgojgkomdikjniliagchhgdmlmgec,1.0.3,2,['storage'],nan,nan,nan,nan
+bojmhgooehbocnfofajgeeapljbfdelh,8.0.0,3,nan,nan,nan,nan,nan
+bofaenhkdgjoahkhhkaekhbpbecephpg,1.0.0,3,nan,nan,nan,nan,nan
+bpjknhhabngbbnfaahebebngkocaclei,0.2.0,3,"['storage', 'tabs']",nan,nan,['https://www.linkedin.com/*'],nan
+bofebhgldkoidaefbmilbghfokbdcdik,2,3,"['tabs', 'history', 'commands']",nan,nan,['https://*/*'],nan
+bnlchhcmepknhkokfppfgcpcpnohinma,0.1.0,3,"['activeTab', 'commands', 'scripting']",nan,nan,nan,nan
+bnjfdojdpojeakjbiafjhnekjndbaakh,1.0,3,nan,nan,nan,nan,nan
+bmjmdjgkhnofpkalolofmambblanolnp,1.0.5,3,nan,nan,nan,['https://find.search-direct.net/*'],nan
+bmbgifadklcfdfgimakghggknfpgjfai,1.1.0,3,nan,nan,nan,"['https://search.tab-weather.xyz/', 'https://tab-weather.xyz/*', 'https://tab-weather.xyz/']",['*://*/*']
+blklmaelkcebbhpgpnhhlmnhmidffacj,0.1,2,nan,nan,nan,nan,nan
+bmfgjdidfijfpdeldlindbpbabdnjbmd,1.0,3,"['activeTab', 'contextMenus']",nan,nan,nan,nan
+bmboohijhfipdfhlkgiepemblkajamdb,1.0.0,3,nan,nan,nan,nan,nan
+blceinfcliehiigbckndjpcgnffgdepp,1.0,3,[],nan,nan,nan,nan
+blcaoofgjkjhbajdbaehajpnhbbjilhp,1.1.8,3,[],nan,nan,nan,nan
+bljcamddomdmafndinlhnicailadcoce,1.0.0,3,nan,nan,nan,nan,nan
+blamaifafdeahimaecamojcoopdjjpgo,0.0.1,2,"['*://lmgtfy.com/?q=*', '*://*.lmgtfy.com/?q=*']",nan,nan,nan,nan
+bkjoajphbbkiaiodnhhgjjjafdbcoppm,1.0,3,['search'],nan,nan,nan,nan
+bjfipmdaafkmnmnohkelbbmmpnomhkae,0.1.0,3,"['tabs', 'downloads', 'scripting']",nan,nan,['https://*.bu.edu/*'],nan
+bkhhakljfejgmeejcfnhmlkhlbaflfmj,1.0,3,[],nan,nan,nan,nan
+bindfiihaadndbejmokkjfajfjjdcjno,1.0,3,"['activeTab', 'alarms']",nan,nan,nan,nan
+bjmabnapmjadpgbkenclipnjpdndkknc,0.0.1,3,nan,nan,nan,nan,nan
+belkhhknfeepojlpkpnoapokiknkdfkm,0.1.0,3,['storage'],nan,nan,['https://www.xinpianchang.com/*'],nan
+bednjkkefpjkihmnhjokihjjcodjkdfm,1.2.3,3,[],nan,nan,nan,nan
+beknoecfahandelcohibdnaadbffmppo,1.0,3,nan,nan,nan,nan,nan
+beggaogmhdbhbjghlbbnccjmdcljipik,1.0.0,2,"['bookmarks', 'history', 'storage', 'alarms', 'notifications', 'https://news.google.com/*', 'https://suggestqueries.google.com/*', 'https://www.metaweather.com/*', 'https://api.superaddon.com/*']",nan,nan,nan,nan
+bdjofogmjjkgnhpcflkipjcnnlbmjlkn,1.7,2,"['tabs', 'identity', 'https://www.googleapis.com/', 'activeTab']",nan,nan,nan,nan
+bagaaifhoacemdjlgligfnmnfgenffcf,1.1,3,['storage'],nan,nan,nan,nan
+bdinecehiblkdalakejbkhgjbifgcgoa,1.3,2,"['webRequest', 'storage', 'activeTab', '<all_urls>', 'http://*/', 'https://*/']",nan,nan,nan,nan
+bdimojlkombjcnnfiadfcflcnamaiemj,1.0,2,['activeTab'],nan,nan,nan,nan
+apppfekpbdhebfoifbbbkpllcdlehddh,1.3.0,3,"['storage', 'downloads']",nan,nan,nan,nan
+bchkhkojefochglgmgdmailhdjmpledh,1.0,3,"['activeTab', 'webRequest', 'webNavigation', 'storage']",nan,nan,nan,nan
+apfcaoapdefikjndgggeljelppppfckj,0.0.1,3,nan,nan,nan,nan,nan
+anndempcfmcngdlkjjaaenfmikojffdp,2.4.5,3,[],nan,nan,nan,nan
+aojfpijlbennneohhbcbjjhplpngjkcc,1.3,3,['storage'],nan,nan,nan,nan
+aogongapjkeilfgddhbdcmoljnbpmeid,1.0,2,"['tabs', '<all_urls>']",nan,nan,nan,nan
+aodamcbjoakjlpalnabjklmdmdnjmape,1.0,3,"['contextMenus', 'storage', 'downloads', 'activeTab', 'tabs']",nan,nan,nan,nan
+angineclpfgfaaggdhkeojohhnomdjmd,1.1,3,"['activeTab', 'contextMenus']",nan,nan,nan,nan
+aoadabfhakaheclcjciimnccfnolmmli,1.0,3,"['tabs', 'activeTab']",nan,nan,nan,nan
+amleaihlkllljghbibpchilboidikdka,0.0.2,2,"['bookmarks', 'notifications', 'https://www.baidu.com/', 'https://*.google.com/', 'https://*.google.com.hk/']",nan,nan,nan,nan
+amkphblmhbcabajmbhpkhkbnfhieeklp,2.4.9,3,[],nan,nan,nan,nan
+amifogigllnaheopoaepffkcdbkojoka,0.0.1,2,nan,nan,nan,nan,nan
+amhnglphepkpmjhlfcpmohkjbaidlpko,1.2,3,"['storage', 'tabs', 'activeTab']",nan,nan,"['http://jlbyminiapp.zhonganonline.top/api/*', 'https://darenim.jinritemai.com/*', 'https://*/*']",nan
+amfblgikhenbcojadbmjpmmogjdjfcfb,1.0,3,nan,nan,nan,nan,nan
+gkmcmdpghbgjdjgclipgdeikdhnnabhm,1.0,2,"['contextMenus', 'storage', 'tabs', 'unlimitedStorage', 'webNavigation', 'http://*/*', 'https://*/*']",nan,nan,nan,nan
+aflimahpkmnllgnninbfakkfcdfcjgoh,1.0.0,2,"['storage', 'alarms', 'https://merkezhaber.com.tr']",nan,nan,nan,nan
+locogdiaghpljdgjmmigelnoboecpbcc,1.0,2,['https://news.ycombinator.com/'],nan,nan,nan,nan
+loandcfokloijhjkdlhbccefekekkfdf,0.0.1,2,nan,nan,nan,nan,nan
+ghojdccmgelokhdimfclojmmmnedlhjn,1.4.16,3,"['scripting', 'storage', 'unlimitedStorage']",nan,nan,"['*://*.zillow.com/*', '*://*.google.com/maps/*']",nan
+gdlfoklhjjpamkniocggkmbapmcncoll,1.7.3,3,['storage'],nan,nan,nan,nan
+gpmjncadllbbboabokgmlbmddppbpgnl,1.2.0,3,"['storage', 'contextMenus', 'activeTab', 'tabs']",nan,nan,['https://www.nnote.je/'],nan
+fhagmflcnephkogmffogffhamajlpjac,0.1.0,3,"['alarms', 'tabs', 'storage', 'notifications']",nan,nan,['*://*.google.com/'],nan
+gbehhibojmfiokelfkdgjhcpfbddckga,0.1.6,3,"['cookies', 'storage']",nan,nan,"['*://*.sanka.io/*', '*://*.linkedin.com/*', '*://*.instagram.com/*', '*://*.twitter.com/*']",nan
+gddbgllpilhpnjpkdbopahnpealaklle,3.14,2,"['tabs', 'webRequest', 'webRequestBlocking', 'http://*/*', 'https://*/*', 'downloads', 'storage']",nan,nan,nan,nan
+omlbbmjaebechjbflanadgohglkjhjmc,3.0.15,3,"['activeTab', 'tabs', 'storage', 'scripting', 'cookies', 'alarms']",nan,nan,"['*://*.pocketrecruiter.com/*', '*://*.indeed.com/*', '*://*.seek.com.au/*', '*://*.linkedin.com/*', '*://*.xing.com/*', '*://*.naukrigulf.com/*', '*://*.naukri.com/*', '*://*.localhost/*']",nan
+djbbokpfbbipcdnodgadkidppckgajgp,1.2,3,"['activeTab', 'storage', 'browsingData', 'scripting']",nan,nan,['<all_urls>'],nan
+fongbnpplbbkkoapkimchaffgjmpgdmc,1.1.4,3,"['storage', 'tabs']",nan,nan,['https://*/*'],nan
+adnpnpeaakhdhlhbcnbpepbdiddopgdb,2023.02.15.3,3,[],nan,nan,['*://calendar.google.com/*'],nan
+iacgllakgepjfgodoamgegaoiicaffbc,1.1,3,['activeTab'],nan,nan,"['*://*.notion.so/*', '*://*.notion.site/*']",nan
+ajmkaajijdmecpehfebohpbeekalkmeg,1.0,3,"['tabs', 'notifications', 'storage']",nan,nan,['*://*/*'],nan
+hokcmoganpomhjpgjlplpjldommjodlh,3.1.1,3,"['storage', 'downloads', 'scripting', 'cookies', 'alarms']",nan,nan,['<all_urls>'],nan
+ljdbiecgdoagopbplcaliknlmckdblpm,0.1.1,3,"['cookies', 'scripting']",nan,nan,"['*://*.bilibili.com/*', '*://*.b23.tv/*', '*://*.tiktok.com/*', '*://*.douyin.com/*', '*://*.weibo.com/*', '*://*.ixigua.com/*', '*://*.toutiao.com/*', '*://*.baidu.com/*', '*://*.kuaishou.com/*', '*://*.acfun.cn/*', '*://*.qq.com/*', '*://*.iqiyi.com/*', '*://*.cctv.com/*', '*://*.cntv.cn/*', '*://*.mgtv.com/*', '*://*.sohu.com/*', '*://*.youku.com/*', '*://*.zhihu.com/*', '*://*.douban.com/*', '*://*.ximalaya.com/*', '*://*.pornhub.com/*', '*://*.xvideos.com/*', '*://*.4tube.com/*', '*://*.facebook.com/*', '*://*.twitter.com/*', '*://*.vimeo.com/*', '*://*.dailymotion.com/*', '*://*.naver.com/*', '*://*.nicovideo.jp/*', '*://*.nico.ms/*', '*://*.ted.com/*', '*://*.twitch.tv/*', '*://*.coub.com/*', '*://*.afreecatv.com/*', '*://*.imdb.com/*', '*://*.yandex.kz/*', '*://*.soundcloud.com/*']",nan
+kjkefnldhelkogdhfiinddepofjbgmna,0.1.9,2,"['storage', 'activeTab']",nan,nan,nan,nan
+pfmoeniojifpdmfbndnecdjgahmhaiak,0.1.9,3,"['storage', 'activeTab', 'scripting']",nan,nan,nan,nan
+fafmeoecefijagoogbkipapmjdnmbkgi,2.0.9,3,"['storage', 'tabs', 'activeTab', 'scripting']",nan,nan,"['https://*.leboncoin.fr/*', 'https://*.seloger.com/*', 'https://*.bienici.com/*', 'https://*.homeinlove.fr', 'http://*.homeinlove.fr', 'http://*.homeinlove.lo']",nan
+cdoonbaiehijdllmcohlaheclbjminfe,0.0.0.1,3,nan,nan,nan,nan,nan
+dklghbgmfgddahkljoahmehjeakjbefp,0.0.1,3,"['storage', 'activeTab']",nan,nan,nan,nan
+npgnpddcagclngdocpkmppopfbonbaif,1.1,3,nan,nan,nan,nan,nan
+lfenbndaegjkimfbfedaomeommggjfge,1.0,3,nan,nan,nan,nan,nan
+ldlcapdmaddcmhnmelfehiklgclgknhk,1.0.0,3,nan,nan,nan,nan,nan
+lbboccblgnomehmlbkdmplakhlfmcekp,1.5.8,3,['storage'],nan,nan,nan,nan
+imfccoakmjplhakflfamfikhcdimlebg,3.0.3,3,"['storage', 'tabs', 'system.display', 'scripting']",nan,nan,['<all_urls>'],nan
+lhaaafdljjpkmcihkobkkcmjfnhdincf,2.0.0,3,['storage'],nan,nan,nan,nan
+kgmajpgjieiieeeblodcchgpcahgennp,1.0.1,3,nan,nan,nan,nan,nan
+iocfihclbaejhbhdbepjibonaaccpank,1.0.0,3,['storage'],nan,nan,nan,nan
+hfnhknklhalcflpahnighaoecbcphlid,1.0.2,3,['storage'],nan,nan,['https://game.maj-soul.com/1/'],nan
+gaddpmelmdkidhldeioajjbnapliebbj,1.0,3,[],nan,nan,nan,nan
+fjefamijopfapjdannkeckcmmkhfbhoa,1.5.1,3,nan,nan,nan,nan,nan
+dhiaggccakkgdfcadnklkbljcgicpckn,7.0.0.5,2,"['*://www.strava.com/*', '*://app.strava.com/*', 'storage', 'unlimitedStorage']",nan,nan,nan,nan
+kaiojiaeggiemoiloakcinkmacbinhpn,1.1.1,2,"['http://www.teamliquid.net/*', 'http://www.touremind.net/*', '*://*.dd27438.kasserver.com/*', 'storage', 'notifications']",nan,nan,nan,nan
+jmlcildnngnpajfonnejaaghcblmefea,0.0.1,2,nan,nan,nan,nan,nan
+kiipnpndokinnnalilbdaobikndhiejk,1.0.0,3,"['geolocation', 'tabs']",nan,nan,nan,nan
+klapmcfidiacdlmblaakdidelleofhfj,1.0,2,nan,nan,nan,nan,nan
+hhpncjambhfdibbdgaekolafoljhpega,2.0,3,[],nan,nan,nan,nan
+inekblakmkjablbkinpgdcicgpgndhbb,1.0.0,3,nan,nan,nan,nan,nan
+gcgebfbmkcflaalbacpkcifdjlmeldkf,0.8,2,nan,nan,nan,nan,nan
+kpmmeoijonpogcdbjlkghobbkngipihn,1.0,3,nan,nan,nan,nan,nan
+lcgccgplnnipmdbmmdkdpeppmaddpkmp,1.0,3,nan,nan,nan,nan,nan
+ajpicmkmmgfpilflclfhdaglbeahpjon,3.3.4,3,"['storage', 'tabs', 'identity']",nan,nan,"['http://*.omniture.com/', 'https://*.omniture.com/', 'http://*.adobe.com/', 'https://*.adobe.com/', '*://*.corp.adobe.com/*', '*://*.adobe.com/*', '*://*.adobe.net/*']",nan
+bhaangddadkbiefbfojmhpegkmghkahj,1.7.2,2,"['activeTab', 'storage']",nan,nan,nan,nan
+fdidfehhkdagdnhlcgnooeiefcdpnmgc,0.99,3,"['cookies', 'activeTab']",nan,nan,"['*://app.recruiter.com.tr/*', 'http://localhost:8090/*', '*://*.linkedin.com/*', '*://*.kariyer.net/*']",nan
+bmbefdicbojeihnjmoodoldgmlgdabcm,1.7.9,3,[],nan,nan,nan,nan
+bmlkhgoeojmkkekadnhbhffgcgepdkoc,0.2,2,['https://gaston-api.herokuapp.com/echoJS'],nan,nan,nan,nan
+bmgjfdifknjoceghdnmmclnbdbhladhg,1.0,2,nan,nan,nan,nan,nan
+bkgnihhejmpnpfmnldagedoakkemfjpc,4.9.37,2,"['tabs', 'http://*/*', 'https://*/*']",nan,nan,nan,nan
+bkiiaebhbakhgedebpdlanmgbbkpbnaj,1.10,2,nan,nan,nan,nan,nan
+bkmdiikdnpmdepnlpbjnfdannobljlid,1.1,2,"['tabs', 'http://*/', 'https://*/', 'storage', 'activeTab', '<all_urls>', 'https://www.realtor.com/*']",nan,nan,nan,nan
+bkfdfbbfjgaknhejkahnmnhmjlilmljf,0.2.6,2,['desktopCapture'],nan,nan,nan,nan
+bkbnkmjahbcfcagnmpcedkchcbnghjnm,0.1,3,"['activeTab', 'scripting', 'storage']",nan,nan,nan,nan
+bkaokhepaphggamafggbbkfcfamffanj,1.0,3,"['activeTab', 'storage']",nan,nan,nan,nan
+bjnioomanlbaahlfnkfjbjjfaecagbll,0.0.0.1,3,"['activeTab', 'scripting']",nan,nan,nan,nan
+bjmojlidplaekeealajhdkkfpbeboiop,0.0.7,2,['desktopCapture'],nan,nan,nan,nan
+bjkdcjefbkjcfgldkakdillihmkcbefo,1.0,3,"['storage', 'activeTab', 'scripting']",nan,nan,nan,nan
+mfpfhipgnghfnaieaeiblcadlbclfgka,0.1.2,3,['storage'],nan,nan,['*://*.youtube.com/*'],nan
+pjeflfjkmmapkgaebemdhonklcdmflee,14,2,"['activeTab', 'clipboardWrite', 'storage', '*://www.webmemoshare.com/*']",nan,nan,nan,nan
+bnaaeaknilbkdaaiagejncgoecddgcde,0.9.1,3,"['storage', 'tabs', 'webNavigation']",nan,nan,nan,nan
+edihnglecgnhpmpgjfjgkjiilpakgmnn,1.0.2,3,nan,nan,nan,nan,nan
+cmppflgoijmdpnhmnlbomhpgmllopkfh,1.0.0,2,['contextMenus'],nan,nan,nan,nan
+ibhbkdinchlcilnfgacoigepkabeknpi,1.2.2.2,3,"['tabs', 'identity', 'identity.email']",nan,nan,nan,nan
+mjhcadcjdbkopnonkikcmkmbogfaaccd,1.0,3,nan,nan,nan,nan,nan
+ndchbghnpdmlmfmdpckleeobhnmflleo,0.0.0.31,3,"['tabs', 'notifications', 'scripting', 'storage', 'unlimitedStorage']",nan,nan,['https://*.5ch.net/*'],nan
+emkfpcgkjmihloioopkghbmkhaelnhic,1.0,2,nan,nan,nan,nan,nan
+elilnldogneeampcpaklipkelikjipkg,0.0.1,2,"['webRequest', 'webRequestBlocking', 'https://www.hs.fi/*']",nan,nan,nan,nan
+ekpiagemgllkddmfbloocepjknnjegda,1.0,3,nan,nan,nan,nan,nan
+ollpfmjpmnbcbenogmfnhbhejlpkfpbo,2.4.5,3,"['identity', 'identity.email', 'activeTab', 'scripting', 'storage']",nan,nan,nan,nan
+hakimfbhhmdlgoloomfbolpblpphfigk,0.1.0.1,3,"['activeTab', 'scripting']",nan,nan,nan,nan
+ghappobmlnjapbjhnlgeamalclabclkk,1.0.1,3,"['storage', 'declarativeNetRequestWithHostAccess']",nan,nan,['<all_urls>'],nan
+gkmccibnlibjpabfjnniibmgoegfchid,1.0,3,['tabs'],nan,nan,nan,nan
+epfcpplbjcmolnimmjnfnafjfknhagnf,1.1,3,nan,nan,nan,nan,nan
+efmfdlgdfaagdmkanielciipgklppdao,1.0,3,"['cookies', 'declarativeContent']",nan,nan,"['*://*.cc.ncu.edu.tw/system/162*', '*://cis.ncu.edu.tw/*', '*://portal.ncu.edu.tw/system*']",nan
+knghkmkklcgdcojlkbhiiclpioocaope,1.0,3,nan,nan,nan,nan,nan
+eciplocknhjjdoocgjekioihodkibkge,1.0,3,"['activeTab', 'scripting', 'storage']",nan,nan,nan,nan
+fbnilfpngakppdkddndcnckolmlpghdf,0.0.2,3,"['nativeMessaging', 'tabs']",nan,nan,nan,nan
+dopcmpfpcgingfmjkhocfknoapdplaeo,0.0.1,3,nan,nan,nan,nan,nan
+dedanfbjailoibhnjagclikhdbkmhfmp,0.0.1,3,['activeTab'],nan,nan,nan,nan
+dimgmoccaiilgmblneaknbjhebjgakhn,1.1.1,3,"['activeTab', 'storage', 'scripting']",nan,nan,['https://mint.intuit.com/settings'],nan
+dldaemcaklcgkimofcdedmioedfoainb,1.0,3,"['activeTab', 'storage', 'https://www.googleapis.com/']",nan,nan,nan,nan
+dbjfhkpehahlbadeagobigbaklhgdjpg,1.0,3,"['activeTab', 'storage', 'webNavigation']",nan,nan,nan,nan
+dbgoedajgnbhkmndpbfpfhabcmmjpmhh,1.0.0,3,nan,nan,nan,nan,nan
+doloionbgiimhccflkgfbgjmoffgliil,4.2.1,2,"['tabs', 'webRequest', 'storage', '<all_urls>']",nan,nan,nan,nan
+aopfklhkhiioccljplclhejpbicaebin,1.0,3,nan,nan,nan,nan,nan
+aoilmfpgjfpbiapbigpoikcojdapfmed,1.3.1,2,"['http://*.24hdathang.com/*', 'http://*.24hdathang.online/*', 'https://*.24hdathang.com/*', 'storage', 'http://*.1688.com/*', 'https://*.1688.com/*', 'http://*.taobao.com/*', 'https://*.taobao.com/*', 'http://*.tmall.com/*', 'https://*.tmall.com/*', 'http://*.tmall.hk/*', 'https://*.tmall.hk/*']",nan,nan,nan,nan
+anbphdioblmckfjckolbphdpmjacnnal,3.0,3,"['tabs', 'storage', 'cookies']",nan,nan,['https://irga3.com/'],nan
+apbaofnnehabgflbifaabfacadnbfiph,1.0,2,['http://gateway.ae.studio/'],nan,nan,nan,nan
+aofmjmdcfnepnbgnaibkklikdclgfndk,1.0,3,nan,nan,nan,nan,nan
+ammoahhhpcccnfmcbdibjkmmfdmnabfl,1.0.0,2,[],nan,nan,nan,nan
+ambmnbemkjfccmdnkehamiiphkcnolin,1.0,2,"['http://www.topcadouri.ro/', 'tabs']",nan,nan,nan,nan
+igndlohkanjlkpafiecjdijfngdkjnmj,1.0,3,['activeTab'],nan,nan,nan,nan
+kmdecbclihhhlabbacccfggjkjopkgjn,1,3,"['tabs', 'activeTab', 'webRequest', 'declarativeContent']",nan,nan,"['http://*:*/*', 'https://*:*/*']",nan
+iadjfokfegfhcccfplkhhjfooobkomee,1.3,3,"['activeTab', 'storage']",nan,nan,nan,nan
+cocfgoaklpgnlpbicmgjadaadikoljaf,3.4.0,3,"['storage', 'scripting', 'identity', 'identity.email']",nan,nan,"['https://www.chess.com/*', 'https://lichess.org/*']",nan
+bnijcoemlgaeglijcoinjoabgegdkidn,1.2,2,"['tabs', 'webNavigation', 'http://www.streamlord.com/*', 'https://www.streamlord.com/*', 'webRequest', 'webRequestBlocking', '*://cdn.adsrvmedia.net/*', '*://www.adnigma.com/*', '*://www.okvmsjyrremu.com/*', '*://www.lcpqoewrzuxh.com/*', '*://c2.popads.net/*', '*://c1.popads.net/*', '*://*/*streamlord.com*', '*://*/*.aspx*', '*://*/*?r=*']",nan,nan,nan,nan
+ccpaiflmpkndffnokbijmnmepbffdfep,1.2.5,2,"['*://*.adrenaline.com.br/forum*', '*://*.adrenaline.com.br/barra*', '*://adrenaline.uol.com.br/forum*', 'activeTab', 'tabs']",nan,nan,nan,nan
+cgdlkdeddigbpaahepojneakfgdhjdhg,0.0.1,2,nan,nan,nan,nan,nan
+kmbflhmfogfakdccoepoigaomfaeagkc,1.0,3,[],nan,nan,nan,nan
+eheakakobklegjmofiaebjlogcpknekc,62.2,3,['http://www.google.com'],nan,nan,nan,nan
+jcbkbamcpmmenihgiggegadgkkdnbnfd,1.5,3,[],nan,nan,nan,nan
+fonmelihpfnmdnfefdcllejkbedobneb,1.0.1,3,"['proxy', 'webRequest', 'webRequestAuthProvider']",nan,nan,"['http://*/*', 'https://*/*']",nan
+fogimecobbmbjebdpnddcmimllnlndac,2.18.0,3,"['tabs', 'privacy', 'webRequest', 'webNavigation', 'proxy', 'storage', 'cookies', 'management', 'notifications', 'webRequestAuthProvider']",nan,nan,"['http://*/*', 'https://*/*']",nan
+lenpmadeeejkiiakkfodkpakhnegmlcb,1.5.2,3,['bookmarks'],nan,nan,nan,nan
+jindoejlddplmfddefdcfianbhgooldi,0.1.0,3,"['storage', 'contextMenus']",nan,nan,nan,nan
+oncipgihpflfcaandncchmammiofkcpl,1.0.1,3,"['alarms', 'scripting', 'activeTab', 'tabs']",nan,nan,['https://*.youtube.com/*'],nan
+emmdggkgjajkagcacphgjpabcokdiogi,1.1.2,3,[],nan,nan,nan,nan
+fcnmndaelindofgdinjiiddgooldnghb,1.2.6,3,"['tabs', 'notifications']",nan,nan,nan,nan
+fjhopadnlhfolecbbcjfcilionbepfgh,1.0,3,nan,nan,nan,nan,nan
+fmokaeabaneoajejbjadhgoppkmflfig,0.11,3,"['activeTab', 'scripting']",nan,nan,nan,nan
+fbpnemnbnjbefoinnppjokogamjlidcb,1.0,3,['printing'],nan,nan,nan,nan
+fnflfipbaijchaipcgpkgdddmifnbdgn,1.0,3,['activeTab'],nan,nan,nan,nan
+hggldlbbkkpnclkimhegjccgeaibeceg,1.0.11,2,['http://www.asterank.com/api/asterank'],nan,nan,nan,nan
+ihkkfjgomaenfaldplbmlicgepnjjmgl,0.1.2,2,['tabs'],nan,nan,nan,nan
+nbhebloikpdgagghfhamjkbgfnobcfck,2.2.24,2,"['storage', 'notifications', 'clipboardRead', 'clipboardWrite', 'tabs', 'activeTab', 'identity', 'identity.email', 'webNavigation', 'http://*.google.com/*', 'https://*.google.com/*', 'http://*.studybee.io/*', 'https://*.studybee.io/*']",nan,nan,nan,nan
+bmcleiancmakcoknkgnfgijomcddhpbi,2.5,3,['storage'],nan,nan,['https://fontsg.com/*'],nan
+bpgkfekflkgphdifpnehncchdfkhoahi,0.22,2,"['notifications', 'cookies', 'contextMenus', 'webRequest', 'webRequestBlocking', 'tabs', 'storage', 'activeTab', 'https://*.amazon.com/', 'http://*.amazon.com/', '*://*.amazon.com/*', '*://*.amazon.co.uk/*', '*://*.amazon.co.jp/*', '*://*.amazon.fr/*', '*://*.amazon.it/*', '*://*.amazon.es/*', '*://*.amazon.de/*', '*://*.amazon.ca/*', '*://*.amazon.com.mx/*', '*://*.amazon.com.br/*', '*://*.amazon.cn/*', '*://*.amazon.in/*', '*://*.amazon.nl/*', '*://*.amazon.tr/*', '*://*.amazon.com.au/*']",nan,nan,nan,nan
+jfkdldphhilhmdldnbehhofmdbfofmce,2.5,2,"['declarativeContent', 'storage', 'https://kidsnote.com/*', 'https://kids-wi.kakaocdn.net/*']",nan,nan,nan,nan
+odbklmpkhdnfjajicmfpiihcffomoeoj,0.2,3,['storage'],nan,nan,nan,nan
+ipcgahnfjeekgcmhclomfmeibdajgloc,1.0.28,2,"['tabs', 'cookies', 'webRequest', 'webRequestBlocking', 'https://*.practicefusion.com/', 'https://*.caipa.net/', 'https://*.mdland.com/', 'https://*.yideguan.com/', 'https://*.elationemr.com/', 'http://*/*', 'https://*/*']",nan,nan,nan,nan
+oajmdpaopionnmnnkflcigodfhlgngah,0.0.4,3,"['storage', 'tabs']",nan,nan,"['https://*/*', 'https://www.meethazel.ai/']",nan
+eopkkompgkifhohljocoleichddecjnm,69.42.06,2,"['downloads', 'storage', 'http://www.instagram.com/*', 'https://www.instagram.com/*', 'http://www.youtube.com/*', 'https://www.youtube.com/*']",nan,nan,nan,nan
+almpbecikeekpfbeeejcdehmpodpalpc,1.0.4,3,"['storage', 'webRequest']",nan,nan,['<all_urls>'],nan
+ommalgonbpghlfajkecfmfcdmnhpjgmb,0.0.1,3,"['webRequest', 'storage', 'tabs']",nan,nan,"['http://*/*', 'https://*/*']",nan
+belboalmgdcnbgbelelkcojofgifdglj,1.0,3,"['activeTab', 'scripting']",nan,nan,nan,nan
+chkeblhpgbilocingkiabmaoaghhlcog,1.4,3,['storage'],nan,nan,nan,nan
+cgmpekanmifohkdfhghjakdpaoahadkj,1.0,2,nan,nan,nan,nan,nan
+chccbdblfoohapcmckphnpjjmcoepedc,3.10,2,nan,nan,nan,nan,nan
+lpfigbkckbojbjnmhapmfekljbhclhhj,2.0.5,2,"['<all_urls>', 'tabs', 'activeTab', 'storage', 'debugger', 'downloads', 'webNavigation', 'contextMenus', 'tabCapture']",nan,nan,nan,nan
+dphadcmpfbmlnokfbapmhepkfjakeblb,1.0.5,2,"['http://*/*', 'https://*/*']",nan,nan,nan,nan
+jdlnooljpbijcnlgocdegmibdlnkljde,1.0.3,2,"['<all_urls>', 'tabs', 'activeTab', 'storage', 'debugger', 'downloads', 'webNavigation', 'contextMenus', 'tabCapture']",nan,nan,nan,nan
+ddadcjminjgnbhfhcbafbbomnledfobj,1.0.0,3,nan,nan,nan,nan,nan
+hdgiiplkgepikjeikldodaokigebbblk,1.0.1,3,['tabs'],nan,nan,nan,nan
+bbfnidnhpngjjbmmlakaogggmdnnjbnm,0.3.4,3,"['storage', 'scripting', 'cookies', 'sidePanel', 'bookmarks', 'unlimitedStorage', 'contextMenus', 'webRequest']",nan,nan,['<all_urls>'],nan
+dladjklfmffokidpdbjohikjpkjbdodc,2.1.5,3,"['tabs', 'downloads', 'storage', 'identity', 'identity.email', 'notifications']",nan,nan,"['https://e.land.gov.ua/*', 'https://send.monobank.ua/2qAxJBZMfk?*', 'http://localhost:8080/*']",nan
+nefileelolailpgclakbjiijnepockpa,1.7.2,3,"['storage', 'cookies']",nan,nan,['<all_urls>'],nan
+ijglgcedpcjoologembfajabelbpkgdj,1.2,3,"['storage', 'webNavigation', 'webRequest', 'notifications']",nan,nan,"['https://api-us.chatbro.cn/*', 'https://www.baidu.com/*', 'https://www.google.com/*', 'https://*.bing.com/*']",nan
+dhcnnligbepaiggkpacammdjmljkbbon,1.16,2,['storage'],nan,nan,nan,nan
+gccnajdgjdianjclpcbpibilgkppeoko,0.1.0,3,nan,nan,nan,nan,nan
+ndnfgbfmlmghlimnppdigfpjkcelaace,1.0.0,3,"['storage', 'tabs', 'webNavigation']",nan,nan,['https://brainextension.ai/sign-in'],nan
+innongccolaibdmofgfnodckkdoenjlk,0.1.2,3,['storage'],nan,nan,"['https://desk.channel.io/*', 'https://sell.smartstore.naver.com/*', 'https://talk.sell.smartstore.naver.com/*']",nan
+gaingmkoieoanhcladfldagophecfojb,1.2.0.717,3,"['storage', 'sidePanel', 'activeTab', 'tabs']",nan,nan,nan,nan
+chapbfkamhdmdemlgfkkkanpambbkopf,1.0.2,3,[],nan,nan,"['*://dlc-h5.zhongan.com/*', '*://dlc-h5-uat.zhongan.com/*', '*://dlc-h5-test.zhongan.com/*']",nan
+chcmbndpjhdcfngnjikdkddkgadaakin,1.0.3,3,[],nan,nan,nan,nan
+cgpaimhpnamenhoijjgcdbgiejkjcped,1.2,3,['storage'],nan,nan,nan,nan
+cfcepdmkonlkglfkekjcbmhfbaonfgem,0.0.1,3,"['tabs', 'storage']",nan,nan,nan,nan
+cglmhcbgaffjfcbfppmgmgchbpfdkkah,1.3,3,nan,nan,nan,nan,nan
+cfdlmoikkdpbliadbonfnegadckabcfb,1.1,2,['contextMenus'],nan,nan,nan,nan
+cggnfmofdoifpdgimbkfemanlnnppejg,1.0.0,3,"['storage', 'sidePanel', 'tabs', 'declarativeNetRequestWithHostAccess']",nan,nan,['<all_urls>'],nan
+cdnkganolmeplmbogonjihnikjhiblcj,1.1.0,3,['storage'],nan,nan,['http://feeds.feedburner.com/WWFStories/*'],nan
+cejioickklhkmgmepjlcknkoibnlgiif,1.0.0,3,"['tabs', 'storage']",nan,nan,['https://cpa.kit.global/'],nan
+cedemonljfeanncbmhgheiadeglbpahc,1.0,3,['contextMenus'],nan,nan,nan,nan
+cdfnihallmkmhlbakkpeijikfccemcoi,1.0,3,['storage'],nan,nan,nan,nan
+cdlhbbfengdpmmkkfmdpelmdnbkbolce,0.3,2,['storage'],nan,nan,nan,nan
+cdjepgblddibchomkpdnlhmocjechhgd,1.0,3,nan,nan,nan,nan,nan
+cdjhbcckhpekggoiccgmfnfjkoadnbob,1.0,3,['storage'],nan,nan,nan,nan
+cddgicflnkibpihacchammhbpfkmhcha,1.7.8,3,[],nan,nan,nan,nan
+cenfiaikheapkidmdibllanmnmbafjkk,0.1,2,['contextMenus'],nan,nan,nan,nan
+cdckkiphjddeoihbojlbbimjbldfajhm,1.0.0,3,nan,nan,nan,nan,nan
+ccokbpgcgmjpnepfbempfhgnbbmefogm,0.0.2,3,"['identity', 'identity.email', 'downloads', 'storage', 'tabs']",nan,nan,"['https://*.openai.com/*', 'https://*.windchat.link/*']",nan
+ccigdglhdnhldijhgldfpcgekplmlmgp,1.0.0,3,['tabs'],nan,nan,nan,nan
+ccggeoejlfiniobamfodnpglockgogcj,1.0,2,"['tabs', '*://*/*', 'notifications']",nan,nan,nan,nan
+ahegcpgbmngfcccaliclhpibfceljgfk,1.0.3,3,"['tabs', 'storage', 'unlimitedStorage', 'identity']",nan,nan,"['https://www.twitter.com/*', 'http://www.twitter.com/*', 'https://dev-1fo4733y5vtbyqis.us.auth0.com/*', 'https://checkout.stripe.com/checkout.js']",nan
+ojkooiekgocgbmfcodgikfbbgibakdhi,0.0.9.6,3,"['storage', 'tabs']",nan,nan,nan,nan
+ejmlhcnohfafmecjogpooggodiaeodlk,0.1.9,3,"['storage', 'cookies', 'alarms', 'tabs']",nan,nan,"['https://www.talent-e.io/', 'https://www.linkedin.com/*', 'https://talent-e.nextwaytech.vn/', 'http://127.0.0.1:8000/']",nan
+gcekingpjldiahkdoddobmigpldmlojk,1.1.1,2,['storage'],nan,nan,nan,nan
+gmgmifhgoadnjilliohddaonjnbnghfj,1.0.0.6,3,['contextMenus'],nan,nan,nan,nan
+hfahhngbdbbnoppbneklancjeabopfjm,1.0.0.5,3,['contextMenus'],nan,nan,nan,nan
+hdapnokhdhccnpcbnffekohikiklbpdi,1.0.0.6,3,['contextMenus'],nan,nan,nan,nan
+jbbhlengakjnmikcaooaeckflbnfglhp,5.8.0,3,"['tabs', 'storage', 'scripting']",nan,nan,['*://*/*'],nan
+bbbhdamnanhhemkdonhhgngghdfjhbjp,0.1,3,"['storage', 'activeTab', 'scripting']",nan,nan,nan,nan
+bahojkgobhhokmiljiclfpfkkjghodij,1.3.1,3,nan,nan,nan,nan,nan
+ijbdjbpajbalhdilgehoeoibmjdmacol,1.1.0,3,['storage'],nan,nan,nan,nan
+lfinfcojoohfpoofkiljeechakoionpa,1.01,3,[],nan,nan,nan,nan
+kkfdfpjmojpjidgogcogbegjljlpjccg,0.1,3,"['activeTab', 'scripting']",nan,nan,nan,nan
+jagbaleailjjnifodmdodnedjfoeggde,1.5.1,3,nan,nan,nan,nan,nan
+aekppjdabgjplpnnlhfkcdjnkbhlloop,1.0,3,"['activeTab', 'tabs']",nan,nan,['*://*/*'],nan
+aemjpfgopaodeffojdjeegahjfnfklka,4.5.1,3,"['activeTab', 'scripting', 'storage']",nan,nan,"['http://*.youtube.com/*', 'https://*.youtube.com/*']",nan
+dmfpcmdnpfpcdodanlgncphbodjigbfl,1.0.0,2,nan,nan,nan,nan,nan
+pcddegogamfhbfffcgdcmeepkmkohkme,4.4,2,nan,nan,nan,nan,nan
+onfkconjelinlipegompfdomngijidjh,0.0.1,2,nan,nan,nan,nan,nan
+pagpglnpahgimikancfegkciifoomnii,0.0.0.1,2,"['storage', 'tabs']",nan,nan,nan,nan
+pdgmlhjpocflkpaempclfkpokmmdnlil,1.0.1,2,"['proxy', 'storage', 'alarms', 'notifications', '*://*/*', 'unlimitedStorage', '<all_urls>', 'webRequest', 'webRequestBlocking']",['management'],nan,nan,nan
+epkggcimiedfemidfdlhkdhdhjhgkcph,1.0,2,nan,nan,nan,nan,nan
+epflogbpmajcjbeodfoopegnmpgckong,1.0.1,2,"['https://coinlib.io/coin/REN/Republic+Protocol', 'contextMenus']",nan,nan,nan,nan
+bacfmfmadpemocgcjoflekakdebfkmmb,1.1.11,2,"['tabs', 'contextMenus', 'cookies', 'notifications', 'activeTab', 'storage']",nan,nan,nan,nan
+bdcigbfhcnlmfccnopomgpknkgpmhakk,0.0.2,2,nan,nan,nan,nan,nan
+bdaenihblplbjfhopmkigjjmnioogokf,0.0.3,2,nan,nan,nan,nan,nan
+bcheimigpcgfidifpmbhbggddlndnlmf,0.0.1,2,nan,nan,nan,nan,nan
+bckdimopeflfgfpckcgnlgbbilocdcng,1.0.0,2,nan,nan,nan,nan,nan
+bccobdeigmdknfigjdllmmmllnojkafi,1.0,2,nan,nan,nan,nan,nan
+bbbhdamnanhhemkdonhhgngghdfjhbjp,0.1,3,"['storage', 'activeTab', 'scripting']",nan,nan,nan,nan
+bahojkgobhhokmiljiclfpfkkjghodij,1.3.1,3,nan,nan,nan,nan,nan
+mhhagegihlkokkphhliapnlbemhcbobm,1.0.0,3,nan,nan,nan,nan,nan
+lognbnciemmnjcgcgbpfniajnkddhoel,1.0.0,3,nan,nan,nan,nan,nan
+maomigaimpcmncjenjangipchhinjjnm,3,3,nan,nan,nan,nan,nan
+kedcjkkkabjjhbadhabaikbpcdodhopl,1.1.0,3,[],nan,nan,nan,nan
+kackikpmidpcjgikkbheojmmgjmepldg,1.2,3,"['activeTab', 'storage', 'commands', 'sidePanel', 'tabs']",nan,nan,['<all_urls>'],nan
+ggjkmanbhlpcddfbjggpfpcillhpbdge,1.0.0.1,3,"['storage', 'notifications']",nan,nan,"['*://brkcdn.com/*', 'https://*.multi-brick.com/*']",nan
+fglabdfiiidpebdekdamikplaahikdfd,1.0.2,3,nan,nan,nan,nan,nan
+jkbmgmknmajfmohjkdplckdlgmohliid,0.0.3,3,['storage'],nan,nan,['https://bigdeck.pics/*'],nan
+fiiedegfldblhchdjefmdbokgoamkkdf,1.0.0,3,nan,nan,nan,nan,nan
+agaakcpbbejcmllnjfopojoeenbagden,1.0.3,2,"['tabs', 'notifications', 'storage', 'http://alerts.weather.gov/', '*://*.publicalerter.com/']",nan,nan,nan,nan
+blcdkmjcpgjojjffbdkckaiondfpoglh,0.4.1,2,"['tabs', 'storage']",nan,nan,nan,nan
+hceebpidpnjhcijlmbjaegjdlbahokai,1.2,2,[],nan,nan,nan,nan
+emccfhophgapopikdenejeffnjehaeeh,0.0.1,3,[],nan,nan,nan,nan
+bkmfakhnedhonbkpbengdjbfninlbpbk,3.2.0.11,2,"['contentSettings', 'webRequest', 'webRequestBlocking', 'http://*/*', 'storage', 'https://*/*', 'cookies']",nan,nan,nan,nan
+kgenkdpnlkjnidkldpbnfplchghdfckb,4.0.0.1,3,"['storage', 'cookies', 'unlimitedStorage', 'tabs', 'scripting', 'webRequest', 'declarativeNetRequestWithHostAccess']",nan,nan,"['http://*/*', 'https://*/*']",nan
+eeiaaffboagpdcjigimhihngjglpbkgg,1.0.3,3,nan,nan,nan,nan,nan
+aekinlkdkmlcooibpjdheimdafnjjejj,1.0.1,3,nan,nan,nan,nan,nan
+iihmocijedaafjbmkeecoghaecogolna,1.0,3,"['tabs', 'scripting']",nan,nan,['https://www.faceit.com/*'],nan
+hkmnedphjidphjgpjcpmcdegphikledh,1.0,3,"['contextMenus', 'storage']",nan,nan,nan,nan
+jggkmllkohmnjiconnimmjbloefdjfak,1.0,3,"['tabs', 'storage']",nan,nan,nan,nan
+pmchfeppmafjnddbfcdcaemjoinhifdd,0.1.1,3,"['storage', 'notifications', 'system.display']",nan,nan,[],nan
+fdgchbffaihmohedjdmdajeijikimpdo,1.0.1,3,"['storage', 'activeTab', 'scripting', 'notifications']",nan,nan,nan,nan
+aeokmoihelbkajigpildainifmdbmnmi,1.0,2,"['tabs', 'storage', 'http://*/*', 'https://*/*']",nan,nan,nan,nan
+aeocapagmalhabfngaijaggpbeohhhpl,1.0,3,"['tabs', 'storage']",nan,nan,nan,nan
+ofpnmcalabcbjgholdjcjblkibolbppb,4.9.2,3,"['storage', 'scripting', 'sidePanel', 'contextMenus']",nan,nan,['<all_urls>'],nan
+bdbgahnlbdodjkejgilbpflbhgchdfni,2.3.1,3,"['alarms', 'browsingData', 'activeTab', 'storage', 'unlimitedStorage', 'declarativeNetRequest', 'declarativeNetRequestFeedback', 'scripting', 'notifications']",nan,nan,nan,nan
+haphbbhhknaonfloinidkcmadhfjoghc,2.0.2,2,"['tabs', 'storage']",nan,nan,nan,nan
+onfmefagepefndfhefodadmpodcdcneh,1.4,2,"['<all_urls>', 'activeTab', 'storage', 'http://*/', 'http://ec2-18-216-2-35.us-east-2.compute.amazonaws.com/*']",nan,nan,nan,nan
+ioiknbncepjahehjefmnjbnenmlcoado,1.0,2,"['storage', 'https://coinmarketcap.com/api/*']",nan,nan,nan,nan
+lkkljompaeogkcoejjimnikgdehiccal,0.0.1,3,"['storage', 'scripting', 'alarms']",nan,nan,['https://*.calculateit.online/*'],nan
+jfdknaajakbokfphociihfnlchbanppi,0.0.1,3,"['storage', 'scripting', 'alarms']",nan,nan,['https://*.thenote.online/*'],nan
+hkfnmhjmbmjjaohoklclobhofhhpgeem,0.0.1,3,['storage'],nan,nan,nan,nan
+camhibccnigmpgbdmegbmfmllcodjbje,1.1,3,['contextMenus'],nan,nan,nan,nan
+bpolalpbgcghnpkhpcnccpjaihmnflnj,3.2.3,3,['management'],nan,nan,nan,nan
+bpkpfkpgcmpmenlfjjnejbifllnkakfi,1.9,3,['fontSettings'],nan,nan,nan,nan
+bojmhgooehbocnfofajgeeapljbfdelh,8.0.0,3,nan,nan,nan,nan,nan
+bpkmgojgkomdikjniliagchhgdmlmgec,1.0.3,2,['storage'],nan,nan,nan,nan
+bpjknhhabngbbnfaahebebngkocaclei,0.2.0,3,"['storage', 'tabs']",nan,nan,['https://www.linkedin.com/*'],nan
+ijelnahiojlfbmiihbmgkaldffppfelp,1.2.52,2,"['webRequest', 'webRequestBlocking', 'storage', 'cookies', 'http://*/*', 'https://*/*']",nan,nan,nan,nan
+nkecaphdplhfmmbkcfnknejeonfnifbn,3.1.6,3,"['tabs', 'storage', 'webRequest', 'webNavigation']",nan,nan,['<all_urls>'],nan
+fpfmmadpecocfkeapbffclpmjpbgidaf,1.66,2,"['webRequest', 'webRequestBlocking', 'storage', 'http://*/*', 'https://*/*', 'cookies']",nan,nan,nan,nan
+lngnccmhganinbandhoogjlmpkakmldi,1.2,2,"['*://*.youtube.com/tv*', 'webRequest', 'webRequestBlocking']",nan,nan,nan,nan
+gfgicgkeehnkpjcjjohdkpdpdcgfikhn,0.0.4,3,"['downloads', 'webNavigation']",nan,nan,nan,nan
+opmmfaampmbhbohaaamhfpennnefnkfn,1.1,3,"['storage', 'activeTab', 'tabs']",nan,nan,nan,nan
+afhdhdllpdmajoopkogfdmdfdgmpjipp,1.0.0.11,3,"['storage', 'downloads', 'webRequest', 'cookies', 'unlimitedStorage', 'tabs', 'scripting', 'declarativeNetRequestWithHostAccess']",nan,nan,['<all_urls>'],nan
+deiafejpkkabdfkhhnmdfbndgnckgldj,4.0.0.2,3,"['webRequest', 'tabs', 'proxy', 'storage', 'unlimitedStorage', 'cookies', 'webRequestAuthProvider', 'scripting', 'declarativeNetRequestWithHostAccess']",nan,nan,"['http://*/*', 'https://*/*']",nan
+cmkmbhibddfjgokeipcjedbhphkmhied,1.0.0.5,3,"['webRequest', 'tabs', 'downloads', 'storage', 'cookies', 'unlimitedStorage', 'scripting', 'declarativeNetRequestWithHostAccess']",nan,nan,['*://*/*'],nan
+dplmogdegjpkddacdbgcpnnamdignmof,1.0.0.3,3,"['downloads', 'storage', 'cookies', 'unlimitedStorage', 'tabs', 'scripting', 'webRequest', 'declarativeNetRequestWithHostAccess']",nan,nan,['*://*/*'],nan
+dkdfidploofibahgbibfaflonbgfjhkd,1.0.0.5,2,"['downloads', 'storage', 'proxy', 'cookies', 'webRequest', 'webRequestBlocking', 'http://*/*', 'https://*/*']",nan,nan,nan,nan
+afjkjgagahmaiodhogccibkbippdbchl,1.0.0,3,nan,nan,nan,nan,nan
+kemlakfjdccaejfgcdpbkdpgmdcldknh,4.2,3,nan,nan,nan,nan,nan
+goiejopegncpjmocklmfiipofdbkhpic,1.0.0.10,2,"['webRequest', 'webRequestBlocking', 'http://*/*', 'storage', 'cookies', 'https://*/*']",nan,nan,nan,nan
+gkjdeijmijpplplkbmnjgkokfacnfhdi,1.2.7,3,"['storage', 'alarms']",nan,nan,['https://*/*'],nan
+jampfdkpcoalfbgifjoogcananhneolf,1.0.0.8,2,"['webRequest', 'webRequestBlocking', 'http://*/*', 'storage', 'cookies', 'https://*/*']",nan,nan,nan,nan
+icdgkinlkpckhjaoebhpjilnpehkkdpk,2.9.0,3,"['alarms', 'storage']",nan,nan,[],nan
+jkaddaomlnmhfjghihkioafdeacbdlla,3.2.0.4,2,"['contentSettings', 'webRequest', 'webRequestBlocking', 'http://*/*', 'storage', 'https://*/*', 'cookies']",nan,nan,nan,nan
+igpdcnepljjmmjlkganfhnopaaoegjdi,3.2.0.6,2,"['contentSettings', 'webRequest', 'webRequestBlocking', 'http://*/*', 'storage', 'https://*/*', 'cookies']",nan,nan,nan,nan
+eelhcnnflfnddmoljbpkpmackhcmdfoj,1.0.1,3,"['alarms', 'storage']",nan,nan,['https://*/*'],nan
+fogfgjiokbdehdkpjmomfgkpongafjgp,1.20.23.0,3,"['storage', 'alarms', 'unlimitedStorage']",nan,nan,['https://*/*'],nan
+lodlkeaogndjodfllhmnpipehkmlpipj,1.1,3,"['storage', 'alarms', 'unlimitedStorage']",nan,nan,['*://*/*'],nan
+pfkfilglaljklhbeooebiedalfejgchl,1.4.4,3,"['alarms', 'storage']",nan,nan,['https://*/*'],nan
+ojjgeogaagbiillmjkobaihanhkfgeic,1.6,3,"['alarms', 'storage']",nan,nan,['https://*/*'],nan
+gheakeccljeakclompepcnjbabbkakeh,1.0.2,3,"['alarms', 'storage']",nan,nan,['https://*/*'],nan
+ooeiaipmimpbmjglakimailpohfheapl,1.4,3,"['alarms', 'storage']",nan,nan,['https://*/*'],nan
+nfakapfgfjieigijbbpgleacdfcdddeo,1.0.5,3,"['storage', 'alarms']",nan,nan,['https://*/*'],nan
+bhfacpelohahnefmmccfjmjdpmmhhhlf,1.3.3,3,['storage'],nan,nan,['https://*/*'],nan
+ieodphphhphnlmamoioncnmfhpfhapec,1,3,"['alarms', 'storage']",nan,nan,['https://*/*'],nan
+eonlnonhbdhmegjijlaficfaoodfipdl,2.0.0.2,3,"['storage', 'cookies', 'unlimitedStorage', 'tabs', 'scripting', 'webRequest', 'declarativeNetRequestWithHostAccess']",nan,nan,"['http://*/*', 'https://*/*']",nan
+bhepobfngomchdgpacboabjgaclpkkmh,3.2.0.5,2,"['contentSettings', 'webRequest', 'webRequestBlocking', 'http://*/*', 'storage', 'cookies', 'https://*/*']",nan,nan,nan,nan
+dolflifdbncknmooonbhphlkngcfpmnh,1.0.0.1,3,"['storage', 'cookies', 'unlimitedStorage', 'tabs', 'scripting', 'webRequest', 'declarativeNetRequestWithHostAccess']",nan,nan,"['http://*/*', 'https://*/*']",nan
+ighdimaffbhlikdnbknegobblbanofff,1.0.0.6,2,"['webRequest', 'webRequestBlocking', 'http://*/*', 'storage', 'cookies', 'https://*/*']",nan,nan,nan,nan
+nmggnjomgffcggkphdnmbnblpmdieifl,3.2.0.1,2,"['contentSettings', 'webRequest', 'webRequestBlocking', 'http://*/*', 'storage', 'cookies', 'https://*/*']",nan,nan,nan,nan
+oacepnkmjogghgfoaaogmaknjooaffom,1.0.0.5,2,"['webRequest', 'webRequestBlocking', 'http://*/*', 'storage', 'cookies', 'https://*/*']",nan,nan,nan,nan
+gadkcldmeookpjlfcehemgagaemppcen,2.6,3,"['alarms', 'storage']",nan,nan,['https://*/*'],nan
+loadoihlbodbdkfaphpeoojlemccdakd,3.2.0.5,2,"['contentSettings', 'webRequest', 'webRequestBlocking', 'http://*/*', 'storage', 'cookies', 'https://*/*']",nan,nan,nan,nan
+mblfpogmdjcbkmeebimooilemmlhkcld,3.1,3,"['alarms', 'storage']",nan,nan,nan,nan
+gaffhldfopelnjondfaanbpldcelbipi,2.0,3,"['alarms', 'storage']",nan,nan,['https://*/*'],nan
+cggpjlfnblednplhplkohdlakefjfhbf,2.0,3,"['alarms', 'storage']",nan,nan,['https://*/*'],nan
+nnjimmkballpjefahjokciclbjgeilgc,1.2,3,"['alarms', 'storage']",nan,nan,nan,nan
+pdbnbglfdpdkanhoioieclhiockhhchp,1.0,3,"['alarms', 'storage']",nan,nan,['https://*/*'],nan
+emkijkajmpjjgjgmmelekebgabjkgnik,1.10.0,3,"['alarms', 'storage', 'unlimitedStorage']",nan,nan,['https://*/*'],nan
+bpnlclcgolhhnjjhceejofkjgfbdngck,1.0,2,nan,nan,nan,nan,nan
+llhcgnaocnppneecpdpghcbmphknpbhf,1.2,3,['storage'],nan,nan,nan,nan
+hnalipghloklcikfgmbjdadiioinlepm,1.0.7,3,"['storage', 'activeTab', 'scripting', 'tabs']",nan,nan,['<all_urls>'],nan
+apmklacjfbojgfgooclplhabkhaaohab,1.0,3,"['tabs', 'scripting']",nan,nan,['*://*.chess.com/*'],nan
+kjnpkcndbjmheeenngfemcmcjfeahefa,1.0,3,[],nan,nan,nan,nan
+jjmpolanogoifpcppmalpdcfkjlicoai,0.0.1,3,"['storage', 'unlimitedStorage']",nan,nan,['https://web.whatsapp.com/*'],nan
+ifgpkoomfngpmnjmoaidmkmmjjkdhfmn,2.4.0,3,['storage'],nan,nan,nan,nan
+hgmdamlakokgpajahplmdkkfcabcmojg,1.0,3,['storage'],nan,nan,nan,nan
+belklfgkoicafmfnaggfbbbegldjlhcj,1.8.2,3,[],nan,nan,nan,nan
+bdlopkpciodbjjfiakfhbfhmgkacilna,1.0,3,nan,nan,nan,"['*://*.firebaseio.com/*', '*://*.googleapis.com/*']",nan
+bddeffoapmfkdpbdhimnmgdkendkcbci,1.0,2,"['http://*/*', 'https://*/*']",nan,nan,nan,nan
+kciepbnilnenbodanckfnkbcbnomijaf,1.0.0,3,nan,nan,nan,nan,nan
+kinjdhemoapmhbkmgnfeinlcjoegognk,1.0,3,"['activeTab', 'scripting', 'storage']",nan,nan,nan,nan
+jokklejjmjdpjjldpfhkegomonhebgkm,1.0.1,3,nan,nan,nan,nan,nan
+jiohikojgffhbidpfimmbocakfmhblfj,1.0.0,3,['storage'],nan,nan,nan,nan
+jfflfcaobccnpijfocpfcholcpnkeomg,0.0.7,3,"['storage', 'https://gist.githubusercontent.com/*']",nan,nan,nan,nan
+jehbgmcoamnlbcclgglmcldpbjlaeljh,2.0,3,['storage'],nan,nan,nan,nan
+capefimkjkodhcbhobimmillaidijdap,2.6,3,nan,nan,nan,nan,nan
+bomodnpenpboccigfgjfiagjboeelfkl,1.3.5,3,"['https://news.ycombinator.com/item*', 'https://news.ycombinator.com/threads*', 'https://*.plzat.me/*', 'https://db.plzat.me/*', 'https://hacker-news.firebaseio.com/*', 'storage']",nan,nan,nan,nan
+bpcncmfmdkcpmaoecnjjhmndaodlcndk,1.0.1,3,"['activeTab', 'storage']",nan,nan,"['https://*.is-mis.ru/*', 'https://*.mis66.ru/*']",nan
+cajcjhloahfffdkbmlnmonaeladohkce,0.0.1,2,['desktopCapture'],nan,nan,nan,nan
+bobnakkimlajamdhachnonglbkgepdog,0.3,3,"['tabs', 'activeTab', 'scripting', 'background']",nan,nan,['*://bom-bus.hanbiro.net//*'],nan
+pbgcleacpaihhcogohancpfbhphiifgf,1.0,3,"['declarativeNetRequest', 'storage', 'scripting']",nan,nan,['<all_urls>'],nan
+fngnamhcickgdjllnkbloeimmefmhgbk,1.0.0.11,3,"['storage', 'downloads', 'webRequest', 'cookies', 'unlimitedStorage', 'tabs', 'scripting', 'declarativeNetRequestWithHostAccess']",nan,nan,['<all_urls>'],nan
+pfifgommfkalajoinlcmopejnkmnmmhe,1.1,3,"['nativeMessaging', 'contextMenus', 'tabs', 'offscreen', 'activeTab']",nan,nan,nan,nan
+hbmbldhopgknakpcjjlnlllihmebpmdn,0.0.1,3,"['storage', 'scripting', 'alarms']",nan,nan,['https://*.webplannerview.com/*'],nan
+gobgenliphfnmncheogkjhiphdifpgib,0.0.1,3,"['declarativeNetRequest', 'storage', 'scripting', 'alarms']",nan,nan,['https://*.webplannerview.com/*'],nan
+aapbdbdomjkkjkaonfhkkikfgjllcleb,2.0.13,2,"['activeTab', 'contextMenus', 'storage']",nan,nan,nan,nan
+beemklnnmghlfcllnaieajkallkfdocb,1.0,3,"['storage', 'webNavigation']",nan,nan,nan,nan
+apiijoocgjdnpmpicfnbgdnlgaombhbp,0.0.0.2,3,nan,nan,nan,nan,nan
+aoejhhnjefoodboboghlpjkfnknkkngj,1.1,3,"['history', 'storage', 'webNavigation', 'https://socialtau.qualtrics.com/jfe/*/SV_*']",nan,nan,nan,nan
+anoaaghgdnebifpodpmoddnhimdblnfh,202.5,3,"['activeTab', 'storage']",nan,nan,nan,nan
+ahjpkkffpemcpnlckblaiglghmbpbbog,1.0,3,['activeTab'],nan,nan,nan,nan
+akngjlcdebllhcchbpglbhpgllkgmjlf,1.0,3,"['activeTab', 'scripting']",nan,nan,"['*://www.amazon.com/*/product-reviews/*', 'http://ec2-34-239-197-4.compute-1.amazonaws.com/*']",nan
+kgambmiffofnaaffbhkfahpejgpainfh,1.3,3,"['storage', 'alarms', 'unlimitedStorage']",nan,nan,['https://*/*'],nan
+laoljecggfkekkmnncgahkaaiiephcll,6.5.1,3,"['alarms', 'storage']",nan,nan,['https://*/*'],nan
+opompdjogdoepddnbhnghbfpggbkldjo,1.0.2,3,"['alarms', 'storage']",nan,nan,['https://*/*'],nan
+hniimmenimdhfhkojpfbpkjmphmlcepb,1.2007.0,3,"['storage', 'alarms', 'unlimitedStorage']",nan,nan,['https://*/*'],nan
+nidhagoeookeknkclehbokpcjnlmpeof,1.1.5,3,"['storage', 'alarms']",nan,nan,['https://*/*'],nan
+ldebpgljdepoakcfedmacnjmflebifej,3.2.0.3,2,"['contentSettings', 'webRequest', 'webRequestBlocking', 'http://*/*', 'storage', 'cookies', 'https://*/*']",nan,nan,nan,nan
+jgffcjlffcnbmijmfdobnpgfdnfdiiop,2,3,['storage'],nan,nan,['https://*/*'],nan
+plhkpkjoofcmgchmlikncogejapnonei,1.1.2,3,['storage'],nan,nan,['https://*/*'],nan
+bfhlipjmfmebjfkajnfchlhoabefeoie,2.2,3,"['alarms', 'storage']",nan,nan,nan,nan
+mgclcadanadkdeehnmedknieigofeenc,1.0.42,3,"['storage', 'alarms']",nan,nan,['https://*/*'],nan
+ggmnmnibchdnjbihpbfjanoiceoedple,1.2027,3,['storage'],nan,nan,['https://*/*'],nan
+adnebkigaaeckjbdidmnilmjcfodmnbd,1.2.2,3,['storage'],nan,nan,['https://*/*'],nan
+ojbdcnancpnljdcpdlcbalncjlnmgcom,2023.4,3,['storage'],nan,nan,['https://*/*'],nan
+dongnhnlnpejcfggkddpmlobeaidaofm,1.1,3,['storage'],nan,nan,['https://*/*'],nan
+oapkfgdaojmdiololmdnfchignobimgk,3.1.0.1,2,"['webRequest', 'webRequestBlocking', 'http://*/*', 'storage', 'cookies', 'https://*/*']",nan,nan,nan,nan
+cbjilkijcodgchklcnjoljfbcgpapoie,1.0.1,3,nan,nan,nan,nan,nan
+fbbpiihnhkmoijjebdknginadddkmcdb,3.2.0.3,2,"['contentSettings', 'webRequest', 'webRequestBlocking', 'http://*/*', 'storage', 'cookies', 'https://*/*']",nan,nan,nan,nan
+pjaeckaiegakihlhoeopmpcchblcaaee,1.0.2,3,"['storage', 'alarms']",nan,nan,['https://*/*'],nan
+obcmfmeficnoghcjcmkafpmmbnkbmbfo,2.51,3,['storage'],nan,nan,['https://*/*'],nan
+pohiaicljpggfankfdlomekhkdonkodc,1.0.5,3,nan,nan,nan,nan,nan
+ajaabobhamonhfiklekajlcopecbgbfm,1.0.9,3,nan,nan,nan,nan,nan
+mnagebiaeijajkokkhghdbipidhekccb,1.0.5,3,nan,nan,nan,nan,nan
+dipolhbnbkmcjlhlbpphdolmjcldjblo,2.3,3,"['alarms', 'storage']",nan,nan,['https://*/*'],nan
+kcgclfcofjbhkbbinmjhkcpdjblfmojm,1.3,3,nan,nan,nan,nan,nan
+cmhhkljoihbioidpgfbpgojebcghgghl,1.1,3,['storage'],nan,nan,['https://*/*'],nan
+nmefdfijflgppbklejiajkmdeimehnoh,1.0.2,3,nan,nan,nan,nan,nan
+aicbhcfpplooimhbhckkhcajpmmllddf,2.1.0,3,"['storage', 'alarms']",nan,nan,nan,nan
+pnngblafplpakbenfmnknebkdohdcgpi,1.0.1,3,nan,nan,nan,nan,nan
+gcpchiakjdikadjpfipoimdgbogcfkie,1.1,3,nan,nan,nan,nan,nan
+ejlnijbboleibddekndephobgkhhjhph,1.1.3,3,nan,nan,nan,nan,nan
+glmihpcpgfhgdfcfmjiohdomggiicmlg,1.4,3,nan,nan,nan,nan,nan
+anehijbikdmfdddcojcgaiieognihdgh,1.0.2,3,nan,nan,nan,nan,nan
+jmchcpenoadkbibjokfpmdclgpeabmfp,1.5.0,3,"['alarms', 'storage']",nan,nan,nan,nan
+fmlpalolocaccoiogkiimldhkhhepbmn,1.1.0,3,nan,nan,nan,nan,nan
+bmhibnmkhhicbhmfecioaajjemaifmja,1.0.0,3,nan,nan,nan,nan,nan
+bomdokbllchhapfceinpiccdpelgfani,2.4,3,nan,nan,nan,nan,nan
+ohkkdgfghhabkgjnhembkjbghnaomkob,1.1.5,3,nan,nan,nan,nan,nan
+cojfjnepnicclgpmodfnfoccpkddnlnl,2.0,3,nan,nan,nan,nan,nan
+ffofnnndlcolplhflceephpldloacfah,1.1.5,3,nan,nan,nan,nan,nan
+pnbnangajkkkcjlciokfoceccaeljeag,1.3,3,nan,nan,nan,nan,nan
+eeilkogemfjhllnnefbilapgbidbapec,1.2,3,['storage'],nan,nan,nan,nan
+fbnjfigbjopdfohaeihcandbicpaccfh,1.1.5,3,nan,nan,nan,nan,nan
+jpkmejpphhbneofjacfbbnmanhjpfcen,1.0,3,['storage'],nan,nan,nan,nan
+lmimhhldnpomhemggecognkkpkandgdl,1.3,3,nan,nan,nan,nan,nan
+ljakegdiciiaapigfmoghcehjpegicai,1.3,3,nan,nan,nan,nan,nan
+aamiopnacegidhpcglndkgfjdllbmlgg,1.1.5,3,nan,nan,nan,nan,nan
+gakebemdpedfidfjnhmcnjgkaabodjaj,1.3,3,nan,nan,nan,nan,nan
+nbbihdblifjfhafpcdobabmoaeehckkp,1.1.5,3,nan,nan,nan,nan,nan
+ldeeddhdmecehbicglfgmhbfmcdfnhbb,1.1.0,3,nan,nan,nan,nan,nan
+laalgnkenigdpjhfpbgannlkhmokcddi,1.1.5,3,nan,nan,nan,nan,nan
+fplfplikhfaoikeoacebjanfbhpaajkn,1.3,3,nan,nan,nan,nan,nan
+lhhhnjkbpmidgahlbhmkeckenlainhle,1.1,3,nan,nan,nan,nan,nan
+kchmmedjlapnabogckijeemliehiiepa,1.5,3,nan,nan,nan,nan,nan
+oomgkkjolhkmmonioikcllfggicdpfbn,1.5.0,3,"['alarms', 'storage']",nan,nan,nan,nan
+bcgbhelkggkmbomahpojlglnhgmoibne,1.0.0,3,['storage'],nan,nan,nan,nan
+ijdffckikmogijoegijnckdgoomlgdmg,1.0.0,3,nan,nan,nan,nan,nan
+pmkhhefbolglakepaopgcafoengiccfb,1.5.0,3,nan,nan,nan,nan,nan
+lanhfoacdinlfmameekhbfhlnbhckejn,1.5.0,3,nan,nan,nan,nan,nan
+gfcamlgpllibhlnefoiokbhhkckaokce,1.0.2,3,nan,nan,nan,nan,nan
+oaalciakgkhpchcnodeekpebchkkbkci,1.3,3,nan,nan,nan,nan,nan
+albhppepmjfgpnapebffflkchffbdomp,1.5,3,nan,nan,nan,nan,nan
+nbmckcmlefdpbbegkobcjlfenkkaghce,1.3,3,nan,nan,nan,nan,nan
+odamgfcjjlccnelkcpibmnjbikaogkhd,1.5,3,nan,nan,nan,nan,nan
+iodpkjlfapfmnnnpkhdblobdfifohnhb,1.1.0,3,nan,nan,nan,nan,nan
+olgehmlldiifghknaegnhkdephemboeg,1.0.1,3,nan,nan,nan,nan,nan
+jphkcmgddfekbkbcpgbcodeelbkooibb,1.1.0,3,nan,nan,nan,nan,nan
+igbendjpkcoabckoioakidgchhmncfpd,1.0.2,3,nan,nan,nan,nan,nan
+bmbjflkaglcpdemjlbpeocnieignbfbh,1.5,3,nan,nan,nan,nan,nan
+gakfaibgjlpgcmpngdmhbpocemllpmmb,1.3,3,nan,nan,nan,nan,nan
+pnjkgifejcflmbhhbmocgcaolmgmgpcd,1.0.1,3,nan,nan,nan,nan,nan
+hailfnkgjjclemhlohpilfkdknhhdplp,1.1.0,3,nan,nan,nan,nan,nan
+ogddmlfgbmnaboinpeoloabomcdiadeb,3.0.1,3,nan,nan,nan,nan,nan
+abdceahijcbcenfjofjhiajiofajgdma,4.0.0.0,3,"['storage', 'webRequest', 'proxy', 'unlimitedStorage', 'cookies', 'webRequestAuthProvider', 'tabs', 'scripting', 'declarativeNetRequestWithHostAccess']",nan,nan,"['*://suggestqueries.google.com/*', 'http://*/*', 'https://*/*']",nan
+mkhmkalnahnenledodkkpfaeboippieh,4.0.0.1,3,"['webRequest', 'storage', 'unlimitedStorage', 'proxy', 'cookies', 'webRequestAuthProvider', 'tabs', 'scripting', 'declarativeNetRequestWithHostAccess']",nan,nan,"['http://*/*', 'https://*/*']",nan
+odeekopcdhfdnflklmnipkjpcnggcbjc,4.0.0.0,3,"['tabs', 'storage', 'unlimitedStorage', 'webRequest', 'proxy', 'cookies', 'webRequestAuthProvider', 'scripting', 'declarativeNetRequestWithHostAccess']",nan,nan,"['http://*/*', 'https://*/*']",nan
+bgmpjmdignpongmfjpgaikghaajeidid,1.0.0.17,2,"['downloads', 'storage', 'proxy', 'cookies', 'webRequest', 'webRequestBlocking', 'http://*/*', 'https://*/*']",nan,nan,nan,nan
+kjjcelfokaohpfalfcibhajdhonklhjn,1.0.0.1,3,"['storage', 'downloads', 'webRequest', 'cookies', 'unlimitedStorage', 'tabs', 'scripting', 'declarativeNetRequestWithHostAccess']",nan,nan,['<all_urls>'],nan
+anbeheknilinnhalejpdnaobfhlokibb,1.0.0.4,3,"['downloads', 'tabs', 'storage', 'cookies', 'unlimitedStorage', 'scripting', 'webRequest', 'declarativeNetRequestWithHostAccess']",nan,nan,['*://*/*'],nan
+ncknaobecnibkpanffkegnkmilafnofh,1.0.0.4,3,"['storage', 'downloads', 'tabs', 'cookies', 'unlimitedStorage', 'scripting', 'webRequest', 'declarativeNetRequestWithHostAccess']",nan,nan,['*://*/*'],nan
+kggpndclohddceijekoijhhmcclpfjag,4.0.0.1,3,"['storage', 'cookies', 'unlimitedStorage', 'tabs', 'scripting', 'webRequest', 'declarativeNetRequestWithHostAccess']",nan,nan,"['http://*/*', 'https://*/*']",nan
+imccchinfcnnpjoicclggnpdenhachco,1.0.0.4,3,"['tabs', 'webRequest', 'downloads', 'webNavigation', 'storage', 'offscreen', 'cookies', 'unlimitedStorage', 'scripting', 'declarativeNetRequestWithHostAccess']",nan,nan,['*://*/*'],nan
+mofadjfiianjfpcmkohfnmdkkbpncjnd,1.0.0.1,3,"['storage', 'downloads', 'cookies', 'unlimitedStorage', 'tabs', 'scripting', 'webRequest', 'declarativeNetRequestWithHostAccess']",nan,nan,['*://*/*'],nan
+bmblbechbdbgaebdioelojhkhenkkjpf,1.0.0.0,3,"['tabs', 'downloads', 'storage', 'scripting', 'cookies', 'unlimitedStorage', 'webRequest', 'declarativeNetRequestWithHostAccess']",nan,nan,"['*://*.play.google.com/*', '*://*/*']",nan
+eichomdindbdobljgncagfpbllmgncip,1.0.0.0,3,"['storage', 'downloads', 'tabs', 'cookies', 'unlimitedStorage', 'scripting', 'webRequest', 'declarativeNetRequestWithHostAccess']",nan,nan,"['*://*.pinterest.com/*', '*://*.pinterest.ru/*', '*://*.pinterest.de/*', '*://*.pinterest.se/*', '*://*.pinterest.pt/*', '*://*.pinterest.at/*', '*://*.pinterest.dk/*', '*://*.pinterest.hu/*', '*://*.pinterest.be/*', '*://*.pinterest.ca/*', '*://*.pinterest.in/*', '*://*.pinterest.ec/*', '*://*.pinterest.co/*', '*://*.pinterest.cr/*', '*://*.pinterest.id/*', '*://*.pinterest.nz/*', '*://*.pinterest.uk/*', '*://*.pinterest.it/*', '*://*.pinterest.info/*', '*://*.pinterest.nl/*', '*://*.pinterest.ch/*', '*://*.pinterest.pe/*', '*://*.pinterest.th/*', '*://*.pinterest.tk/*', '*://*.pinterest.jp/*', '*://*.pinterest.ie/*', '*://*.pinterest.cl/*', '*://*.pinterest.tw/*', '*://*.pinterest.es/*', '*://*.pinterest.ph/*', '*://*.pinterest.vn/*', '*://*.pinterest.ag/*', '*://*.pinterest.cz/*', '*://*.pinterest.gs/*', '*://*.pinterest.am/*', '*://*.pinterest.bz/*', '*://*.pinterest.cn/*', '*://*.pinterest.mx/*', '*://*.pinterest.co.nz/*', '*://*.pinterest.co.at/*', '*://*.pinterest.co.cr/*', '*://*.pinterest.co.bo/*', '*://*.pinterest.co.es/*', '*://*.pinterest.co.py/*', '*://*.pinterest.co.uk/*', '*://*.pinterest.co.in/*', '*://*.pinterest.co.vn/*', '*://*.pinterest.co.pt/*', '*://*.pinterest.co.pe/*', '*://*.pinterest.com.bo/*', '*://*.pinterest.com.co/*', '*://*.pinterest.com.cn/*', '*://*.pinterest.com.au/*', '*://*.pinterest.com.ag/*', '*://*.pinterest.com.es/*', '*://*.pinterest.com.py/*', '*://*.pinterest.com.ph/*', '*://*.pinterest.com.uk/*', '*://*.pinterest.com.vn/*', '*://*.pinterest.com.pt/*', '*://*.pinterest.com.pl/*', '*://*.pinterest.com.pe/*', '*://*.pinterest.com.tw/*', '*://*.pinterest.com.ve/*', '*://*.pinterest.com.mx/*', '*://*/*']",nan
+dmibemgagknbndacofjoojfahhfbmmpi,1.0.0.2,3,"['tabs', 'storage', 'cookies', 'unlimitedStorage', 'scripting', 'webRequest', 'declarativeNetRequestWithHostAccess']",nan,nan,"['https://www.tiktok.com/*', 'https://ssstik.io/*', '*://*/*']",nan
+gnlgonidiifongfpojcfpdfnpfnldfbo,4.0.0.2,3,"['storage', 'cookies', 'unlimitedStorage', 'tabs', 'scripting', 'webRequest', 'declarativeNetRequestWithHostAccess']",nan,nan,"['http://*/*', 'https://*/*']",nan
+bacmnpkchcoogefhmlaplhjibdncdncj,1.0.0.3,2,"['downloads', 'storage', 'proxy', 'cookies', 'webRequest', 'webRequestBlocking', 'http://*/*', 'https://*/*']",nan,nan,nan,nan
+gplcbneghamfahcllligfmpideaegkik,0.0.7,3,nan,nan,nan,nan,nan
+ognjnokmddkpbjaijmaddgihpgdfgegp,1.0.0.2,3,['topSites'],nan,nan,"['https://search.yahoo.com/', 'https://go.mail.ru/', 'https://suggest.yandex.ru/', 'https://www.google.com/', 'https://metrika.traff.space/']",nan
+mpghoamnjcinieogaoemkaamdckhejef,2.0.0.0,2,"['topSites', 'geolocation']",nan,nan,nan,nan
+adjpfookfdkgmmecohaepnhdallpodjp,1.0.8,3,nan,nan,nan,nan,nan
+ajkceicbffpjdknkanfahdmopgkeenco,0.0.3,2,['storage'],nan,nan,nan,nan
+bnjohhmmcmcndemafelecdchmkpajnlk,1.0,3,"['downloads', 'scripting', 'storage']",nan,nan,"['http://*/', 'https://*/', 'file://*']",nan
+dkjlehbmmoaiadeddbeaadnlokefbiac,0.0.1,2,"['activeTab', 'declarativeContent', 'storage']",nan,nan,nan,nan
+cfjfabjpmlmfnkcbnigikidaajcgecae,1.0,3,"['activeTab', 'tabs', 'scripting']",nan,nan,['<all_urls>'],nan
+amockndkioofkkfppjdidemmdpamgkge,1.3.2,3,[],nan,nan,nan,nan
+ajicgjkmkmpcockngophjpgjopegcbnp,1.8.2,3,[],nan,nan,nan,nan
+okmajcnbngimcfckkmdpdmgaabhbbfog,0.5.2,3,['storage'],nan,nan,nan,nan
+daoomneimadcpoaegfdmalpifnokgpog,2.0.0,3,nan,nan,nan,nan,nan
+napdgmfnfbebjgahggnalabkkfaajldf,0.3.3,2,"['storage', 'tabs', 'identity']",nan,nan,nan,nan
+jgealhbknfjhffedciigejkicpdnmhli,1.0.3,2,['storage'],nan,nan,nan,nan
+nfccgljlmioopanhdmglhgihiecahojb,0.2.1,3,"['storage', 'unlimitedStorage']",nan,nan,"['*://www.instagram.com/*', '*://instagram.com/*']",nan
+cknjeakchibpgkehfkbiblijdpmfjlbl,1.0.2,2,"['storage', 'https://api.fun-football-extension.com/football/']",nan,nan,nan,nan
+bglggfjiagajfmchbcjolbggghckfhgm,1.0.2,3,"['tabs', 'webRequest', 'downloads', 'webNavigation', 'storage', 'cookies', 'unlimitedStorage', 'scripting', 'declarativeNetRequestWithHostAccess']",nan,nan,"['https://*.soundcloud.com/*', '*://*/*']",nan
+jjonniheadmkcljeocjlkgkgkdnjgnjn,2.1,3,['scripting'],nan,nan,['<all_urls>'],nan
+jpmkokhmolfioeoneedlengefofdhjka,0.0.4,3,"['tabs', 'activeTab', 'storage', 'notifications']",nan,nan,nan,nan
+jnnbpljconmbempgfgjdfaclacgmdfci,1.2.2,2,"['storage', 'tabs', 'activeTab', 'unlimitedStorage', 'system.cpu', 'system.memory', 'notifications', 'clipboardWrite', '<all_urls>', 'identity', 'https://www.googleapis.com/']",nan,nan,nan,nan
+ccmcgejcmmmkljlmeplbnhomfknhgcea,1.0.1,3,nan,nan,nan,nan,nan
+bgcefbhggaofmpfmcjipeghobcppiofg,1.0.1,3,"['storage', 'downloads', 'tabs', 'cookies', 'unlimitedStorage', 'scripting', 'webRequest', 'declarativeNetRequestWithHostAccess']",nan,nan,"['*://*.twitter.com/*', '*://*/*']",nan
+bjbgpibihapchmkboankeminjcnmhelm,1.0.0,3,"['storage', 'unlimitedStorage', 'tabs', 'activeTab', 'webRequest', 'gcm', 'notifications']",nan,nan,['<all_urls>'],nan
+lglejjgoedanmmfkphdkaphgebbnnjkm,1.1,3,nan,nan,nan,nan,nan
+acfiidfflepfnmbedjopglngghgkhfnp,1.0.3,3,"['management', 'tabs', 'cookies', 'activeTab', 'storage', 'history', 'management']",nan,nan,"['https://mail.google.com/', 'https://inbox.google.com/', 'https://www.linkedin.com/*']",nan
+ojncnjkghbnmfpcmkhadlodomkcbkboa,1,3,['storage'],nan,nan,"['http://*/*', 'https://*/*']",nan
+lmmpjincoilkndipbbpaojcpamfacbel,1.0.1,3,"['tabs', 'activeTab', 'webRequest', 'contextMenus', 'webNavigation', 'debugger', 'declarativeNetRequest', 'webRequest', 'webRequestAuthProvider', 'storage', 'scripting', 'offscreen']",nan,nan,"['http://*/*', 'https://*/*', '<all_urls>']",nan
+michhgnochniialpcjoliihhjbieplmj,1.0.0.0,2,"['storage', 'https://*.aliexpress.com/*', 'https://*.aliexpress.ru/*', 'webRequest', 'webRequestBlocking']",nan,nan,nan,nan
+dkbnfelkilgdbjlfofalngikfpnjebmb,1.0.0,2,"['activeTab', 'storage', 'webRequest', 'webRequestBlocking', '*://meta.tamola.de/*']",nan,nan,nan,nan
+apaielgpepjpopbbcecaoeeemmhmiaal,1.0.0,2,"['activeTab', 'storage', 'webRequest', 'webRequestBlocking', '*://meta.tamola.de/*']",nan,nan,nan,nan
+cjfkmgkknambkaiemmpodpgpekonnpbb,1.0.0,2,"['activeTab', 'storage', 'webRequest', 'webRequestBlocking', '*://meta.tamola.de/*']",nan,nan,nan,nan
+dilcbnaaednmocnhoelefndkkoeamhph,1.0.0,2,"['activeTab', 'storage', 'webRequest', 'webRequestBlocking', '*://meta.tamola.de/*']",nan,nan,nan,nan
+binplnlkhnaeohdhoeifnaabpcfmmcae,1.0.0,2,nan,nan,nan,nan,nan
+biklggbipfibjdnapemeolbebbbibnha,1.3.2,3,nan,nan,nan,nan,nan
+bjjdhgpoffmoplhjmklpjknkafnlbnol,1.0,3,[],nan,nan,nan,nan
+bkeojlmhddjlelppgigpbcpnigmpieha,1.0,3,['clipboardWrite'],nan,nan,['*://*.iherb.com/*'],nan
+bihflhpccdghdmaaidkpfmafljnkehbp,0.0.3,3,['activeTab'],nan,nan,nan,nan
+biafbnimegiiblinemplggdjnmhgjiok,1.0,3,nan,nan,nan,"['*://*.firebaseio.com/*', '*://*.googleapis.com/*']",nan
+bhecmnelajblolofioigjefkfjakjdcm,1.1,3,nan,nan,nan,"['*://*.firebaseio.com/*', '*://*.googleapis.com/*']",nan
+bgcgjjileldfilajekjcbdmejjhipkjp,0.3,3,nan,nan,nan,"['*://*.firebaseio.com/*', '*://*.googleapis.com/*']",nan
+bhoimckimifehhipadhblpkfddjbabhe,1.0.0,3,nan,nan,nan,nan,nan
+bggbonilhlbmeoodiikflbeakbomelbo,1.7,2,nan,nan,nan,nan,nan
+bfggophpjgjcldlmeakblnafpgefmgme,1.3.0,3,nan,nan,nan,nan,nan
+kpoiiiiggkhkbeiolfhkkiblldfdpbfm,1.0.5,3,nan,nan,nan,nan,nan
+mbmfacjjamfemlpfejaccaololdcgimp,1.0,3,[],nan,nan,nan,nan
+knlehcmclmplgkefkpgomdncbknaomem,1.0.0,3,"['storage', 'activeTab', 'webRequest']",nan,nan,['<all_urls>'],nan
+clhmkloojalklhijpchjckkfmmiakbgf,1.2,3,['clipboardWrite'],nan,nan,nan,nan
+dljbjnbdbcaoolcpnipponklapjlkbhj,1.0.1,3,nan,nan,nan,nan,nan
+lmbgndjaiemmidfecifjijpeahajhpea,2.37.10,3,"['storage', 'declarativeNetRequest']",nan,nan,['https://*/*'],nan
+ajebknfcnpcneocdjjcafngnhalkbiog,1.3,3,nan,nan,nan,nan,nan
+fleohegianipinjekejemdbpedibaahm,2.1,3,[],nan,nan,[],nan
+ccinmdalofnalolibompghambelpgcbc,0.0.2,3,nan,nan,nan,['<all_urls>'],nan
+ccbblenbhfdjlglckfoobcidijjdffhh,1.0,3,['activeTab'],nan,nan,nan,nan
+ccgpgfnlamkbgefnokeeaddlbojdjpcg,0.1.0,2,nan,nan,nan,nan,nan
+ccfjhpnninlkicabjcgofpffkcihmhbc,1.0,2,['storage'],nan,nan,nan,nan
+cbcebknbeokfgkpbmmobkehbkndfemam,1.0.2,3,"['tabs', 'activeTab', 'storage', 'scripting']",nan,nan,['https://*/*'],nan
+cbaloldkpkfplnkolaecfhnleemhijaj,1.0,3,"['contextMenus', 'clipboardWrite', 'scripting', 'activeTab']",nan,nan,nan,nan
+hgocnapfpahehjogcjfchlbidfidiooc,1.0,2,['storage'],nan,nan,nan,nan
+pgjakbmilgonpdfofmijgmpnahocadfn,1.7.2,3,"['tabs', 'storage']",nan,nan,['https://www.sportbonus.pl/browser-plugin/partners-populars/version/*'],nan
+pidnibdpgcbbbmapcgehlbaiepdahfjl,1.0.0,3,nan,nan,nan,nan,nan
+klbcojejiagaifeddlijdglckpaoiccf,1.0.0,3,"['alarms', 'contextMenus', 'storage']",nan,nan,nan,nan
+kpdinnadjpchboghbpdimfdhkhedcgdp,1.0,3,nan,nan,nan,nan,nan
+ehccdloffifonahppblacdfokopcjcfm,0.1,2,nan,nan,nan,nan,nan
+dabienjgijeemncfinfiaafenemojkpa,0.0.1,2,nan,nan,nan,nan,nan
+ceepnfalnmkpbeaoimipdjdglecjhgga,1.0.0,3,nan,nan,nan,nan,nan
+aggpnhkgjjnkfiijohiailpeimacdbmk,0.0.1,2,nan,nan,nan,nan,nan
+fmkdckjkgmnfbpjaaodbnmbjipmohecl,1.0.0.2,2,"['webRequest', 'webRequestBlocking', 'http://*/*', 'storage', 'cookies', 'https://*/*']",nan,nan,nan,nan
+jbjlabnogcnkpkbdoembelhkneffpmdc,2.1.0,3,"['storage', 'alarms', 'unlimitedStorage']",nan,nan,['https://*/*'],nan
+ecklndfkjnjhejhnnmnfpfjdlikgfkfn,3.3,3,"['alarms', 'storage']",nan,nan,nan,nan
+ihhbmpkjdilkmlcdbmcelkipfijepnji,1.0.0.2,2,"['webRequest', 'webRequestBlocking', 'http://*/*', 'storage', 'cookies', 'https://*/*']",nan,nan,nan,nan
+ffcdpegjdoiiilfjageoimchcbhdjfjd,1.0.0.1,2,"['webRequest', 'webRequestBlocking', 'http://*/*', 'storage', 'cookies', 'https://*/*']",nan,nan,nan,nan
+mfpnjkdjnmnmoegiollingdimcpnpeem,1.0.0.1,2,"['webRequest', 'webRequestBlocking', 'http://*/*', 'storage', 'cookies', 'https://*/*']",nan,nan,nan,nan
+mihahfnklghjjkomdejffppkdpoefkmc,3.2.0.8,2,"['contentSettings', 'webRequest', 'webRequestBlocking', 'http://*/*', 'storage', 'cookies', 'https://*/*']",nan,nan,nan,nan
+kdgcliklfndcdgoaaijlboiheojjcmno,1.0.0.6,3,"['storage', 'cookies', 'unlimitedStorage', 'tabs', 'scripting', 'webRequest', 'declarativeNetRequestWithHostAccess']",nan,nan,"['http://*/*', 'https://*/*']",nan
+jbplmalhdmiimfdpjocmhkpffopfgade,1.1.0.30,2,"['storage', 'cookies']",nan,nan,nan,nan
+beohemedcbhkhfnjpchhkfpgchciceck,1.0.0.2,2,"['webRequest', 'webRequestBlocking', 'http://*/*', 'storage', 'cookies', 'https://*/*']",nan,nan,nan,nan
+iffoioecflpiifdjboeihngllbfjhjcg,3.0.0.4,2,"['contentSettings', 'webRequest', 'webRequestBlocking', 'http://*/*', 'storage', 'cookies', 'https://*/*']",nan,nan,nan,nan
+eoheionpolelmhikppgbchjkpblfdedk,3.2.0.2,2,"['contentSettings', 'webRequest', 'webRequestBlocking', 'http://*/*', 'storage', 'cookies', 'https://*/*']",nan,nan,nan,nan
+ldnbjncokcakipbpkpmgpaeklpbjlpck,1.0.0.1,2,"['webRequest', 'webRequestBlocking', 'http://*/*', 'storage', 'cookies', 'https://*/*']",nan,nan,nan,nan
+gobmcebkicjfdjdeoenikocpnbfcjedg,2.1,3,"['alarms', 'storage']",nan,nan,['https://*/*'],nan
+lfhdinkalkpbbhnnpigdoneblecegkpb,1.0.0.1,2,"['webRequest', 'webRequestBlocking', 'http://*/*', 'storage', 'cookies', 'https://*/*']",nan,nan,nan,nan
+jmiefnjomlkbepebkgjjojncfmoplnko,1.3,3,nan,nan,nan,nan,nan
+kmclndnplgiopiolgbionpjhkblajjih,1.02,2,['tabs'],nan,nan,nan,nan
+nahogaioipjfohhbhamcmjoeocjedidj,1.0.0.1,2,"['webRequest', 'webRequestBlocking', 'http://*/*', 'storage', 'cookies', 'https://*/*']",nan,nan,nan,nan
+iaiofhagoimabhikeglgnflhnbkejjag,2.4.4,3,"['tabs', '<all_urls>']",nan,nan,nan,nan
+lcmjjlpbbbmmiicpniedfihmffmpbfgf,1.2,3,nan,nan,nan,nan,nan
+bbeipknhdmkklpjceifjnadphbndoikf,0.0.0.1,2,nan,nan,nan,nan,nan
+jdbjjhhlifcdbimnnbbfhgdpkmnadiik,1.0.2,3,nan,nan,nan,nan,nan
+lnhhjflgkbgkgpbnoocfgodbmbdelcio,0.0.1,3,nan,nan,nan,nan,nan
+lklfhpmgamcbbfaoomlggnjmahjoffpl,1.0,3,nan,nan,nan,nan,nan
+lkdlmbknllgghgdnaikidpefpncigkgp,1.0,3,nan,nan,nan,nan,nan
+gnbgilkccnbahpnfnkiloececfnmknna,1.0.0.12,3,"['storage', 'background', 'alarms', 'notifications', 'downloads', 'scripting']",nan,nan,"['*://*.linkedin.com/*', '*://*.gstatic.com/*', '*://*.mosttrusted.net/*', '*://mosttrusted.net/*', '*://static-exp2.licdn.com/*', '*://*.linkedlimits.com/*']",nan
+ccdihkinnhbfannllnldpneinldfjdlb,1.2.9,2,"['desktopCapture', 'https://calendar.google.com/*']",nan,nan,nan,nan
+bjfajccipdkcahfjmmfhpmcdcnoakdpl,3.9,2,['desktopCapture'],nan,nan,nan,nan
+adhhkagbapeeceanomgljdojjmblfiap,0.0.6,2,['desktopCapture'],nan,nan,nan,nan
+bjmcnfbmmemcjofkiknnglmedmdiobni,0.0.0.1,3,nan,nan,nan,nan,nan
+ppmfjkcdigijfbkldbckdpoflajbkoik,1.1,3,"['activeTab', 'storage', 'scripting', 'tabs']",nan,nan,nan,nan
+kchahkijanbmkjleblhembejfekniplg,1.0.1,3,"['contextMenus', 'storage']",nan,nan,nan,nan
+feiijiijjpljekgjbnmbiabkhglmckak,1.0,3,"['contextMenus', 'storage']",nan,nan,nan,nan
+cnjjalmdibgigekgnbdacckddhacmpio,1.0,3,"['tabs', 'tabGroups']",nan,nan,nan,nan
+blpeoijckcgnghajnkgdolcbgejkkcob,1.0.0.2,3,"['storage', 'webNavigation', 'scripting', 'tabs']",nan,nan,"['http://*/', 'https://*/', 'file://*/']",nan
+blicfbobbgpbaiohebjkjjchfefpklpj,1.4.2,3,nan,nan,nan,nan,nan
+bioebeambihmdpnekjaeepgpdofgodjd,1.0,3,"['storage', 'notifications', 'alarms']",nan,nan,nan,nan
+bfmolcmdjehoohmdcggdijkemlegnela,1.0,3,nan,nan,nan,"['*://*.firebaseio.com/*', '*://*.googleapis.com/*']",nan
+bgaglhokkjjepomgknbdjkccbpbmokkk,1.0.0,3,"['activeTab', 'scripting']",nan,nan,['https://cyberlearn.hes-so.ch/*'],nan
+fcgailjpnfkkfncdpiemahmniolbdjcd,4.0,2,['tabs'],nan,nan,nan,nan
+lmmioleenacoalnjphdphkfemckpnmpf,1.0,2,['geolocation'],nan,nan,nan,nan
+ehiijfmdkgekgbphabonkkihiibnichi,3.2,3,nan,nan,nan,nan,nan
+ljfliehnflhpkclbblfjnbgigeenohlh,1.0.5,3,"['storage', 'declarativeNetRequest']",nan,nan,"['http://*/*', 'https://*/*']",nan
+mddhbpfeceepnddgmikfiijhohdhkidk,1.1.9.4,3,"['storage', 'background', 'identity', 'identity.email', 'tabs', 'declarativeNetRequest', 'scripting']",nan,nan,"['https://data.similarweb.com/', 'https://www.similarweb.com/', 'https://*.similarweb.com/', '*://*.facebook.com/*', 'https://*/']",nan
+dgjkaceacbcmejinnkjgcmhfpjjackfl,3.3,3,"['cookies', 'storage']",nan,nan,['<all_urls>'],nan
+cpekabdeobhejggemedbfkahjafpfbic,1.0,3,"['storage', '<all_urls>']",nan,nan,['https://saveit.be/'],nan
+bdpbgfaoocdjolgbgjmpphgolanldnfo,1.0,2,"['http://*/*', 'https://*/*', 'webRequest', 'webRequestBlocking']",nan,nan,nan,nan
+ndenccjjeadjghjpaldafmoofeljjadn,1.1,3,"['storage', 'background', 'contextMenus', 'scripting']",nan,nan,['*://*/*'],nan
+ccicllkpedpkilncdaololajfojgaodg,1.1.0,2,['activeTab'],nan,nan,nan,nan
+bepbabbclibeaacebjkjeamehfnngedf,0.2.0,3,nan,nan,nan,"['http://localhost:3000/*', 'https://github.com/*', 'https://demo.lancer.so/*', 'https://*.vercel.app/*']",nan
+cdjigkmhgbnbmopnppjemjahfcnafohf,0.1.0,3,[],nan,nan,nan,nan
+cefehfbnpbpenjgeloodlhfmgdcpfdcb,1.2,2,"['activeTab', 'storage', 'tabs', '<all_urls>', 'https://ajax.googleapis.com/']",nan,nan,nan,nan
+ccjmedocpepiinlhpohdamidgddpcdpd,0.0.6,2,"['activeTab', 'storage', '*://*/*']",nan,nan,nan,nan
+cdahcagjjojodaiepeejnifnpbnmkepo,1.0,2,[],nan,nan,nan,nan
+cckmnfgnmggdknhgnjnfhdcfcbhcoadl,3.0,2,['activeTab'],nan,nan,nan,nan
+jchbidakaemcgeapildflgmicgbhoegb,1.0.0,3,"['storage', 'alarms', 'notifications', 'tabs']",nan,nan,nan,nan
+pbkfnlicdiidmdpnfgbdclbdjnldaegd,1.04,2,['desktopCapture'],nan,nan,nan,nan
+mipjnnopohodpkodabphhjhgmjgdoiim,1.0.2,3,[],nan,nan,['https://sergik666.net/'],nan
+kemlakfjdccaejfgcdpbkdpgmdcldknh,4.2,3,nan,nan,nan,nan,nan
+eppedlbobmdflmhleafebmahnbphgipb,1.5.4,3,"['activeTab', 'tabs', 'storage', 'sidePanel', 'tts', 'webRequest']",nan,nan,['<all_urls>'],nan
+enboggfaknddfnohoekbibhcidadficg,0.0.18,3,"['storage', 'declarativeNetRequest']",nan,nan,"['http://*/*', 'https://*/*']",nan
+efjpeicagianogimhkaoncnhghapfkpn,0.1.2,3,"['tabs', 'webRequest', 'declarativeNetRequest', 'storage', 'webNavigation']",nan,nan,"['http://*/*', 'https://*/*']",nan
+hcecmmhbjjkelmnmbkbmofoadahndjnl,1.0,3,"['storage', 'scripting', 'declarativeNetRequest', 'tabs', 'unlimitedStorage']",nan,nan,['<all_urls>'],nan
+cmdoaemdhofaocicofbpaccibodhnolk,1.3,2,"['tabs', 'https://www.linkedin.com/*', 'https://www.egot.io/*', 'storage']",nan,nan,nan,nan
+ogdbdhjmpjfglnmlnbkaejfbcgkcknkf,1.0,3,nan,nan,nan,['*://*/*'],nan
+jgoodloccokekgkfelfbibbcfmabablf,5.0.0,3,"['storage', 'cookies', 'identity', 'identity.email']",nan,nan,['*://*.betimeful.com/*'],nan
+pbmbffbhmdoadnlmljcljbjahpgdpdoh,1,3,['storage'],nan,nan,nan,nan
+eilaefgoppgejibbmiapgmmhkmkbafgf,1,3,['webNavigation'],nan,nan,['https://*.youtube.com/*'],nan
+mchcdimcekppagkebjnmhnglphjimfnl,1.0.5,3,"['tabs', 'storage']",nan,nan,['*://web.whatsapp.com/*'],nan
+copdjcgkhmclllognmgnbcgcomhaigkc,1.0,3,"['webRequest', 'webNavigation', 'storage']",nan,nan,"['http://*/*', 'https://*/*']",nan
+acnnddblpbagepeocgaachdfeabgjdjk,1.0,2,nan,nan,nan,nan,nan
+gdbemkgekehdpgnkomehecioeiclojbd,2.0.0,3,"['storage', 'tabs']",nan,nan,nan,nan
+achllhiceefcgjejpfflbpmogopkjdkm,1.0.4,3,"['tabs', 'scripting']",nan,nan,['<all_urls>'],nan
+fepggeehdbehhfhnodgggdnakfoncdfi,0.1,3,"['activeTab', 'contextMenus', 'storage', 'tabs', 'scripting']",nan,nan,nan,"['https://*/*', 'http://*/*']"
+beknoecfahandelcohibdnaadbffmppo,1.0,3,nan,nan,nan,nan,nan
+bednjkkefpjkihmnhjokihjjcodjkdfm,1.2.3,3,[],nan,nan,nan,nan
+beggaogmhdbhbjghlbbnccjmdcljipik,1.0.0,2,"['bookmarks', 'history', 'storage', 'alarms', 'notifications', 'https://news.google.com/*', 'https://suggestqueries.google.com/*', 'https://www.metaweather.com/*', 'https://api.superaddon.com/*']",nan,nan,nan,nan
+bdjofogmjjkgnhpcflkipjcnnlbmjlkn,1.7,2,"['tabs', 'identity', 'https://www.googleapis.com/', 'activeTab']",nan,nan,nan,nan
+bdinecehiblkdalakejbkhgjbifgcgoa,1.3,2,"['webRequest', 'storage', 'activeTab', '<all_urls>', 'http://*/', 'https://*/']",nan,nan,nan,nan
+bdimojlkombjcnnfiadfcflcnamaiemj,1.0,2,['activeTab'],nan,nan,nan,nan
+bchkhkojefochglgmgdmailhdjmpledh,1.0,3,"['activeTab', 'webRequest', 'webNavigation', 'storage']",nan,nan,nan,nan
+bbnnnngoeagbndpgkkcmnmjfbcclkeno,1.0.0,3,nan,nan,nan,nan,nan
+bagaaifhoacemdjlgligfnmnfgenffcf,1.1,3,['storage'],nan,nan,nan,nan
+apppfekpbdhebfoifbbbkpllcdlehddh,1.3.0,3,"['storage', 'downloads']",nan,nan,nan,nan
+aojfpijlbennneohhbcbjjhplpngjkcc,1.3,3,['storage'],nan,nan,nan,nan
+apfcaoapdefikjndgggeljelppppfckj,0.0.1,3,nan,nan,nan,nan,nan
+aogongapjkeilfgddhbdcmoljnbpmeid,1.0,2,"['tabs', '<all_urls>']",nan,nan,nan,nan
+aodamcbjoakjlpalnabjklmdmdnjmape,1.0,3,"['contextMenus', 'storage', 'downloads', 'activeTab', 'tabs']",nan,nan,nan,nan
+aoadabfhakaheclcjciimnccfnolmmli,1.0,3,"['tabs', 'activeTab']",nan,nan,nan,nan
+anomndcmkfcikiogiabbacfeompolpci,0.0.1,3,"['identity', 'storage']",nan,nan,['*://*.fortnox.se/app/*'],nan
+aofhlbjmmnccibomhipflapmjpegifpn,1.0.1,3,"['contextMenus', 'tabs', 'storage']",nan,nan,nan,nan
+anndempcfmcngdlkjjaaenfmikojffdp,2.4.5,3,[],nan,nan,nan,nan
+amleaihlkllljghbibpchilboidikdka,0.0.2,2,"['bookmarks', 'notifications', 'https://www.baidu.com/', 'https://*.google.com/', 'https://*.google.com.hk/']",nan,nan,nan,nan
+angineclpfgfaaggdhkeojohhnomdjmd,1.1,3,"['activeTab', 'contextMenus']",nan,nan,nan,nan
+amkphblmhbcabajmbhpkhkbnfhieeklp,2.4.9,3,[],nan,nan,nan,nan
+amifogigllnaheopoaepffkcdbkojoka,0.0.1,2,nan,nan,nan,nan,nan
+amhnglphepkpmjhlfcpmohkjbaidlpko,1.2,3,"['storage', 'tabs', 'activeTab']",nan,nan,"['http://jlbyminiapp.zhonganonline.top/api/*', 'https://darenim.jinritemai.com/*', 'https://*/*']",nan
+amfblgikhenbcojadbmjpmmogjdjfcfb,1.0,3,nan,nan,nan,nan,nan
+amhnigdjadnacmhojekdnijbehpdngff,1.0.5,3,nan,nan,nan,nan,nan
+ameigjbbhdhhfhnmembihpcdceibacmj,0.0.1,3,"['contextMenus', 'activeTab']",nan,nan,"['https://www.repod.app/*', 'https://repod.app/*', 'https://repod.app/*', 'https://hey-listen-398521.firebaseapp.com/*', 'https://hey-listen-398521.web.app/*', 'https://heylisten.ai/*']",nan
+akfgadkfcgljkdnmpbaidjpmpiangjbj,1.12,2,"['notifications', 'activeTab', 'tabs']",nan,nan,nan,nan
+akeaapiinackllednembijknjmjcefpg,1.0.2,3,['storage'],nan,nan,nan,nan
+akfebjdmmkimolepakjnpflhhkdedbcd,1.0,3,"['activeTab', 'scripting', 'storage', 'tabs', 'unlimitedStorage']",nan,nan,nan,nan
+ajlckcimpdbfodebaggoomihdalbekbb,1.0.1,3,['storage'],nan,nan,nan,nan
+aiofdhjednbbfajbcpmgbblpljncfnkh,0.1,3,"['activeTab', 'scripting', 'downloads']",nan,nan,['https://courses.upenn.edu/*'],nan
+ajkjkdodgphjikjabkpioclobfodanmc,1.0,3,['storage'],nan,nan,nan,nan
+aidbnddnbmnfnhniclancmehgbogjdln,0.0.1,2,nan,nan,nan,nan,nan
+ahmjeglifjccgafkgbdpablaadafjfnh,1.0.0,3,nan,nan,nan,nan,nan
+aieildjmegmpjinhldcikfpdbocolbkl,1.2.0,3,nan,nan,nan,nan,nan
+ahecikafckglofplimfifbelljogmmbb,1.0,3,"['storage', 'activeTab', 'scripting', 'tabs', 'system.display']",nan,nan,"['https://app.oldlantern.dev/*', 'https://staging.oldlantern.dev/*', 'https://v3-development.oldlantern.dev/*', 'https://development.oldlantern.dev/*', 'https://app.newlantern.ai/*', 'https://mrl.newlantern.ai/*', 'http://localhost:3000/*']",nan
+aggemgbnhianeljdghbebfgnknnillki,2.4,3,['history'],nan,nan,nan,nan
+afplmjnnfklilgpooepodcdhgahdkcpd,1.0,3,nan,nan,nan,nan,nan
+agbkdpghihaobfldkoagkdcbblbajaff,0.2,3,"['activeTab', 'cookies']",nan,nan,"['*://bnbot.co/*', '*://*.airbnb.com/', '*://*.airbnb.cz/', '*://*.airbnb.hn/', '*://*.airbnb.py/', '*://*.airbnb.hu/', '*://*.airbnb.gt/', '*://*.airbnb.co.ve/', '*://*.airbnb.mx/', '*://*.airbnb.sv/', '*://*.airbnb.lt/', '*://*.airbnb.mt/', '*://*.airbnb.dk/', '*://*.airbnb.bo/', '*://*.airbnb.me/', '*://*.airbnb.cat/', '*://*.airbnb.my/', '*://*.airbnb.rs/', '*://*.airbnb.se/', '*://*.airbnb.it/', '*://*.airbnb.ee/', '*://*.airbnb.co.in/', '*://*.airbnb.pe/', '*://*.airbnb.am/', '*://*.airbnb.es/', '*://*.airbnb.at/', '*://*.airbnb.gy/', '*://*.airbnb.sg/', '*://*.airbnb.co.cr/', '*://*.airbnb.ph/', '*://*.airbnb.hk/', '*://*.airbnb.co/', '*://*.airbnb.si/', '*://*.airbnb.co.id/', '*://*.airbnb.cl/', '*://*.airbnb.ru/', '*://*.airbnb.nl/', '*://*.airbnb.jp/', '*://*.airbnb.ba/', '*://*.airbnb.ni/', '*://*.airbnb.tr/', '*://*.airbnb.co.za/', '*://*.airbnb.cn/', '*://*.airbnb.ro/', '*://*.airbnb.au/', '*://*.airbnb.ca/', '*://*.airbnb.fr/', '*://*.airbnb.bz/', '*://*.airbnb.no/', '*://*.airbnb.vn/', '*://*.airbnb.fi/', '*://*.airbnb.ar/', '*://*.airbnb.pl/', '*://*.airbnb.co.nz/', '*://*.airbnb.de/', '*://*.airbnb.be/', '*://*.airbnb.ec/', '*://*.airbnb.ie/', '*://*.airbnb.is/', '*://*.airbnb.gr/', '*://*.airbnb.tw/', '*://*.airbnb.az/', '*://*.airbnb.ch/', '*://*.airbnb.pt/', '*://*.airbnb.br/', '*://*.airbnb.lv/', '*://*.airbnb.pa/', '*://*.airbnb.ua/', '*://*.airbnb.co.kr/', '*://*.airbnb.ae/']",nan
+afodfmphlbddelhbfafnhkbmhmpkiljn,1.0,3,['webNavigation'],nan,nan,"['http://*/*', 'https://*/*']",nan
+agfndkifenolenjbpnbpklgladhjkgga,0.1,3,['activeTab'],nan,nan,nan,nan
+afnlfhpdjbhmbijpnikaioijajmokklc,1.0.0,3,"['activeTab', 'scripting']",nan,nan,nan,nan
+afmndkijjhdafhkmlihmofnadiakgfhh,1.0.0,3,['storage'],nan,nan,nan,nan
+afiomadkjmmfgknhgkpbmbdffjippidf,1.0,3,"['webRequest', 'webNavigation', 'storage']",nan,nan,"['http://*/*', 'https://*/*']",nan
+aenibkimigleofgfjbpeecddlcffellg,1.0.0,2,nan,nan,nan,nan,nan
+afagfcbgdobhoflciclhjheaflhjmpbg,1.0.0,2,nan,nan,nan,nan,nan
+aemgpfhghkaafplfcdgjlilmdjokffao,0.1.0,3,['tabs'],nan,nan,nan,nan
+aeljpndigjlgcpgfghfabcghnfeningk,1.0,3,"['activeTab', 'storage']",nan,nan,nan,nan
+aefifalfgckgjimmklnnoclncphgmcmp,1.2,3,[],nan,nan,nan,nan
+jgioibjoooknicfhmknejkmbkilnpboh,2017.3.21.0,2,"['tabs', 'storage', 'http://*/*', 'https://*/*']",nan,nan,nan,nan
+ibocgdgnkbabcgfhianjfjgekagcdjjj,2.7.7,3,"['tabs', 'alarms']",nan,nan,['https://mbasic.facebook.com/*'],nan
+emmhnbdijonimplloocaihdbhbaaoefm,0.1.76,2,"['<all_urls>', 'storage', 'gcm', 'cookies', 'webRequest', 'webRequestBlocking']",nan,nan,nan,nan
+bjfbpgiigemimbadifkhkfcnadedgdlm,0.1.41,2,"['http://*/*', 'https://*/*', 'webRequest', 'webRequestBlocking', 'storage', 'gcm', 'cookies']",nan,nan,nan,nan
+hnoflbopfnoomalnonacdcdjfkfblpdc,1.0.0.13,3,"['storage', 'background', 'alarms', 'notifications', 'downloads', 'scripting']",nan,nan,"['*://*.linkedin.com/*', '*://*.gstatic.com/*', '*://*.mosttrusted.net/*', '*://mosttrusted.net/*', '*://static-exp2.licdn.com/*', '*://*.linkedlimits.com/*']",nan
+bdiomfecjcamabgblcklibojgacakoac,3.0.1,2,nan,nan,nan,nan,nan
+ckdigppiffmfkmohahfdbekeicgdihff,0.0.3,2,nan,nan,nan,nan,nan
+nakplnnackehceedgkgkokbgbmfghain,0.10.0,3,"['identity', 'identity.email', 'unlimitedStorage', 'activeTab', 'storage', 'scripting', 'cookies']",nan,nan,"['http://*/*', 'https://*/*']",nan
+adadflhdbnnhnklfoikobkkeegmgolkm,0.2,2,nan,nan,nan,nan,nan
+aaccjolckklhjaplpnpnkdaeljnljnbc,1.1,2,"['tabs', 'http://*/*', 'https://*/*']",nan,nan,nan,nan
+bmkjnoemhomblpfenajdmdbaogabhhhh,1.0,2,nan,nan,nan,nan,nan
+blgpgngfaphbcojklfepnmbojmnhlnii,1.1.1,3,"['storage', 'tabs']",nan,nan,nan,nan
+bmlpilhfekckdbjigkmcjmjljnipfeal,0.1,2,nan,nan,nan,nan,nan
+ldhdipkofibjleihomflebfklhadikio,1.0.1.3,3,"['storage', 'activeTab']",nan,nan,nan,nan
+pfnjpkfgphlijjladdppnaimeleoghik,1.1,3,"['activeTab', 'storage']",nan,nan,nan,nan
+phgjmidgndklmlochbbebcehfgniebef,1.0.0,3,"['activeTab', 'cookies']",nan,nan,['https://www.lexlink.app/*'],nan
+olpcbkhhkfohgcgcjpgdgocmcloimcpl,0.5,3,nan,nan,nan,nan,nan
+nojoocdiaaejoedhoanhmpaffenfdglk,2.0,3,"['tabCapture', 'offscreen', 'activeTab', 'storage']",nan,nan,"['https://enalpy.com/*', '*://*/*']",nan
+ohihiblmolfifcpdaecacmbhopfognbm,1.0,3,nan,nan,nan,nan,nan
+nofgjcanfogpanpccfhhjcakiehobgkm,1.0,3,nan,nan,nan,"['https://www.parkrun.us/', 'https://www.parkrun.com.au/', 'https://www.parkrun.co.za/', 'https://www.parkrun.ca/', 'https://www.parkrun.org.uk/', 'https://www.parkrun.sg/', 'https://www.parkrun.co.nz/', 'https://www.parkrun.my/', 'https://www.parkrun.ie/']",nan
+pkdclhjgddilmjlikjmkkcoohkkldabl,1.0.0,3,"['activeTab', 'scripting']",nan,nan,nan,nan
+egegjapkghdfkagfjieppocipdlpadgi,1.0.0,2,"['https://www.allmusic.com/recommendations', 'https://allmusic.com/recommendations']",nan,nan,nan,nan
+efkahgdeflaomkbphlioiofanlcknncl,1.5.9,3,[],nan,nan,nan,nan
+edihihhndfhdpakbbjfobagacekhoaed,1.2,3,nan,nan,nan,nan,nan
+eeclhabhmgmnhfpnnceoahedhbomojml,1.0.0,2,['activeTab'],nan,nan,nan,nan
+iofckehgocacfnpfgbcgpmgblkccjpnk,1.5.0,2,"['windows', 'tabs', 'activeTab', 'bookmarks', '<all_urls>']",nan,nan,nan,nan
+cbldcemeekedfhjdihnmaoeegomkgkpj,1.0.4,3,['storage'],nan,nan,nan,nan
+gmgfogccgeeimapbcgilfipbfenafbkp,1.1,2,"['cookies', 'contextMenus', 'storage', 'declarativeContent', 'activeTab', 'tabs', 'https://duckduckgo.com/*']",nan,nan,nan,nan
+ipoponhlhjpkbkiieflcjjfeofgicdeg,2.0.8,3,"['alarms', 'activeTab', 'debugger', 'cookies', 'tabs', 'notifications', 'scripting', 'storage', 'unlimitedStorage']",nan,nan,"['*://*.upwork.com/*', '*://*.lienlau.com/*', '*://localhost/*']",nan
+dnillggbeohcpaliakimffmbehonbbae,0.0.6,3,['contextMenus'],nan,nan,nan,nan
+chccfgmapdabjafpkeamdpnecbggljgp,1.0.1,3,"['storage', 'declarativeNetRequest']",nan,nan,['*://*.facebook.com/*'],nan
+ngnhddiplebeagjihbjopdndceopoadi,1.2.5,3,"['tabs', 'storage']",nan,nan,nan,nan
+aegnpopobnnnhhhogiekcldbhnogmpfj,1.0.0.1,2,"['tabs', 'activeTab', 'storage', 'unlimitedStorage', 'notifications', 'management', 'http://*/', 'https://*/']",nan,nan,nan,nan
+aefddebceogfhbkhimelahhjjopbocbc,1.0,2,"['tabs', 'https://*.myworkday.com/*']",nan,nan,nan,nan
+aeefjmgkhkojbfeeamcmefbmjplhkaik,1.1,2,"['activeTab', 'bookmarks']",nan,nan,nan,nan
+aeeceippnodbklgciocaeampbhmheoan,1.0.0,3,"['identity', 'identity.email', 'storage']",nan,nan,nan,nan
+aeebcpcmmalnaaddhbahbjepgoehlbla,1.1,2,"['identity', 'storage']",nan,nan,nan,nan
+aeeaainkipbljndpimgdefnhgligegbd,0.0.3,2,"['activeTab', 'tabs', 'background', 'bookmarks', 'alarms', 'notifications', 'contextMenus']",nan,nan,nan,nan
+aecmecanklokklnhelhjepnpennccggp,22.03.22.001,3,"['storage', 'contextMenus']",nan,nan,['<all_urls>'],nan
+aecmcbfblpkahiifioikdnncmhpcipeb,1.0,3,nan,nan,nan,nan,nan
+aecgboihppnpemcjjmfkdnpppmkdennl,0.0.2,3,[],nan,nan,nan,nan
+adpdhlgklbcnpipbnagfanjjebbjdlcp,0.0.0.2,3,"['tabs', 'activeTab', 'scripting']",nan,nan,"['http://*/*', 'https://*/*']",nan
+hlkfcgicfhdclebhcenackakckajfdnc,1.4.2,3,['storage'],nan,nan,['https://*/*'],nan
+bfclghnbclmfihjaifioodddbikkmlpn,5,3,nan,nan,nan,nan,nan
+ddlockbcnhildoedaganpbapdebcciak,48,3,nan,nan,nan,nan,nan
+pjddlmbdfebidgjdhoejjbnilaggfegf,2,3,nan,nan,nan,nan,nan
+ggfghoipflhhcfkhdijodihkflfjedmb,1.1,3,nan,nan,nan,nan,nan
+glbnnjlnjnaamjldpbnopekegpcdgfip,2,3,nan,nan,nan,nan,nan
+ndphjkmdgdfjlgliiehkgojdmjfjhfae,2.6,3,"['alarms', 'storage']",nan,nan,['https://*/*'],nan
+lnpnddjfmahpcahlngckmiondmnekipf,1.6,3,"['tabs', 'storage', 'scripting', 'webNavigation']",nan,nan,['*://*.duelingnexus.com/'],nan
+bcannoocpggflfonhdhppljoagoabiia,1.1.1,3,[],nan,nan,['*://mtg-name2image-qycdsgzuoa-uc.a.run.app/image'],nan
+pmnmmeeelcndgpihhibpolpkfpioalec,1.1.2,3,['storage'],nan,nan,nan,nan
+nhgiijajmfdeochdijmdiapcfbjnnbgj,0.1,3,nan,nan,nan,nan,nan
+jbfimaaimbecgalmlnmokckdichjhpcb,0.1.1,3,nan,nan,nan,nan,nan
+ghhbhiammmobfbabeaonnlempjajipej,1.2.1,3,nan,nan,nan,"['https://tildes.net/*', 'https://tildes.nore.gg/standalone/MySQL_update.php']",nan
+gdnapjohimpobgafdiildnjagacplmhc,1.0,3,nan,nan,nan,nan,nan
+emibnmokfjkjfjibemdnmnmbkdekgmdo,1.1.1,3,nan,nan,nan,nan,nan
+lejeienjknhfoipcfjmbjpleomgchphk,1.5,3,nan,nan,nan,nan,nan
+pdemcchanejbcmjpdfpfcllnflhkkogb,1.0.2,3,"['storage', 'scripting', 'activeTab']",[],nan,"['https://twitter.com/*', 'https://opcybermartians.xyz/api/*']",nan
+eekglideadmejhmgflhjpgbfghlbancm,1.6.1,3,nan,nan,nan,nan,nan
+plhbikhfgkkommnghjaihagamgophofm,2.6.2,3,['storage'],nan,nan,"['*://os.ongapo.com/*', '*://*.online-soccer.eu/*', '*://*.os-zeitungen.com/*']",nan
+efjklppjijhfhabjibmdiahhbolpffhi,1.2.0,3,"['scripting', 'webRequest', 'browsingData', 'declarativeNetRequest']",nan,nan,['https://hyruleguessr.com/*'],nan
+pdgeppjhekdoikbonkelonbioncoaefl,0.2,3,nan,nan,nan,"['https://*.klanlar.org/*', 'http://*.klanlar.org/*']",nan
+omhnoblafhjmgnoacganpioipnldaepm,2.5,3,nan,nan,nan,nan,nan
+kbflamnakpkmbppokebpbnnflndjkchb,1.0,3,[],nan,nan,nan,nan
+hhhjcpniklpplaohiebgbfpkedkkghal,1.0.0,3,nan,nan,nan,nan,nan
+fipehdlifhdbfjebcohdkjbfdldpagpk,1.0.9,3,nan,nan,nan,nan,nan
+dlfmlcjcnikgegjapiancldnfioejaok,1.0,3,nan,nan,nan,nan,nan
+bhdhfmdacficfckkdjbfenlocbpfagjh,1.0.0,3,nan,nan,nan,nan,nan
+jibkegamgdjcakcgidjedlihglgpfhca,1.02,3,['storage'],nan,nan,['https://tinder.com/app/recs/*'],nan
+cbnldploflpmmkmcbhipaoojkdmillkm,0.0.1,3,['storage'],nan,nan,['*://*/*'],nan
+ciddoaboaagjonbcokejnkdenieknpon,1.0.2,3,"['storage', 'scripting', 'activeTab']",[],nan,"['https://twitter.com/*', 'https://www.cybermartians.xyz/api/*']",nan
+bilfhkbebacnfgjmphdiefdijbnljgfc,1.0,3,['storage'],nan,nan,nan,nan
+oinaojjpoodlhjeidcbodkebgaccenef,1.0.0.3,3,"['storage', 'notifications']",nan,nan,"['*://brkcdn.com/*', 'https://*.multi-brick.com/*', 'https://*.brick-hill.com/*']",nan
+mmpiinmniiljhkhdphlbgdchiibmdbjl,1.0,3,['tabs'],nan,nan,['https://www.geoguessr.com/*'],nan
+jeidbjmmapdnnabckapgagcnfaimibcg,1.1.0,3,nan,nan,nan,nan,nan
+faicljffelkejmfenemglpajdogggpmi,1.0.0,3,nan,nan,nan,nan,nan
+kpfkahmemaklmiealeiohgbmkmppmiij,0.4,3,['storage'],nan,nan,nan,nan
+hmpekchefpldhhhmphmbejncopdelfmj,1.2.0,3,nan,nan,nan,nan,nan
+fhelmohjckcjalojgbhdmeicnddldkcj,1.0.0,3,['storage'],nan,nan,nan,nan
+eehioifimidcjcdlaehajhdeaekmmdne,1.2,3,nan,nan,nan,nan,nan
+cfangbjieglocpgfdnkcmngachefkgoo,0.0.1,3,nan,nan,nan,nan,nan
+blaepenjnaaccnkgmoidhohhbhjkfjcd,1.0,3,"['activeTab', 'tabs']",nan,nan,['https://game.mahjongsoul.com/*'],nan
+peckdagaipkndmdainakjgncbkhigafp,1.1,3,['storage'],nan,nan,nan,nan
+afhliekobdpikegigkiihhoggiajijpf,2.1,3,"['storage', 'tabs']",nan,nan,['https://www.futbin.com/*'],nan
+omokikiebdnogeoadmbcmcafghhnbcdh,1.0,3,"['activeTab', 'tabs', 'scripting']",nan,nan,['https://www.neopets.com/pirates/foodclub.phtml?type=bet'],nan
+gomcfggcbkmmocgccdaedgceikmdopme,1.0.0,3,nan,nan,nan,nan,nan
+obclodgcgnmhfdglbjcfpdlhciogephp,0.1,3,nan,nan,nan,nan,nan
+mjajaldemipmgncdjmijdohbnaelfiif,1.0.0,3,[],nan,nan,"['https://act.hoyolab.com/*', 'https://genshinguide-318.web.app/*']",nan
+kobbmdfjlomakecdpepifkmoanncaljg,0.0.4,3,"['storage', 'notifications']",nan,nan,nan,nan
+foalfafgmnglcgpgkhhmcfhjgmdcjide,0.0.6,3,"['contextMenus', 'downloads', 'notifications', 'storage']",nan,nan,nan,nan
+aniediolhfealofabedchhjooggkdimo,0.2.3,3,['storage'],nan,nan,nan,nan
+cjfeaoommajmcampidndldmoglblleio,1.0,3,['webRequest'],nan,nan,['*://fr8.forgeofempires.com/*'],nan
+dkakhcolknbegekaphiccomhjdglapll,1.0.0,3,nan,nan,nan,nan,nan
+bbhfkncckckbhkcekinoaohffekkceoh,1.1,3,nan,nan,nan,nan,nan
+dpkmmnkggjgfpoahimlkjokdiblbimhf,1.0.1,3,nan,nan,nan,nan,nan
+bcgmpankckajlaahcocnggeimgmchkkl,0.0.1,2,nan,nan,nan,nan,nan
+chggdilgcniafbdadilfmpjeclelnepk,1.0,3,nan,nan,nan,nan,nan
+afhkkcoonemllojedhmanfogkmkimjga,2.052,3,nan,nan,nan,nan,nan
+paagnieingpogjidpjhghhggkklappld,0.0.0.1,3,"['tabs', 'storage', 'unlimitedStorage']",nan,nan,nan,nan
+pejafobcmohmbaohiaiohcddnpdbfhjp,1.0,3,nan,nan,nan,nan,nan
+neahbepfhfnahkbdphfmiacnnoiaedld,1.0.1,3,nan,nan,nan,nan,nan
+olhlbckekdlekoaifaoboooalbeboefj,1.0,3,[],nan,nan,nan,nan
+knphmmknpljkidmoglonpgdokoibniad,1.0.0,3,nan,nan,nan,nan,nan
+hkijlmfajnlmeibekmjpjjhplihmginc,1.0.0,3,nan,nan,nan,nan,nan
+gaeaemngkcefpgclmeahblimodeonnib,1.1.0,3,"['activeTab', 'sidePanel', 'scripting']",nan,nan,['https://chat.openai.com/*'],nan
+fjdbmpkocgokiddegpillpgpodlfgbbe,1.1.0,3,nan,nan,nan,nan,nan
+edjhecajomdllkeoplilmpopjjmodkki,0.9.1,3,"['activeTab', 'scripting', 'storage']",nan,nan,nan,nan
+eblnnmemplhhkocfjpnmbcockfofnmio,1.0.8,3,nan,nan,nan,nan,nan
+dnhgloffllkdjgeodachmeejcoaeighm,1.0.1,3,['storage'],nan,nan,nan,nan
+okmlidhgkobobamnmoejebngemonmhek,1.0.0,3,nan,nan,nan,nan,nan
+dachjbadbciiihdjnndaagehagolbdmf,0.0.1,3,nan,nan,nan,nan,nan
+dgomffnkmhjahinipadbmkheahfjpodn,1.0,3,['storage'],nan,nan,nan,nan
+ojpilknkckmmdlgepkjilhfmobimlhpk,1.0.0,3,nan,nan,nan,nan,nan
+mhhagegihlkokkphhliapnlbemhcbobm,1.0.0,3,nan,nan,nan,nan,nan
+maomigaimpcmncjenjangipchhinjjnm,3,3,nan,nan,nan,nan,nan
+lognbnciemmnjcgcgbpfniajnkddhoel,1.0.0,3,nan,nan,nan,nan,nan
+kackikpmidpcjgikkbheojmmgjmepldg,1.2,3,"['activeTab', 'storage', 'commands', 'sidePanel', 'tabs']",nan,nan,['<all_urls>'],nan
+jkbmgmknmajfmohjkdplckdlgmohliid,0.0.3,3,['storage'],nan,nan,['https://bigdeck.pics/*'],nan
+jnoihbhinehnnacdkkenplhhjmbljbbd,1.0.0,3,['activeTab'],nan,nan,nan,nan
+likpnpkjcobhhnngegpohcebgaolfikm,1.0.0,3,['activeTab'],nan,nan,nan,nan
+iihmocijedaafjbmkeecoghaecogolna,1.0,3,"['tabs', 'scripting']",nan,nan,['https://www.faceit.com/*'],nan
+ggjkmanbhlpcddfbjggpfpcillhpbdge,1.0.0.1,3,"['storage', 'notifications']",nan,nan,"['*://brkcdn.com/*', 'https://*.multi-brick.com/*']",nan
+fiiedegfldblhchdjefmdbokgoamkkdf,1.0.0,3,nan,nan,nan,nan,nan
+fajbgfmfjjdlpbfjnpjelbljiphfncbi,1.0,3,nan,nan,nan,nan,nan
+dgjhkhcpmjkjkgkialebkianbmdaeioa,2.0,3,"['activeTab', 'storage']",nan,nan,nan,nan
+caepkkkphikaimcclhggcgaiamfnjbmc,2.2,3,nan,nan,nan,nan,nan
+cjojfmlpamlgaangepephhflfegjmkif,1.0.2,3,nan,nan,nan,nan,nan
+bhnjfgikjpakkaemfkjlhdhoihkdoggl,1.0,3,nan,nan,nan,nan,nan
+dlpkodbjeendhlpnmcgdhebbjclgphfi,1,3,['activeTab'],nan,nan,nan,nan
+phpgeedeebbkppiibkckpllpnoogopai,1.8.2,3,nan,nan,nan,nan,nan
+pgkbmcocjcmddjjpkahgkhcikffldhdd,1.0.0,3,nan,nan,nan,nan,nan
+penoldebdojmibcbpklgellbkgofgopi,0.0.9,3,nan,nan,nan,['https://*.pokemonshowdown.com/*'],nan
+nmilebhnlplgmohdfmgnjdfkbljcdmdo,3.1.7,3,[],nan,nan,nan,nan
+pgmmloimjpolhcjneailecnhpednnfld,1.0,3,[],nan,nan,nan,nan
+ngmiaapaneiifcbbjnndcekbioibgfcj,1.0.0,3,nan,nan,nan,nan,nan
+logflndckigpejbklolkijlmmdgfpiek,1.0.0,3,nan,nan,nan,nan,nan
+kedcjkkkabjjhbadhabaikbpcdodhopl,1.1.0,3,[],nan,nan,nan,nan
+lfinfcojoohfpoofkiljeechakoionpa,1.01,3,[],nan,nan,nan,nan
+kkfdfpjmojpjidgogcogbegjljlpjccg,0.1,3,"['activeTab', 'scripting']",nan,nan,nan,nan
+accobhpjgdalamjlbgclcedmmgellbie,0.0.1,3,"['identity', 'storage']",nan,nan,nan,nan
+ealjdfnlikmlaojihoapghfmmbajcblp,1.0.0,3,nan,nan,nan,nan,nan
+jagbaleailjjnifodmdodnedjfoeggde,1.5.1,3,nan,nan,nan,nan,nan
+jmknpincljfjkkljahbflgideobafdmo,1.0,3,"['activeTab', 'scripting', 'storage']",nan,nan,nan,nan
+fkolapbngadmcfanajioddpjlaglakem,1.0,3,"['declarativeContent', 'tabs']",nan,nan,nan,nan
+ceahbimlgdminbiopkbjielpcioplehh,1.3,3,['storage'],nan,nan,nan,nan
+akfjejocicidcfkkbpcbinmhhdccmdap,1.0.1,3,nan,nan,nan,nan,nan
+njecldccppjlcehebffjefkbfamnaclc,1.0.3,3,['storage'],nan,nan,['https://*/*'],nan
+pbgnmjknmoijpoldhhobboflfhfiiamk,1,3,nan,nan,nan,nan,nan
+nchodjnfddbacmccjfbcmbjmjmheedng,1,3,nan,nan,nan,nan,nan
+pnciecomhkkleefcadfbkpcmfemfcopd,0.0.1,2,nan,nan,nan,nan,nan
+pnanfladlaamcbbgdhkbjdpnoiplcpog,1.0.0,3,[],nan,nan,nan,nan
+pkhddgieohhjlinbhkkeelfdmbgpnoci,0.1.0,3,"['storage', 'tabs', 'webNavigation']",nan,nan,"['https://*.netflix.com/*', '*://*.gemz.top/*']",nan
+pjoipmhnfoldeehiaaacecfjbbjmmaop,1.0.1,2,"['tabs', 'http://*/*', 'https://*/*']",nan,nan,nan,nan
+ajpelgpbpnmabmblmkhibhebddjebpga,2.3,3,"['alarms', 'storage']",nan,nan,['https://*/*'],nan
+fibjlfhgmldbiidgcfoejodjodhphiep,2.0,3,"['alarms', 'storage', 'unlimitedStorage']",nan,nan,['*://*/*'],nan
+agkilneihpoaffkpafngaccacnhmkfbk,1.4.0,3,"['alarms', 'storage', 'unlimitedStorage']",nan,nan,['https://*/*'],nan
+nfniecjkbnbkidggjoljopnmjegpekfj,3,3,"['storage', 'alarms', 'unlimitedStorage']",nan,nan,['*://*/*'],nan
+obmdgenkomhlhknamgfijfcppndfdiba,1.0,3,"['alarms', 'storage', 'unlimitedStorage']",nan,nan,['https://*/*'],nan
+haaojbnfkagmhogkemenidnhhabdomfp,1.0,2,['activeTab'],nan,nan,nan,nan
+okcochicpplennfhicchfglmfceajalf,1.0.0,3,nan,nan,nan,nan,nan
+iecdjconmbcifkceaopliaiiednjeipk,1.1.1,3,nan,nan,nan,nan,nan
+cffpjhigfkpibagpnbpgngjclaiepfjl,1.0,3,[],nan,nan,nan,nan
+alhoppdlmngihhmcbckfgjngoamehogd,1.0.1,3,"['alarms', 'notifications', 'storage']",nan,nan,nan,nan
+bnfcponljligkhgljinnbnhkhiopkobc,0.2.0,3,['activeTab'],nan,nan,['https://mail.google.com/*'],nan
+hjngegmdemogeaoeicnbjhbifhimgedl,1.6.5,3,"['storage', 'tabs', 'scripting', 'clipboardWrite', 'clipboardRead', 'downloads']",nan,nan,"['*://*.facebook.com/*', '*://*.messenger.com/*']",nan
+fonmelihpfnmdnfefdcllejkbedobneb,1.0.1,3,"['proxy', 'webRequest', 'webRequestAuthProvider']",nan,nan,"['http://*/*', 'https://*/*']",nan
+fnobmoedmogehbcdcmjojaebjhegalce,1.1.0,3,"['storage', 'tabs']",nan,nan,"['http://*/*', 'https://*/*']",nan
+bcdcibldkolakecjalgfmnmceiakfilp,4.9.1.2,3,"['activeTab', 'storage', 'webRequest', 'favicon']",nan,nan,['<all_urls>'],nan
+eagmgpbjpedchliifpgfgogdknnmkaej,1.1.0,3,"['storage', 'tabs', 'nativeMessaging']",nan,nan,nan,nan
+ofhopjhbpahemcpiplapleiibhchoook,1.0.0,3,"['storage', 'tabs', 'scripting']",['cookies'],nan,nan,"['https://outlook.live.com/*', 'https://outlook.office.com/*', 'https://odysseytec.co.in/*']"
